@@ -3,6 +3,4 @@ url = "https://api.sleeper.app/v1/user/KyleWurster"
 pull = requests.get(url).json()
 print(pull)
 
-WursterKJ/dynasty/src/sleeper_api.py
-
 
