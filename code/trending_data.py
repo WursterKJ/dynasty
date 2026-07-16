@@ -11,14 +11,15 @@ def trending_refresh():
     trending_up_data = requests.get(trending_up_url).json()
     trending_down_data = requests.get(trending_down_url).json()
     # rename columns once df by rename columns and create new key pairs
-    trending_up_df = pd.DataFrame(trending_up_data).rename(columns={"count" : "adds"})
-    trending_down_df = pd.DataFrame(trending_down_data).rename(columns={"count" : "drops"})
-    trending_df = trending_up_df.join(trending_down_df, on="player_id", how="outer")
-    trending_df.to_csv("data/raw/trending.csv", index = False)
+    trending_up_raw_df = pd.DataFrame(trending_up_data).rename(columns={"count" : "adds"})
+    trending_down_raw_df = pd.DataFrame(trending_down_data).rename(columns={"count" : "drops"})
+    trending_up_df = trending_up_raw_df.astype({"player_id": str})
+    trending_down_df = trending_down_raw_df.astype({"player_id": str})
+    trending_df = trending_up_df.merge(trending_down_df, on="player_id", how="outer")
+        # trending_df.to_csv("data/raw/trending.csv", index = False)
     return trending_df
 
 # trending_up_df.to_csv("data/raw/trending_up.csv", index = False)
 # trending_down_df.to_csv("data/raw/trending_down.csv", index = False)
-#trending_df.to_csv("data/raw/trending.csv", index = False)
-trending_refresh()
+# trending_df.to_csv("data/raw/trending.csv", index = False)
 print("Successfully Pulled Player Data")
