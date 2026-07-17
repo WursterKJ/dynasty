@@ -415,7 +415,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 3634,Kalif Raymond,WR,CHI,14.0,Holy Cross,10.0,1994-08-08,31.0,69,160,3.0,,,692660.0,18422.0
 12018,Sam Pinckney,WR,,,Coastal Carolina,1.0,1999-10-25,25.0,76,220,,,,,
 5773,KhaDarel Hodge,WR,,4.0,Prairie View A&M,8.0,1995-01-03,31.0,74,210,,Questionable,Undisclosed,757521.0,20679.0
-11520,Lucky Jackson,WR,DET,11.0,Western Kentucky,3.0,1997-07-17,28.0,73,185,5.0,,,,24894.0
+11520,Lucky Jackson,WR,DET,11.0,Western Kentucky,3.0,1997-07-17,29.0,73,185,5.0,,,,24894.0
 2940,Des Lawrence,WR,,46.0,North Carolina,5.0,1994-11-30,27.0,73,185,,,,557416.0,17411.0
 4574,Cooper Rush,QB,,15.0,Central Michigan,9.0,1993-11-21,32.0,75,225,,,,694117.0,19461.0
 14047,Heinrich Haarberg,TE,,40.0,Nebraska,0.0,2003-03-15,23.0,76,237,,,,,28594.0
@@ -904,7 +904,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 3445,Marcus Johnson,WR,,84.0,Texas,7.0,1994-08-05,28.0,73,204,,,,691348.0,18209.0
 3178,Josh Doctson,WR,,0.0,TCU,6.0,1992-12-03,29.0,74,206,,,,592413.0,17939.0
 7378,Kyle Markway,TE,,47.0,South Carolina,2.0,1997-03-04,25.0,76,250,,,,,21770.0
-8253,Deven Thompkins,WR,BUF,38.0,Utah State,4.0,1999-12-23,26.0,68,155,,,,,23746.0
+8253,Deven Thompkins,WR,,38.0,Utah State,4.0,1999-12-23,26.0,68,155,,,,,23746.0
 11526,Malachi Carter,WR,,88.0,Georgia Tech,1.0,2000-03-15,23.0,74,191,,,,,
 7465,Nick Tiano,QB,,8.0,Chattanooga,2.0,1996-12-10,25.0,77,240,,,,,22440.0
 6421,Jalen Guyton,WR,,4.0,North Texas,5.0,1997-06-07,27.0,73,212,,,,884567.0,21448.0
@@ -1107,7 +1107,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6227,Nick Easley,WR,,86.0,Iowa,3.0,1997-01-14,24.0,71,205,,,,976405.0,21149.0
 8087,K.J. Costello,QB,,19.0,Mississippi State,1.0,1997-06-07,25.0,77,225,,,,,
 3052,Kendrick Ings,WR,,17.0,,11.0,1990-06-17,35.0,70,180,,,,867912.0,17767.0
-5903,Will Grier,QB,CAR,14.0,West Virginia,7.0,1995-04-03,31.0,73,220,3.0,,,820423.0,20779.0
+5903,Will Grier,QB,,14.0,West Virginia,7.0,1995-04-03,31.0,73,220,,NA,Undisclosed,820423.0,20779.0
 6945,Antonio Gibson,RB,,4.0,Memphis,6.0,1998-06-23,27.0,72,228,,Questionable,Knee - ACL,,21861.0
 954,Cam Newton,QB,,1.0,Auburn,11.0,1989-05-11,32.0,77,245,,,,380750.0,13320.0
 4704,Tyler Ferguson,QB,,5.0,Western Kentucky,5.0,1994-01-07,28.0,74,224,,,,728359.0,19610.0
@@ -1395,7 +1395,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12222,Joseph Scates,WR,,,Memphis,1.0,2000-02-19,24.0,74,205,,,,,
 606,Joe Webb,QB,,0.0,UAB,12.0,1986-11-14,35.0,76,230,,,,296439.0,11422.0
 13595,Cash Jones,RB,ATL,32.0,Georgia,0.0,2002-04-05,24.0,71,195,,,,,28149.0
-11299,Zavier Scott,RB,MIN,36.0,Maine,3.0,1999-07-17,26.0,73,221,4.0,,,,24595.0
+11299,Zavier Scott,RB,MIN,36.0,Maine,3.0,1999-07-17,27.0,73,221,4.0,,,,24595.0
 11901,Kyle Sheets,WR,,,Slippery Rock,1.0,2000-09-24,24.0,76,220,,,,,
 9221,Jahmyr Gibbs,RB,DET,0.0,Alabama,3.0,2002-03-20,24.0,69,202,1.0,,,,23200.0
 3486,Chris Brown,WR,,0.0,Notre Dame,6.0,1993-12-08,28.0,73,191,,,,697462.0,18251.0
@@ -1426,7 +1426,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12800,Oscar Cardenas,TE,,,UTSA,1.0,2001-07-25,24.0,76,260,,,,,
 12013,Jaden Shirden,RB,,,Monmouth,1.0,2002-05-02,22.0,69,195,,,,,
 13313,Emmanuel Henderson,WR,SEA,84.0,Kansas,0.0,2003-03-21,23.0,73,185,8.0,,,,26953.0
-7568,Brevin Jordan,TE,HOU,9.0,Miami (FL),5.0,2000-07-16,25.0,75,245,5.0,Questionable,Knee,,22506.0
+7568,Brevin Jordan,TE,HOU,9.0,Miami (FL),5.0,2000-07-16,26.0,75,245,5.0,Questionable,Knee,,22506.0
 13776,Hank Beatty,WR,TEN,13.0,Illinois,0.0,,,70,179,,,,,26803.0
 14041,Anderson Castle,RB,IND,42.0,Duke,0.0,,,72,221,,,,,28405.0
 2578,John Harris,WR,,18.0,Texas,10.0,,,74,218,,,,555845.0,17043.0
@@ -1850,7 +1850,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4621,Caleb Bluiett,TE,,85.0,Texas,5.0,1993-10-06,28.0,75,257,,,,691333.0,19513.0
 7075,Charlie Woerner,TE,ATL,89.0,Georgia,6.0,1997-10-16,28.0,77,250,3.0,,,,22119.0
 12502,Gunnar Helm,TE,TEN,84.0,Texas,1.0,2002-09-06,23.0,77,241,1.0,,,,25962.0
-7571,Rashod Bateman,WR,BAL,7.0,Minnesota,5.0,1999-11-29,26.0,73,193,2.0,Questionable,Personal,,22623.0
+7571,Rashod Bateman,WR,BAL,7.0,Minnesota,5.0,1999-11-29,26.0,73,193,2.0,,,,22623.0
 8783,Kendric Pryor,WR,CIN,19.0,Wisconsin,4.0,1998-01-06,28.0,71,189,6.0,,,,23996.0
 6728,Jackson Harris,TE,,0.0,Georgia,3.0,1997-02-28,24.0,77,250,,,,871366.0,21650.0
 4854,River Cracraft,WR,,88.0,Washington State,9.0,1994-11-01,31.0,72,198,,,,749681.0,19755.0
@@ -2409,7 +2409,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8707,Tayon Fleet-Davis,RB,,0.0,Maryland,1.0,,,72,213,,,,,
 4186,T.J. Logan,RB,,0.0,North Carolina,5.0,1994-09-03,27.0,71,195,,,,728165.0,19032.0
 14021,Kadarius Calloway,RB,TB,49.0,New Mexico State,0.0,,,72,213,,,,,28577.0
-4972,Mason Rudolph,QB,PIT,2.0,Oklahoma State,8.0,1995-07-17,30.0,77,235,2.0,,,823220.0,19850.0
+4972,Mason Rudolph,QB,PIT,2.0,Oklahoma State,8.0,1995-07-17,31.0,77,235,2.0,,,823220.0,19850.0
 12026,Kobe Lewis,RB,,,Florida Atlantic,1.0,2000-06-14,24.0,69,208,,,,,
 13153,Giles Jackson,WR,,,Washington,1.0,2001-12-11,24.0,69,187,,,,,
 11105,Shaquan Davis,WR,,82.0,South Carolina State,1.0,2000-02-08,24.0,77,215,,,,,

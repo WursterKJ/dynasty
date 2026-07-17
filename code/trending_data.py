@@ -22,4 +22,3 @@ def trending_refresh():
 # trending_up_df.to_csv("data/raw/trending_up.csv", index = False)
 # trending_down_df.to_csv("data/raw/trending_down.csv", index = False)
 # trending_df.to_csv("data/raw/trending.csv", index = False)
-print("Successfully Pulled Player Data")
