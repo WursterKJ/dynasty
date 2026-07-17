@@ -13,10 +13,10 @@ def rosters_refresh():
 
     # choose owner_id and inner list players to explode list into rows
     rosters_df_filtered_freedom = rosters_df_raw_freedom.filter(items = ["owner_id", "players"]).explode('players')
-    rosters_df_freedom = rosters_df_filtered_freedom.rename(columns={"players":"player_id"}).astype({"player_id": str, "owner_id": str})
+    rosters_df_freedom = rosters_df_filtered_freedom.rename(columns={"players":"player_id", "owner_id":"owner_id_freedom"}).astype({"player_id": str, "owner_id_freedom": str})
     rosters_df_filtered_uww = rosters_df_raw_uww.filter(items = ["owner_id", "players"]).explode('players')
-    rosters_df_uww = rosters_df_filtered_uww.rename(columns={"players":"player_id"}).astype({"player_id": str, "owner_id": str})
+    rosters_df_uww = rosters_df_filtered_uww.rename(columns={"players":"player_id", "owner_id":"owner_id_uww"}).astype({"player_id": str, "owner_id_uww": str})
 
-    rosters_df = pd.concat([rosters_df_freedom, rosters_df_uww])
+    rosters_df = rosters_df_freedom.merge(rosters_df_uww, on="player_id", how="outer")
     return rosters_df
 
