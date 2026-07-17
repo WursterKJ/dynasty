@@ -7,8 +7,7 @@ def data_refresh():
     players = players_refresh()
     trending = trending_refresh()
     rosters = rosters_refresh()
-    users_freedom = users_refresh()
-    users_uww = users_refresh()
+    users_freedom, users_uww = users_refresh()
 
 
     players_trending = players.merge(trending, on="player_id", how="left")
