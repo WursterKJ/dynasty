@@ -23,4 +23,6 @@ def players_refresh():
         # players_filtered_columns.to_csv("data/raw/players.csv", index = False)
     return players_df
 
-
+# create list of player_ids to use for stats
+def players_list(players_df):
+    return players_df["player_id"].tolist()
