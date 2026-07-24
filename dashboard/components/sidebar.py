@@ -1,5 +1,5 @@
 import streamlit as st
-from data_refresh import data_refresh
+from scripts.data_refresh import data_refresh
 
 def sidebar():
     st.sidebar.title("Dynasty Dashboard")

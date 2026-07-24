@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-from code.data_load import (load_master, load_stats)
+from scripts.data_load import (load_master, load_stats)
 from dashboard.components.sidebar import sidebar
 
 sidebar()
@@ -14,4 +14,4 @@ user_select = st.sidebar.selectbox("Choose Manager:", users)
 
 master_df = master.query("owner_id_uww", user_select)
 
-avg_age = master_df.mean("age") 
+avg_age = master_df.mean("age")
