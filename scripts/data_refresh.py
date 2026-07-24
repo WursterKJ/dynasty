@@ -1,8 +1,8 @@
-from players_data import players_refresh
-from trending_data import trending_refresh
-from rosters_data import rosters_refresh
-from users_data import users_refresh
-from stats_data import stats_refresh
+from scripts.players_data import players_refresh
+from scripts.trending_data import trending_refresh
+from scripts.rosters_data import rosters_refresh
+from scripts.users_data import users_refresh
+from scripts.stats_data import stats_refresh
 
 def data_refresh():
     players = players_refresh()

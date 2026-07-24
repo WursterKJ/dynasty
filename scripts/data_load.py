@@ -1,6 +1,6 @@
 import pandas as pd
 import streamlit as st
-from data_refresh import data_refresh
+from scripts.data_refresh import data_refresh
 
 @st.cache_data
 def load_master():

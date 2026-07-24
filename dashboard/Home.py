@@ -1,5 +1,5 @@
 import streamlit as st
-from dashboard.components.sidebar import sidebar
+from dashboard.sidebar import sidebar
 
 sidebar()
 st.title("The Dynasty Dashboard")

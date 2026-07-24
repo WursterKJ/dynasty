@@ -2,13 +2,12 @@ import streamlit as st
 from scripts.data_refresh import data_refresh
 
 def sidebar():
-    st.sidebar.title("Dynasty Dashboard")
+    st.sidebar.title("Refresh Data Once Daily")
     if st.sidebar.button("Refresh Data"):
         with st.spinner("Refreshing..."):
             data_refresh()
             st.cache_data.clear()
         st.success("Refresh Complete")
         st.rerun
-    return sidebar()
 
         

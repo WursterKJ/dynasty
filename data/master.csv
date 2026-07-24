@@ -9,7 +9,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 11522,Jerome Kapp,WR,,31.0,Kutztown,1.0,1999-04-07,24.0,75,210,,,,,jeromekapp,,,,,,
 2474,Nick Boyle,TE,,86.0,Delaware,8.0,1993-02-17,29.0,76,261,,,,608753.0,nickboyle,,,,,,
 8809,Aaron Shampklin,RB,,48.0,Harvard,3.0,1999-10-18,25.0,70,195,,,,,aaronshampklin,,,,,,
-9487,Parker Washington,WR,JAX,11.0,Penn State,3.0,2002-03-21,24.0,70,204,2.0,,,,parkerwashington,1179.0,,731003760045875200,990858054952411136,nolan22snyder,parkergullixon
+9487,Parker Washington,WR,JAX,11.0,Penn State,3.0,2002-03-21,24.0,70,204,2.0,,,,parkerwashington,954.0,,731003760045875200,990858054952411136,nolan22snyder,parkergullixon
 3342,Jakeem Grant,WR,,84.0,Texas Tech,8.0,1992-10-30,32.0,67,172,,,,605325.0,jakeemgrant,,,,,,
 1684,Jaron Brown,WR,,18.0,Clemson,9.0,1990-01-08,32.0,75,205,,,,463514.0,jaronbrown,,,,,,
 6918,Salvon Ahmed,RB,CHI,36.0,Washington,6.0,1998-12-30,27.0,71,196,5.0,,,,salvonahmed,,,,,,
@@ -19,22 +19,22 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 5038,Michael Gallup,WR,,12.0,Colorado State,7.0,1996-03-04,29.0,73,198,,,,912070.0,michaelgallup,,,,,,
 11584,Bucky Irving,RB,TB,7.0,Oregon,2.0,2002-08-19,23.0,70,195,1.0,Questionable,Shoulder,,buckyirving,,,731003760045875200,1357227930467434496,nolan22snyder,OwenBowers
 11649,Kendall Milton,RB,CIN,36.0,Georgia,2.0,2002-02-10,24.0,73,230,5.0,,,,kendallmilton,,,,,,
-6783,Jerry Jeudy,WR,CLE,3.0,Alabama,6.0,1999-04-24,27.0,73,195,3.0,Questionable,Hamstring,,jerryjeudy,621.0,1413.0,1000853961747877888,1265863097675956224,Tscheibe26,JacksonTaft
+6783,Jerry Jeudy,WR,CLE,3.0,Alabama,6.0,1999-04-24,27.0,73,195,3.0,Questionable,Hamstring,,jerryjeudy,918.0,1503.0,1000853961747877888,1265863097675956224,Tscheibe26,JacksonTaft
 13600,Tyren Montgomery,WR,TEN,19.0,John Carroll,0.0,,,71,204,,,,,tyrenmontgomery,,,,,,
 11616,Jacob Cowing,WR,SF,19.0,Arizona,2.0,2001-02-04,25.0,69,171,8.0,,,,jacobcowing,,,,,,
 5965,Miles Boykin,WR,,80.0,Notre Dame,6.0,1996-10-12,29.0,75,231,,,,884553.0,milesboykin,,,,,,
 13064,Dorian Singer,WR,,,Utah,1.0,2002-10-16,23.0,72,181,,,,,doriansinger,,,,,,
 4992,Dante Pettis,WR,,11.0,Washington,8.0,1995-10-23,30.0,73,195,,,,837820.0,dantepettis,,,,,,
 11155,Christian Sims,TE,,46.0,Bowling Green,1.0,2001-02-15,22.0,74,243,,,,,christiansims,,,,,,
-9504,Kayshon Boutte,WR,NE,9.0,LSU,3.0,2002-05-07,24.0,71,203,3.0,,,,kayshonboutte,,,1000639485861785600,585284262555594752,Joshlahay10,AlexVanOoyen
+9504,Kayshon Boutte,WR,NE,9.0,LSU,3.0,2002-05-07,24.0,71,203,3.0,,,,kayshonboutte,,,1000639485861785600,,Joshlahay10,
 4828,Rashard Davis,WR,,6.0,James Madison,5.0,1995-09-14,26.0,69,180,,,,750368.0,rasharddavis,,,,,,
 4396,Drew Morgan,WR,,81.0,Arkansas,5.0,1994-12-02,27.0,72,187,,,,744431.0,drewmorgan,,,,,,
 4038,John Ross,WR,,38.0,Washington,7.0,1995-11-27,29.0,71,190,,,,747906.0,johnross,,,,,,
 12507,Omarion Hampton,RB,LAC,8.0,North Carolina,1.0,2003-03-16,23.0,72,220,1.0,,,,omarionhampton,,,731184036722118656,1265863097675956224,JScott51,JacksonTaft
-11439,Jaleel McLaughlin,RB,DEN,38.0,Youngstown State,3.0,2000-09-13,25.0,67,187,5.0,,,,jaleelmclaughlin,,1315.0,,,,
+11439,Jaleel McLaughlin,RB,DEN,38.0,Youngstown State,3.0,2000-09-13,25.0,67,187,4.0,,,,jaleelmclaughlin,,1505.0,,,,
 11282,Johnny King,WR,,43.0,Southeast Missouri State,1.0,1999-09-29,23.0,77,209,,,,,johnnyking,,,,,,
 3730,Tevin Jones,WR,,0.0,Memphis,6.0,1992-12-26,29.0,74,225,,,,614302.0,tevinjones,,,,,,
-13302,Adam Randall,RB,BAL,23.0,Clemson,0.0,2004-07-14,22.0,75,232,3.0,,,,adamrandall,1736.0,,,862077560916389888,,milly69
+13302,Adam Randall,RB,BAL,23.0,Clemson,0.0,2004-07-14,22.0,75,232,4.0,,,,adamrandall,2786.0,,,862077560916389888,,milly69
 5718,Ryan Yurachek,TE,,42.0,Marshall,4.0,1996-08-27,25.0,72,239,,,,843755.0,ryanyurachek,,,,,,
 3916,David Watford,WR,,14.0,Hampton,6.0,1993-06-16,28.0,74,212,,,,596437.0,davidwatford,,,,,,
 5530,Evan Berry,WR,,0.0,Tennessee,4.0,1995-11-04,26.0,71,205,,,,829985.0,evanberry,,,,,,
@@ -58,7 +58,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 2025,Albert Wilson,WR,,12.0,Georgia State,9.0,1992-07-12,30.0,69,195,,,,556955.0,albertwilson,,,,,,
 12300,Joshua Lingenfelter,TE,,,Army,1.0,,,75,250,,,,,joshualingenfelter,,,,,,
 11304,E.J. Jenkins,TE,PHI,84.0,Georgia Tech,3.0,1998-11-03,27.0,78,245,7.0,,,,ejjenkins,,,,,,
-19,Joe Flacco,QB,CIN,16.0,Delaware,18.0,1985-01-16,41.0,78,245,2.0,,,216342.0,joeflacco,1368.0,2475.0,,,,
+19,Joe Flacco,QB,CIN,16.0,Delaware,18.0,1985-01-16,41.0,78,245,2.0,,,216342.0,joeflacco,2331.0,2358.0,,,,
 13352,Lincoln Pare,RB,IND,36.0,Texas State,0.0,2001-06-29,25.0,69,200,,,,,lincolnpare,,,,,,
 12967,Jacolby George,WR,,,Miami (FL),1.0,2003-01-25,22.0,71,172,,,,,jacolbygeorge,,,,,,
 14017,Brett Weaver,TE,,,Grand Valley State,0.0,,,78,230,,,,,brettweaver,,,,,,
@@ -67,7 +67,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12264,Cole Beck,WR,,,Virginia Tech,1.0,1995-03-15,29.0,73,195,,,,,colebeck,,,,,,
 801,Charles Clay,TE,,85.0,Tulsa,11.0,1989-02-13,32.0,75,246,,,,400516.0,charlesclay,,,,,,
 6374,Drew Belcher,TE,,82.0,Maine,3.0,1996-04-18,25.0,75,250,,,,830271.0,drewbelcher,,,,,,
-4054,Mo Alie-Cox,TE,IND,81.0,VCU,9.0,1993-09-19,32.0,77,267,2.0,,,712506.0,moaliecox,,,,,,
+4054,Mo Alie-Cox,TE,IND,81.0,VCU,9.0,1993-09-19,32.0,77,267,3.0,,,712506.0,moaliecox,,,,,,
 7944,Michael Strachan,WR,,84.0,Charleston,4.0,1997-08-13,28.0,77,225,,,,,michaelstrachan,,,,,,
 1550,Ryan Griffin,QB,,4.0,Tulane,10.0,1989-11-17,33.0,76,218,,,,466883.0,ryangriffin,,,,,,
 13108,Julian Fleming,WR,,,Penn State,0.0,2000-12-19,25.0,74,208,,,,,julianfleming,,,,,,
@@ -79,7 +79,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 5100,Jordan Wilkins,RB,,30.0,Ole Miss,5.0,1994-07-18,29.0,73,216,,,,749205.0,jordanwilkins,,,,,,
 7938,Hunter Kampmoyer,TE,,84.0,Oregon,3.0,1998-02-06,26.0,76,243,,,,,hunterkampmoyer,,,,,,
 12848,Josh Kelly,WR,HOU,85.0,Texas Tech,1.0,2001-07-01,25.0,73,192,,,,,joshkelly,,,,,,
-8698,Jake Tonges,TE,SF,88.0,California,4.0,1999-07-08,27.0,76,240,2.0,Questionable,Foot,,jaketonges,625.0,1965.0,,,,
+8698,Jake Tonges,TE,SF,88.0,California,4.0,1999-07-08,27.0,76,240,2.0,Questionable,Foot,,jaketonges,955.0,1685.0,,,,
 3453,Josh Ferguson,RB,,36.0,Illinois,6.0,1993-05-23,28.0,70,205,,,,606045.0,joshferguson,,,,,,
 4385,Kalif Phillips,RB,,34.0,North Carolina-Charlotte,5.0,1994-03-22,27.0,70,221,,,,784764.0,kalifphillips,,,,,,
 7013,Steven Montez,QB,,12.0,Colorado,3.0,1997-01-14,26.0,77,230,,,,,stevenmontez,,,,,,
@@ -106,7 +106,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8633,Stephon Robinson,WR,,0.0,Kansas State,1.0,,,69,181,,,,,stephonrobinson,,,,,,
 2359,Ameer Abdullah,RB,JAX,43.0,Nebraska,11.0,1993-06-13,33.0,68,203,5.0,,,590796.0,ameerabdullah,,,,,,
 8241,Anthony Brown,QB,,15.0,Oregon,3.0,1998-07-27,26.0,73,217,,,,,anthonybrown,,,,,,
-5854,Drew Lock,QB,SEA,2.0,Missouri,7.0,1996-11-10,29.0,76,228,3.0,,,882345.0,drewlock,,,,,,
+5854,Drew Lock,QB,SEA,2.0,Missouri,7.0,1996-11-10,29.0,76,228,2.0,,,882345.0,drewlock,,,,,,
 2936,Rasheed Williams,RB,,0.0,Alfred State,11.0,,,73,215,,,,870447.0,rasheedwilliams,,,,,,
 3211,Paul Perkins,RB,,0.0,UCLA,6.0,1994-11-16,27.0,71,213,,,,691047.0,paulperkins,,,,,,
 7593,Trey Sermon,RB,,37.0,Ohio State,5.0,1999-01-30,26.0,72,215,,,,,treysermon,,,,,,
@@ -118,7 +118,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4548,Joel Bouagnon,RB,,34.0,Northern Illinois,5.0,1995-03-28,26.0,74,228,,,,746578.0,joelbouagnon,,,,,,
 12354,Easton Dean,TE,,,Iowa State,1.0,2004-12-01,20.0,78,265,,,,,eastondean,,,,,,
 3021,Devin Gardner,WR,,15.0,Michigan,10.0,1991-12-14,33.0,76,216,,,,543238.0,devingardner,,,,,,
-11579,Audric Estime,RB,NO,30.0,Notre Dame,2.0,2003-09-06,22.0,71,227,6.0,,,,audricestime,,1455.0,,,,
+11579,Audric Estime,RB,NO,30.0,Notre Dame,2.0,2003-09-06,22.0,71,227,5.0,,,,audricestime,,1638.0,,,,
 3294,Dak Prescott,QB,DAL,4.0,Mississippi State,10.0,1993-07-29,32.0,74,230,1.0,Questionable,Knee,591816.0,dakprescott,,,731172076769128448,1127441193396285440,TuckBrock,LilmanJay67
 4031,Travis Wilson,TE,,87.0,Utah,5.0,1993-12-14,28.0,79,258,,,,651984.0,traviswilson,,,,,,
 13301,Antonio Williams,WR,WAS,14.0,Clemson,0.0,2004-07-14,22.0,71,195,2.0,,,,antoniowilliams,,,,731000657544359936,,KyleWurster
@@ -133,12 +133,12 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 10861,Xazavian Valladay,RB,,47.0,Arizona State,2.0,1998-07-03,27.0,72,198,,,,,xazavianvalladay,,,,,,
 4814,De'Quan Hampton,WR,,0.0,USC,5.0,1994-04-18,27.0,76,225,,,,880030.0,dequanhampton,,,,,,
 7397,Parker Houston,TE,,86.0,San Diego State,2.0,1997-12-06,24.0,75,250,,,,,parkerhouston,,,,,,
-11557,Joe Milton,QB,DAL,10.0,Tennessee,2.0,2000-03-06,26.0,77,236,2.0,,,,joemilton,,,,,,
+11557,Joe Milton,QB,DAL,10.0,Tennessee,2.0,2000-03-06,26.0,77,236,3.0,,,,joemilton,,,,,,
 5052,Ronald Jones,RB,,32.0,USC,5.0,1997-08-03,26.0,71,208,,,,880033.0,ronaldjones,,,,,,
 4128,Chad Williams,WR,,0.0,Grambling State,5.0,1994-10-19,27.0,73,204,,,,787757.0,chadwilliams,,,,,,
 6626,Isaac Zico,WR,,80.0,Purdue,3.0,1996-06-18,25.0,73,200,,,,1066825.0,isaaczico,,,,,,
 13304,O'Mega Blake,WR,,,,0.0,,,74,187,,,,,omegablake,,,,,,
-5995,Justice Hill,RB,BAL,43.0,Oklahoma State,7.0,1997-11-14,28.0,70,205,2.0,,,923109.0,justicehill,1656.0,1647.0,,,,
+5995,Justice Hill,RB,BAL,43.0,Oklahoma State,7.0,1997-11-14,28.0,70,205,2.0,,,923109.0,justicehill,3564.0,1935.0,,,,
 3524,Marquise Williams,QB,,0.0,North Carolina,9.0,1992-10-05,32.0,74,225,,,,592506.0,marquisewilliams,,,,,,
 4421,Jacob Hollister,TE,,87.0,Wyoming,7.0,1993-11-18,30.0,76,239,,,,696882.0,jacobhollister,,,,,,
 12925,Jamaal Pritchett,WR,NYJ,81.0,South Alabama,1.0,2003-06-10,23.0,68,175,,,,,jamaalpritchett,,,,,,
@@ -159,7 +159,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 9231,Jaren Hall,QB,,15.0,BYU,2.0,1998-03-24,27.0,72,207,,,,,jarenhall,,,,,,
 7262,Jalen Morton,QB,IND,6.0,Prairie View,2.0,1997-07-06,24.0,76,226,,,,,jalenmorton,,,,,,
 8442,Jarrett Guarantano,QB,,16.0,Washington State,1.0,1997-11-04,25.0,76,220,,,,,jarrettguarantano,,,,,,
-8119,Jahan Dotson,WR,ATL,4.0,Penn State,4.0,2000-03-22,26.0,71,184,4.0,,,,jahandotson,,,,,,
+8119,Jahan Dotson,WR,ATL,4.0,Penn State,4.0,2000-03-22,26.0,71,184,3.0,,,,jahandotson,936.0,,,,,
 8194,Jashaun Corbin,RB,,30.0,Florida State,3.0,2000-08-20,25.0,71,215,,,,,jashauncorbin,,,,,,
 7863,JaQuan Hardy,RB,,45.0,Tiffin,1.0,1997-12-31,24.0,70,225,,,,,jaquanhardy,,,,,,
 5231,Cole Hunt,TE,,81.0,Texas Christian,4.0,1995-05-30,26.0,79,255,,,,746513.0,colehunt,,,,,,
@@ -171,14 +171,14 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12220,Brevin Easton,WR,,,Albany,1.0,2001-01-01,24.0,70,197,,,,,brevineaston,,,,,,
 13418,Robert Henry,RB,WAS,30.0,UTSA,0.0,2001-12-31,24.0,69,196,,,,,roberthenry,,,,,,
 5550,John David Moore,RB,,43.0,Louisiana State,4.0,1995-05-30,26.0,76,236,,,,739300.0,johndavidmoore,,,,,,
-12542,Efton Chism,WR,NE,86.0,Eastern Washington,1.0,2001-10-26,24.0,70,198,7.0,,,,eftonchism,,1292.0,,,,
+12542,Efton Chism,WR,NE,86.0,Eastern Washington,1.0,2001-10-26,24.0,70,198,7.0,,,,eftonchism,,,,,,
 7552,Blake Proehl,WR,,13.0,East Carolina,2.0,1999-01-12,24.0,73,190,,,,,blakeproehl,,,,,,
 3540,Jamaal Jones,WR,,15.0,Montana,6.0,1993-01-31,28.0,73,192,,,,608008.0,jamaaljones,,,,,,
-7049,Jauan Jennings,WR,MIN,14.0,Tennessee,6.0,1997-07-10,29.0,75,212,3.0,,,,jauanjennings,,1232.0,1000853961747877888,1265863097675956224,Tscheibe26,JacksonTaft
+7049,Jauan Jennings,WR,MIN,14.0,Tennessee,6.0,1997-07-10,29.0,75,212,3.0,,,,jauanjennings,,1505.0,1000853961747877888,1265863097675956224,Tscheibe26,JacksonTaft
 8136,Rachaad White,RB,WAS,1.0,Arizona State,4.0,1999-01-12,27.0,72,214,2.0,,,,rachaadwhite,,,730904582686912512,862077560916389888,rlonigro,milly69
-11610,Malik Washington,WR,MIA,6.0,Virginia,2.0,2001-01-04,25.0,68,195,1.0,,,,malikwashington,2024.0,,1000639485861785600,730904582686912512,Joshlahay10,rlonigro
+11610,Malik Washington,WR,MIA,6.0,Virginia,2.0,2001-01-04,25.0,68,195,2.0,,,,malikwashington,2496.0,,1000639485861785600,730904582686912512,Joshlahay10,rlonigro
 5024,James Washington,WR,,83.0,Oklahoma State,6.0,1996-04-02,28.0,73,213,,,,835437.0,jameswashington,,,,,,
-13599,Kyron Drones,QB,GB,13.0,Virginia Tech,0.0,2003-07-24,22.0,74,226,,,,,kyrondrones,,,,,,
+13599,Kyron Drones,QB,GB,13.0,Virginia Tech,0.0,2003-07-24,23.0,74,226,,,,,kyrondrones,,,,,,
 12413,Hamze El-Zayat,WR,,,Eastern Michigan,1.0,1999-10-19,25.0,68,162,,,,,hamzeelzayat,,,,,,
 2304,Jerome Cunningham,TE,,83.0,Southern Connecticut State,8.0,1991-05-25,30.0,76,254,,,,512900.0,jeromecunningham,,,,,,
 8070,Travis Toivonen,WR,,87.0,North Dakota,1.0,1998-04-22,24.0,76,212,,,,,travistoivonen,,,,,,
@@ -209,13 +209,13 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 11370,Chris Brooks,RB,GB,30.0,BYU,3.0,2000-01-11,26.0,73,219,3.0,,,,chrisbrooks,,,,,,
 7794,Chris Evans,RB,,25.0,Michigan,4.0,1997-10-05,27.0,71,215,,,,,chrisevans,,,,,,
 11574,Dylan Laube,RB,LV,23.0,New Hampshire,2.0,1999-12-14,26.0,69,204,4.0,,,,dylanlaube,,,,,,
-6323,Andrew Beck,RB,NYJ,47.0,Texas,7.0,1996-05-15,30.0,75,255,4.0,,,824428.0,andrewbeck,,,,,,
+6323,Andrew Beck,RB,NYJ,47.0,Texas,7.0,1996-05-15,30.0,75,255,5.0,,,824428.0,andrewbeck,,,,,,
 7606,Kadarius Toney,WR,,87.0,Florida,3.0,1999-01-27,25.0,72,193,,,,,kadariustoney,,,,,,
 6927,Quez Watkins,WR,PHI,86.0,Southern Miss,6.0,1998-06-09,28.0,72,193,6.0,,,,quezwatkins,,,,,,
 3615,Sione Houma,RB,,0.0,Michigan,9.0,1994-06-21,30.0,72,243,,,,696133.0,sionehouma,,,,,,
 2561,Anthony Boone,QB,,3.0,Duke,11.0,1991-10-29,34.0,72,225,,,,556167.0,anthonyboone,,,,,,
 13246,Jaden Smith,WR,DAL,17.0,Nevada,1.0,2001-12-13,24.0,78,210,,,,,jadensmith,,,,,,
-8111,Cade Otton,TE,TB,88.0,Washington,4.0,1999-04-15,27.0,77,247,1.0,,,,cadeotton,714.0,,1000639485861785600,1265863097675956224,Joshlahay10,JacksonTaft
+8111,Cade Otton,TE,TB,88.0,Washington,4.0,1999-04-15,27.0,77,247,1.0,,,,cadeotton,,,1000639485861785600,1265863097675956224,Joshlahay10,JacksonTaft
 2929,Adrian Coxson,WR,,0.0,Stony Brook,10.0,1991-08-14,33.0,73,215,,,,557181.0,adriancoxson,,,,,,
 6742,Marquis Young,RB,,40.0,Massachusetts,3.0,1995-02-11,26.0,71,210,,,,869591.0,marquisyoung,,,,,,
 8245,Derrick Deese,TE,,86.0,San Jose State,2.0,1998-08-19,24.0,76,248,,,,,derrickdeese,,,,,,
@@ -225,23 +225,23 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6970,Stephen Sullivan,TE,,85.0,LSU,5.0,1996-11-28,28.0,77,245,,,,,stephensullivan,,,,,,
 8092,Corey Taylor,RB,,0.0,Tulsa,1.0,1997-07-04,24.0,70,215,,,,,coreytaylor,,,,,,
 6259,Darnell Holland,RB,,0.0,Kennesaw State,3.0,1996-11-06,25.0,70,195,,,,874217.0,darnellholland,,,,,,
-12374,Brenden Bates,TE,CLE,82.0,Kentucky,2.0,1999-10-17,26.0,77,255,2.0,,,,brendenbates,,,,,,
+12374,Brenden Bates,TE,CLE,82.0,Kentucky,2.0,1999-10-17,26.0,77,255,5.0,,,,brendenbates,,,,,,
 2957,Ernst Brun,TE,,0.0,Iowa State,10.0,1990-12-04,34.0,75,251,,,,599088.0,ernstbrun,,,,,,
 13554,CJ Williams,WR,JAX,18.0,Stanford,0.0,2003-10-23,22.0,73,205,,,,,cjwilliams,,,,,,
 12866,Jalin Conyers,TE,,80.0,Texas Tech,1.0,2001-07-26,24.0,76,265,,,,,jalinconyers,,,,,,
 6522,T.J. Linta,QB,,0.0,Wagner,3.0,,,76,240,,,,831943.0,tjlinta,,,,,,
 1034,Brandon Bolden,RB,,34.0,Ole Miss,12.0,1990-01-26,34.0,71,220,,,,465752.0,brandonbolden,,,,,,
 4798,C.J. Germany,WR,,2.0,"Notre Dame College, Ohio",5.0,,,71,180,,,,893438.0,cjgermany,,,,,,
-13270,CJ Daniels,WR,LAR,6.0,Miami (FL),0.0,2002-01-04,24.0,74,202,5.0,,,,cjdaniels,640.0,,,,,
+13270,CJ Daniels,WR,LAR,6.0,Miami (FL),0.0,2002-01-04,24.0,74,202,5.0,,,,cjdaniels,984.0,,,,,
 13805,E.J. Williams,WR,LV,88.0,Indiana,0.0,2001-11-14,24.0,75,205,,,,,ejwilliams,,,,,,
 5808,Connor Jessop,QB,,2.0,Shepherd,4.0,,,77,220,,,,691652.0,connorjessop,,,,,,
 5242,Dontez Byrd,WR,,19.0,Tennessee Tech,4.0,1995-08-09,26.0,71,180,,,,749129.0,dontezbyrd,,,,,,
-11647,Kimani Vidal,RB,LAC,28.0,Troy,2.0,2001-08-28,24.0,68,215,3.0,,,,kimanividal,,2460.0,731003760045875200,1357227930467434496,nolan22snyder,OwenBowers
+11647,Kimani Vidal,RB,LAC,28.0,Troy,2.0,2001-08-28,24.0,68,215,3.0,,,,kimanividal,,2520.0,731003760045875200,1357227930467434496,nolan22snyder,OwenBowers
 6045,Gary Jennings,WR,,86.0,West Virginia,4.0,1997-03-07,26.0,73,216,,,,877654.0,garyjennings,,,,,,
 4821,Jamari Staples,WR,,6.0,Louisville,5.0,1994-09-10,27.0,76,195,,,,750823.0,jamaristaples,,,,,,
-13273,Josh Cuevas,TE,BAL,85.0,Alabama,0.0,2003-09-15,22.0,75,245,4.0,,,,joshcuevas,,,,,,
+13273,Josh Cuevas,TE,BAL,85.0,Alabama,0.0,2003-09-15,22.0,75,245,3.0,,,,joshcuevas,,,,,,
 13608,Jerand Bradley,WR,LAC,36.0,Kansas State,0.0,2002-10-10,23.0,77,223,,,,,jerandbradley,,,,,,
-13282,Jack Endries,TE,CIN,84.0,Texas,0.0,2004-03-26,22.0,77,245,5.0,,,,jackendries,590.0,,,,,
+13282,Jack Endries,TE,CIN,84.0,Texas,0.0,2004-03-26,22.0,77,245,5.0,,,,jackendries,810.0,,,,,
 6395,Trinity Benson,WR,,82.0,East Central,4.0,1997-01-16,26.0,72,180,,,,1165782.0,trinitybenson,,,,,,
 11478,Gavin Holmes,WR,,84.0,Baylor,1.0,1998-09-29,24.0,70,200,,,,,gavinholmes,,,,,,
 8549,Trevon Clark,WR,,0.0,California,1.0,1999-09-27,23.0,75,193,,,,,trevonclark,,,,,,
@@ -254,19 +254,19 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7499,Paul Quessenberry,TE,,40.0,Navy,2.0,1992-01-08,30.0,74,250,,,,,paulquessenberry,,,,,,
 9488,Jaxon Smith-Njigba,WR,SEA,11.0,Ohio State,3.0,2002-02-14,24.0,72,197,1.0,,,,jaxonsmithnjigba,,,1000639485861785600,1032440738459639808,Joshlahay10,GriffinStiemke
 9510,Lew Nichols,RB,PIT,35.0,Central Michigan,3.0,2001-08-16,24.0,70,220,5.0,,,,lewnichols,,,,,,
-11571,Isaiah Davis,RB,NYJ,32.0,South Dakota State,2.0,2002-02-21,24.0,73,220,3.0,,,,isaiahdavis,630.0,3285.0,731184036722118656,,JScott51,
+11571,Isaiah Davis,RB,NYJ,32.0,South Dakota State,2.0,2002-02-21,24.0,73,220,3.0,,,,isaiahdavis,18396.0,2502.0,731184036722118656,,JScott51,
 7526,Jaylen Waddle,WR,DEN,17.0,Alabama,5.0,1998-11-25,27.0,70,185,1.0,,,,jaylenwaddle,,,731172076769128448,1357227930467434496,TuckBrock,OwenBowers
 4949,Derrius Guice,RB,,0.0,LSU,4.0,1997-06-21,24.0,71,225,,,,865565.0,derriusguice,,,,,,
-13079,Jahdae Walker,WR,CHI,9.0,Texas A&M,1.0,2002-07-05,24.0,75,206,4.0,,,,jahdaewalker,,,,,,
+13079,Jahdae Walker,WR,CHI,9.0,Texas A&M,1.0,2002-07-05,24.0,75,206,5.0,,,,jahdaewalker,,,,,,
 8115,Jalen Wydermyer,TE,,49.0,Texas A&M,1.0,2000-12-20,22.0,77,265,,,,,jalenwydermyer,,,,,,
 6248,Trevion Thompson,WR,,87.0,Clemson,3.0,1995-11-14,26.0,74,205,,,,828769.0,trevionthompson,,,,,,
-13047,Jacardia Wright,RB,SEA,31.0,Missouri State,1.0,2000-09-26,25.0,72,218,5.0,,,,jacardiawright,,,,,,
+13047,Jacardia Wright,RB,SEA,31.0,Missouri State,1.0,2000-09-26,25.0,72,218,6.0,,,,jacardiawright,,,,,,
 4508,Gabe Marks,WR,,2.0,Washington State,5.0,1994-08-06,27.0,72,190,,,,652582.0,gabemarks,,,,,,
 12820,Landon Parker,WR,,,Troy,1.0,1999-09-02,26.0,74,211,,,,,landonparker,,,,,,
 11505,David Durden,WR,,85.0,West Florida,1.0,1998-12-26,25.0,74,200,,,,,daviddurden,,,,,,
-13318,Noah Thomas,WR,CIN,17.0,Georgia,0.0,2004-01-13,22.0,77,203,4.0,,,,noahthomas,,,,,,
+13318,Noah Thomas,WR,CIN,17.0,Georgia,0.0,2004-01-13,22.0,77,203,6.0,,,,noahthomas,,,,,,
 5911,Jalen Hurd,WR,,13.0,Baylor,4.0,1996-01-24,27.0,77,230,,,,820517.0,jalenhurd,,,,,,
-13380,Brenen Thompson,WR,LAC,89.0,Mississippi State,0.0,2003-07-25,22.0,69,170,5.0,,,,brenenthompson,,,,862077560916389888,,milly69
+13380,Brenen Thompson,WR,LAC,89.0,Mississippi State,0.0,2003-07-25,22.0,69,170,4.0,,,,brenenthompson,,,,862077560916389888,,milly69
 13939,Gabriel Benyard,WR,,80.0,Kennesaw State,0.0,,,70,185,,,,,gabrielbenyard,,,,,,
 2944,Matt LaCosse,TE,NE,83.0,Illinois,7.0,1992-09-21,29.0,78,255,,,,606055.0,mattlacosse,,,,,,
 3036,Matt Lengel,TE,,47.0,Eastern Kentucky,7.0,1990-12-27,31.0,79,266,,,,504496.0,mattlengel,,,,,,
@@ -276,7 +276,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6820,Clyde Edwards-Helaire,RB,,26.0,LSU,6.0,1999-04-11,26.0,67,207,,,,,clydeedwardshelaire,,,,,,
 7008,Brian Lewerke,QB,,6.0,Michigan State,2.0,1996-10-24,25.0,75,216,,,,,brianlewerke,,,,,,
 14001,Julius Davis,RB,,,Montana State,0.0,,,70,210,,,,,juliusdavis,,,,,,
-13400,Justin Joly,TE,DEN,80.0,North Carolina State,0.0,2004-07-09,22.0,75,241,3.0,,,,justinjoly,2305.0,,,,,
+13400,Justin Joly,TE,DEN,80.0,North Carolina State,0.0,2004-07-09,22.0,75,241,3.0,,,,justinjoly,2385.0,,,,,
 5169,Malik Earl,WR,,0.0,Missouri State,4.0,1996-03-08,25.0,75,217,,,,840449.0,malikearl,,,,,,
 11931,Austin Reed,QB,,16.0,Western Kentucky,1.0,2000-02-22,25.0,73,214,,,,,austinreed,,,,,,
 7713,Jaelon Darden,WR,,1.0,North Texas,4.0,1999-01-14,26.0,68,175,,,,,jaelondarden,,,,,,
@@ -290,7 +290,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12373,Peter LeBlanc,WR,,,Louisiana,1.0,2001-04-12,23.0,74,189,,,,,peterleblanc,,,,,,
 5290,Deontay Burnett,WR,,6.0,USC,6.0,1997-10-04,26.0,72,185,,,,886740.0,deontayburnett,,,,,,
 2463,Jesse James,TE,,88.0,Penn State,8.0,1994-06-04,29.0,79,261,,,,652019.0,jessejames,,,,,,
-13421,Eli Raridon,TE,NE,82.0,Notre Dame,0.0,2004-02-12,22.0,78,245,2.0,,,,eliraridon,2436.0,,,585284262555594752,,AlexVanOoyen
+13421,Eli Raridon,TE,NE,82.0,Notre Dame,0.0,2004-02-12,22.0,78,245,3.0,,,,eliraridon,3248.0,,,585284262555594752,,AlexVanOoyen
 12250,Riley Sharp,TE,,,Oregon State,1.0,1997-11-07,27.0,77,246,,,,,rileysharp,,,,,,
 3568,Marken Michel,WR,,19.0,UMass,7.0,1993-07-06,29.0,71,191,,,,604826.0,markenmichel,,,,,,
 5322,James Looney,TE,,49.0,California,4.0,1995-05-15,26.0,75,287,,,,733671.0,jameslooney,,,,,,
@@ -317,12 +317,12 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12535,Isaac TeSlaa,WR,DET,18.0,Arkansas,1.0,2002-02-20,24.0,76,214,3.0,,,,isaacteslaa,784.0,,731000657544359936,1357227930467434496,KyleWurster,OwenBowers
 5170,Phillip Lindsay,RB,,30.0,Colorado,4.0,1994-07-24,28.0,68,190,,,,747861.0,philliplindsay,,,,,,
 6790,D'Andre Swift,RB,CHI,4.0,Georgia,6.0,1999-01-14,27.0,68,204,1.0,,,,dandreswift,,,731174840580571136,1267223871346454528,Mattwyn,rudyvosters
-1373,Geno Smith,QB,NYJ,7.0,West Virginia,13.0,1990-10-10,35.0,74,221,1.0,,,513856.0,genosmith,588.0,,,1267949452228820992,,carsonclausen12
+1373,Geno Smith,QB,NYJ,7.0,West Virginia,13.0,1990-10-10,35.0,74,221,1.0,,,513856.0,genosmith,,,,1267949452228820992,,carsonclausen12
 7162,Ryan Becker,TE,,80.0,SMU,2.0,1997-12-23,24.0,77,248,,,,,ryanbecker,,,,,,
 12491,Corey Kiner,RB,ARI,37.0,Cincinnati,1.0,2002-01-21,24.0,69,209,6.0,,,,coreykiner,,,,,,
 6358,Kahlil Lewis,WR,,0.0,Cincinnati,3.0,1997-08-31,24.0,72,195,,,,866157.0,kahlillewis,,,,,,
-6768,Tua Tagovailoa,QB,ATL,1.0,Alabama,6.0,1998-03-02,28.0,73,225,1.0,,,,tuatagovailoa,,,,1267949452228820992,,carsonclausen12
-6130,Devin Singletary,RB,NYG,26.0,Florida Atlantic,7.0,1997-09-03,28.0,67,203,3.0,,,916466.0,devinsingletary,,4770.0,731004224116207616,,p0ppy,
+6768,Tua Tagovailoa,QB,ATL,1.0,Alabama,6.0,1998-03-02,28.0,73,225,2.0,,,,tuatagovailoa,,,,1267949452228820992,,carsonclausen12
+6130,Devin Singletary,RB,NYG,26.0,Florida Atlantic,7.0,1997-09-03,28.0,67,203,3.0,,,916466.0,devinsingletary,,5742.0,731004224116207616,,p0ppy,
 3531,Marshaun Coprich,RB,,0.0,Illinois State,9.0,1994-08-10,30.0,69,205,,,,,marshauncoprich,,,,,,
 12276,RJ Mobley,WR,,,Winston-Salem State,1.0,,,75,210,,,,,rjmobley,,,,,,
 5004,Ito Smith,RB,DAL,43.0,Southern Miss,4.0,1995-09-11,26.0,69,195,,,,835082.0,itosmith,,,,,,
@@ -335,7 +335,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 13905,Omari Evans,WR,KC,7.0,Washington,0.0,2003-12-31,22.0,72,195,,,,,omarievans,,,,,,
 13284,Dylan Devezin,RB,,,,0.0,,,74,216,,,,,dylandevezin,,,,,,
 7538,Zach Wilson,QB,NO,4.0,BYU,5.0,1999-08-03,26.0,74,214,3.0,,,,zachwilson,,,,,,
-7561,Elijah Mitchell,RB,PHI,38.0,Louisiana,5.0,1998-05-02,28.0,70,200,4.0,,,,elijahmitchell,,,,,,
+7561,Elijah Mitchell,RB,PHI,38.0,Louisiana,5.0,1998-05-02,28.0,70,200,5.0,,,,elijahmitchell,,,,,,
 7376,Case Cookus,QB,,14.0,Northern Arizona,3.0,1995-10-06,27.0,76,205,,,,,casecookus,,,,,,
 5129,Adonis Jennings,WR,,13.0,Temple,4.0,1995-12-31,26.0,75,205,,,,832453.0,adonisjennings,,,,,,
 3209,Devontae Booker,RB,,28.0,Utah,6.0,1992-05-27,29.0,71,219,,,,733248.0,devontaebooker,,,,,,
@@ -344,9 +344,9 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12898,Seth Henigan,QB,,4.0,Memphis,1.0,2003-03-10,23.0,75,215,,,,,sethhenigan,,,,,,
 12950,Robert Lewis,WR,,,Auburn,1.0,2002-01-17,23.0,70,188,,,,,robertlewis,,,,,,
 11635,Ladd McConkey,WR,LAC,15.0,Georgia,2.0,2001-11-11,24.0,72,185,1.0,Questionable,Undisclosed,,laddmcconkey,,,731000657544359936,585284262555594752,KyleWurster,AlexVanOoyen
-13347,Demond Claiborne,RB,MIN,21.0,Wake Forest,0.0,2003-10-09,22.0,70,188,3.0,,,,demondclaiborne,,,,462057196620869632,,calebb15
+13347,Demond Claiborne,RB,MIN,21.0,Wake Forest,0.0,2003-10-09,22.0,70,188,4.0,,,,demondclaiborne,,,,462057196620869632,,calebb15
 12475,Ricky White,WR,SEA,86.0,UNLV,1.0,2002-02-06,24.0,73,181,7.0,,,,rickywhite,,,,,,
-8154,Brian Robinson,RB,ATL,15.0,Alabama,4.0,1999-03-22,27.0,73,225,2.0,,,,brianrobinson,576.0,,731172076769128448,585284262555594752,TuckBrock,AlexVanOoyen
+8154,Brian Robinson,RB,ATL,15.0,Alabama,4.0,1999-03-22,27.0,73,225,2.0,,,,brianrobinson,846.0,,731172076769128448,585284262555594752,TuckBrock,AlexVanOoyen
 11060,Robert Burns,RB,,39.0,UConn,2.0,1998-09-25,26.0,71,222,,,,,robertburns,,,,,,
 515,Rob Gronkowski,TE,,87.0,Arizona,12.0,1989-05-14,32.0,78,265,,,,381091.0,robgronkowski,,,,,,
 13331,Dae'Quan Wright,TE,PHI,45.0,Ole Miss,0.0,2003-09-21,22.0,76,246,,,,,daequanwright,,,,,,
@@ -370,7 +370,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7156,J'Mar Smith,QB,,0.0,Louisiana Tech,2.0,1996-09-24,25.0,73,218,,,,,jmarsmith,,,,,,
 5284,Jeff Wilson,RB,,34.0,North Texas,8.0,1995-11-16,30.0,72,205,,,,834195.0,jeffwilson,,,,,,
 13129,Jermaine Terry,TE,,,Oregon State,1.0,,,76,245,,Questionable,Undisclosed,,jermaineterry,,,,,,
-13438,DeaMonte Trayanum,RB,NYJ,40.0,Toledo,0.0,2002-01-02,24.0,70,224,5.0,,,,deamontetrayanum,,,,,,
+13438,DeaMonte Trayanum,RB,NYJ,40.0,Toledo,0.0,2002-01-02,24.0,70,224,6.0,,,,deamontetrayanum,,,,,,
 4445,Keon Hatcher,WR,,14.0,Arkansas,5.0,1994-09-11,27.0,73,215,,,,693822.0,keonhatcher,,,,,,
 6380,Davion Davis,WR,,84.0,Sam Houston,5.0,1996-10-23,27.0,71,195,,,,891229.0,daviondavis,,,,,,
 3762,Brandon Shippen,WR,,12.0,Temple,6.0,1994-05-17,27.0,71,191,,,,692387.0,brandonshippen,,,,,,
@@ -402,20 +402,20 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8236,Jerreth Sterns,WR,,9.0,Western Kentucky,1.0,1999-07-01,23.0,69,195,,,,,jerrethsterns,,,,,,
 11099,Kearis Jackson,WR,,5.0,Georgia,2.0,1999-12-09,25.0,71,196,,,,,kearisjackson,,,,,,
 5263,Chase Litton,QB,,14.0,Marshall,4.0,1995-10-05,26.0,77,230,,,,868034.0,chaselitton,,,,,,
-8147,John Metchie,WR,CAR,13.0,Alabama,4.0,2000-07-18,26.0,71,187,3.0,,,,johnmetchie,,3703.0,,,,
+8147,John Metchie,WR,CAR,13.0,Alabama,4.0,2000-07-18,26.0,71,187,5.0,,,,johnmetchie,,4417.0,,,,
 9483,Zack Kuntz,TE,,45.0,Old Dominion,3.0,1999-06-06,26.0,80,251,,,,,zackkuntz,,,,,,
 13342,John Michael Gyllenborg,TE,KC,84.0,Wyoming,0.0,2002-08-07,23.0,77,251,3.0,,,,johnmichaelgyllenborg,,,,,,
 5283,Ka'Raun White,WR,,13.0,West Virginia,4.0,1993-07-04,28.0,73,199,,,,880004.0,karaunwhite,,,,,,
 7956,Cade Johnson,WR,,88.0,South Dakota State,3.0,1998-04-10,26.0,70,184,,,,,cadejohnson,,,,,,
 13136,Redd Douglas,WR,,,Findlay,0.0,,,71,200,,,,,redddouglas,,,,,,
-11592,Erick All,TE,CIN,83.0,Iowa,2.0,2000-09-13,25.0,77,255,2.0,Questionable,Knee - ACL,,erickall,642.0,,,,,
-7496,Nick Westbrook-Ikhine,WR,IND,12.0,Indiana,6.0,1997-03-21,29.0,74,211,3.0,,,,nickwestbrookikhine,,,,,,
+11592,Erick All,TE,CIN,83.0,Iowa,2.0,2000-09-13,25.0,77,255,4.0,Questionable,Knee - ACL,,erickall,1686.0,,,,,
+7496,Nick Westbrook-Ikhine,WR,IND,12.0,Indiana,6.0,1997-03-21,29.0,74,211,4.0,,,,nickwestbrookikhine,,,,,,
 11224,Griffin Hebert,TE,,46.0,Louisiana Tech,1.0,1999-04-02,25.0,73,239,,,,,griffinhebert,,,,,,
 13604,Sincere Brown,WR,LAC,38.0,Colorado,0.0,,,77,190,,,,,sincerebrown,,,,,,
 3634,Kalif Raymond,WR,CHI,14.0,Holy Cross,10.0,1994-08-08,31.0,69,160,3.0,,,692660.0,kalifraymond,,,,,,
 12018,Sam Pinckney,WR,,,Coastal Carolina,1.0,1999-10-25,25.0,76,220,,,,,sampinckney,,,,,,
 5773,KhaDarel Hodge,WR,,4.0,Prairie View A&M,8.0,1995-01-03,31.0,74,210,,Questionable,Undisclosed,757521.0,khadarelhodge,,,,,,
-11520,Lucky Jackson,WR,DET,11.0,Western Kentucky,3.0,1997-07-17,29.0,73,185,5.0,,,,luckyjackson,,,,,,
+11520,Lucky Jackson,WR,DET,11.0,Western Kentucky,3.0,1997-07-17,29.0,73,185,6.0,,,,luckyjackson,,,,,,
 2940,Des Lawrence,WR,,46.0,North Carolina,5.0,1994-11-30,27.0,73,185,,,,557416.0,deslawrence,,,,,,
 4574,Cooper Rush,QB,,15.0,Central Michigan,9.0,1993-11-21,32.0,75,225,,,,694117.0,cooperrush,,,,,,
 14047,Heinrich Haarberg,TE,,40.0,Nebraska,0.0,2003-03-15,23.0,76,237,,,,,heinrichhaarberg,,,,,,
@@ -458,17 +458,17 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7460,Jake Burt,TE,,0.0,Boston College,2.0,1996-08-25,25.0,75,260,,,,,jakeburt,,,,,,
 1837,Jimmy Garoppolo,QB,,11.0,Eastern Illinois,12.0,1991-11-02,34.0,74,226,,,,555358.0,jimmygaroppolo,,,,,,
 4528,Trevor Knight,QB,,1.0,Texas A&M,5.0,1993-10-03,28.0,73,215,,,,691269.0,trevorknight,,,,,,
-10220,Will Mallory,TE,IND,86.0,Miami (FL),3.0,1999-06-22,27.0,76,239,3.0,,,,willmallory,,,,,,
+10220,Will Mallory,TE,IND,86.0,Miami (FL),3.0,1999-06-22,27.0,76,239,2.0,,,,willmallory,,,,,,
 12063,Rocky Lombardi,QB,,,Northern Illinois,1.0,1998-07-30,26.0,76,225,,,,,rockylombardi,,,,,,
 13249,Thomas Gordon,TE,DET,82.0,Northwestern,1.0,2000-09-05,25.0,76,250,,,,,thomasgordon,,,,,,
 13128,Rushawn Baker,RB,,,Elon,1.0,2003-04-17,22.0,71,218,,,,,rushawnbaker,,,,,,
 9507,Titus Swen,RB,,42.0,Wyoming,1.0,,,70,204,,,,,titusswen,,,,,,
 1939,Derel Walker,WR,,87.0,Texas A&M,8.0,1991-06-29,30.0,74,185,,,,653763.0,derelwalker,,,,,,
 12434,Kairee Robinson,RB,,,San Jose State,1.0,,,67,195,,,,,kaireerobinson,,,,,,
-8205,Isiah Pacheco,RB,DET,10.0,Rutgers,4.0,1999-03-02,27.0,70,210,2.0,,,,isiahpacheco,624.0,1280.0,1000639485861785600,990858054952411136,Joshlahay10,parkergullixon
+8205,Isiah Pacheco,RB,DET,10.0,Rutgers,4.0,1999-03-02,27.0,70,210,2.0,,,,isiahpacheco,,,1000639485861785600,990858054952411136,Joshlahay10,parkergullixon
 2713,Josh Harper,WR,,0.0,Fresno State,10.0,1991-12-01,33.0,73,185,,,,562355.0,joshharper,,,,,,
 6342,Stephen Louis,WR,,12.0,North Carolina State,3.0,1995-09-07,26.0,74,215,,,,820882.0,stephenlouis,,,,,,
-1166,Kirk Cousins,QB,LV,8.0,Michigan State,14.0,1988-08-19,37.0,75,209,2.0,,,403308.0,kirkcousins,2208.0,1904.0,,1357227930467434496,,OwenBowers
+1166,Kirk Cousins,QB,LV,8.0,Michigan State,14.0,1988-08-19,37.0,75,209,2.0,,,403308.0,kirkcousins,1856.0,2176.0,,1357227930467434496,,OwenBowers
 8108,DeVonte Dedmon,WR,,83.0,William & Mary,1.0,1995-11-23,26.0,70,203,,,,,devontededmon,,,,,,
 2767,Jawon Chisholm,RB,,0.0,Akron,10.0,1991-09-19,33.0,73,206,,,,564412.0,jawonchisholm,,,,,,
 5185,Allen Lazard,WR,,10.0,Iowa State,7.0,1995-12-11,30.0,77,227,,,,837958.0,allenlazard,,,,,,
@@ -498,12 +498,12 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12976,DeMeer Blankumsee,WR,,,Memphis,0.0,,,70,192,,,,,demeerblankumsee,,,,,,
 3239,Bronson Kaufusi,TE,GB,45.0,BYU,6.0,1991-07-06,30.0,78,270,,,,695300.0,bronsonkaufusi,,,,,,
 12311,Daniel George,WR,,,Akron,1.0,,,74,210,,,,,danielgeorge,,,,,,
-1339,Zach Ertz,TE,,86.0,Stanford,13.0,1990-11-10,35.0,77,250,,Questionable,Knee - ACL,503177.0,zachertz,,5958.0,731174840580571136,,Mattwyn,
+1339,Zach Ertz,TE,,86.0,Stanford,13.0,1990-11-10,35.0,77,250,,Questionable,Knee - ACL,503177.0,zachertz,,6903.0,731174840580571136,,Mattwyn,
 5155,Corey Willis,WR,,83.0,Central Michigan,4.0,1995-05-02,26.0,70,172,,,,729691.0,coreywillis,,,,,,
 4184,Bucky Hodges,TE,,0.0,Virginia Tech,5.0,1995-08-08,26.0,78,245,,,,742420.0,buckyhodges,,,,,,
 8770,Malik Williams,WR,,0.0,Appalachian State,1.0,1999-01-14,24.0,70,185,,,,,malikwilliams,,,,,,
 11280,Brady Russell,TE,SEA,38.0,Colorado,3.0,1998-08-31,27.0,75,250,7.0,,,,bradyrussell,,,,,,
-11589,Trey Benson,RB,ARI,33.0,Florida State,2.0,2002-07-23,23.0,72,225,4.0,Questionable,Knee - Meniscus,,treybenson,,3906.0,731003760045875200,1267949452228820992,nolan22snyder,carsonclausen12
+11589,Trey Benson,RB,ARI,33.0,Florida State,2.0,2002-07-23,24.0,72,225,4.0,Questionable,Knee - Meniscus,,treybenson,,4302.0,731003760045875200,1267949452228820992,nolan22snyder,carsonclausen12
 5878,N'Keal Harry,TE,,84.0,Arizona State,5.0,1997-12-17,26.0,75,228,,,,910431.0,nkealharry,,,,,,
 3816,Brandon Brown-Dukes,RB,,38.0,Mercyhurst,6.0,1992-04-29,29.0,68,200,,,,915350.0,brandonbrowndukes,,,,,,
 13173,Jimmy Holiday,WR,KC,82.0,Louisiana Tech,1.0,2001-12-16,24.0,73,211,,,,,jimmyholiday,,,,,,
@@ -515,10 +515,10 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8938,Nathan Rourke,QB,,16.0,Ohio,1.0,1998-05-24,26.0,73,210,,,,,nathanrourke,,,,,,
 3286,Demarcus Robinson,WR,SF,5.0,Florida,10.0,1994-09-21,31.0,73,202,6.0,,,727279.0,demarcusrobinson,,,,,,
 7609,Demetric Felton,RB,,25.0,UCLA,4.0,1998-07-16,27.0,69,190,,,,,demetricfelton,,,,,,
-11608,Isaiah Williams,WR,NYJ,18.0,Illinois,2.0,2001-01-29,25.0,70,185,4.0,,,,isaiahwilliams,,,,,,
+11608,Isaiah Williams,WR,NYJ,18.0,Illinois,2.0,2001-01-29,25.0,70,185,5.0,,,,isaiahwilliams,,,,,,
 2315,Todd Gurley,RB,,21.0,Georgia,7.0,1994-08-03,27.0,73,224,,,,694641.0,toddgurley,,,,,,
 4551,Tanner Gentry,WR,,87.0,Wyoming,6.0,1994-12-18,28.0,74,209,,,,728964.0,tannergentry,,,,,,
-12524,Shedeur Sanders,QB,CLE,2.0,Colorado,1.0,2002-02-07,24.0,74,212,1.0,,,,shedeursanders,,1488.0,731172076769128448,1032440738459639808,TuckBrock,GriffinStiemke
+12524,Shedeur Sanders,QB,CLE,2.0,Colorado,1.0,2002-02-07,24.0,74,212,1.0,,,,shedeursanders,,1472.0,731172076769128448,1032440738459639808,TuckBrock,GriffinStiemke
 6171,Cody Thompson,WR,,83.0,Toledo,6.0,1996-01-11,29.0,74,205,,,,833514.0,codythompson,,,,,,
 11344,Keytaon Thompson,WR,,43.0,Virginia,1.0,1998-10-23,24.0,77,218,,,,,keytaonthompson,,,,,,
 3514,Jake McGee,TE,,80.0,Florida,6.0,1991-09-19,30.0,77,250,,,,556211.0,jakemcgee,,,,,,
@@ -532,7 +532,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8177,Grant Calcaterra,TE,PHI,81.0,SMU,4.0,1998-12-04,27.0,76,240,3.0,,,,grantcalcaterra,,,,,,
 13657,Alex Bullock,WR,,45.0,South Dakota State,0.0,,,74,205,,NA,Undisclosed,,alexbullock,,,,,,
 5293,Jordan Veasy,WR,,18.0,California,4.0,1995-06-23,27.0,75,221,,,,911523.0,jordanveasy,,,,,,
-8125,Calvin Austin,WR,NYG,82.0,Memphis,4.0,1999-03-24,27.0,69,162,5.0,,,,calvinaustin,,4509.0,731174840580571136,,Mattwyn,
+8125,Calvin Austin,WR,NYG,82.0,Memphis,4.0,1999-03-24,27.0,69,162,6.0,,,,calvinaustin,,4950.0,731174840580571136,,Mattwyn,
 7746,Austin Trammell,WR,JAX,81.0,Rice,5.0,1998-07-04,28.0,70,185,6.0,,,,austintrammell,,,,,,
 7587,Dyami Brown,WR,WAS,6.0,North Carolina,5.0,1999-11-01,26.0,72,195,6.0,,,,dyamibrown,,,,,,
 13422,Jaren Kanak,TE,TEN,81.0,Oklahoma,0.0,2004-02-10,22.0,74,234,3.0,,,,jarenkanak,,,,,,
@@ -541,7 +541,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 11897,Jermaine Jackson,WR,,80.0,Idaho,1.0,2000-06-02,24.0,67,170,,,,,jermainejackson,,,,,,
 8095,Graham Adomitis,TE,,0.0,Princeton,1.0,1996-08-15,25.0,76,255,,,,,grahamadomitis,,,,,,
 11382,Dontay Demus,WR,,83.0,Maryland,1.0,2000-09-26,23.0,75,220,,,,,dontaydemus,,,,,,
-8117,Jalen Tolbert,WR,MIA,1.0,South Alabama,4.0,1999-02-27,27.0,73,195,5.0,,,,jalentolbert,4768.0,,,,,
+8117,Jalen Tolbert,WR,MIA,1.0,South Alabama,4.0,1999-02-27,27.0,73,195,5.0,,,,jalentolbert,4200.0,1608.0,,,,
 7483,Farrod Green,TE,,86.0,Mississippi State,2.0,1997-06-10,24.0,75,245,,,,,farrodgreen,,,,,,
 6797,Justin Herbert,QB,LAC,10.0,Oregon,6.0,1998-03-10,28.0,78,236,1.0,,,,justinherbert,,,1001981921347375104,1267223871346454528,VanGrizzly,rudyvosters
 6849,Denzel Mims,WR,DAL,84.0,Baylor,6.0,1997-10-10,28.0,75,207,8.0,,,,denzelmims,,,,,,
@@ -553,7 +553,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4669,Andre Patton,WR,,0.0,Rutgers,5.0,1994-05-28,27.0,76,200,,,,746191.0,andrepatton,,,,,,
 1555,Kenny Stills,WR,,12.0,Oklahoma,9.0,1992-04-22,30.0,73,202,,,,542896.0,kennystills,,,,,,
 12149,Gavin Hardison,QB,,,UTEP,1.0,2000-05-15,24.0,74,206,,,,,gavinhardison,,,,,,
-10859,Sam LaPorta,TE,DET,87.0,Iowa,3.0,2001-01-12,25.0,75,245,1.0,Questionable,Back,,samlaporta,,,1000639485861785600,1265863097675956224,Joshlahay10,JacksonTaft
+10859,Sam LaPorta,TE,DET,87.0,Iowa,3.0,2001-01-12,25.0,75,245,1.0,,,,samlaporta,,,1000639485861785600,1265863097675956224,Joshlahay10,JacksonTaft
 11567,Jordan Travis,QB,,3.0,Florida State,1.0,2000-05-02,24.0,73,200,,,,,jordantravis,,,,,,
 8660,Leroy Watson,TE,,77.0,UTSA,3.0,1998-06-10,27.0,76,311,,,,,leroywatson,,,,,,
 6506,Trayone Gray,RB,,43.0,Miami,3.0,1995-12-14,26.0,73,233,,,,839549.0,trayonegray,,,,,,
@@ -585,13 +585,13 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7078,Tony Brown,WR,,0.0,Colorado,2.0,1997-08-08,24.0,73,195,,,,,tonybrown,,,,,,
 6448,Darrin Hall,RB,,34.0,Pittsburgh,3.0,1996-09-06,25.0,71,225,,,,879279.0,darrinhall,,,,,,
 2399,Ty Montgomery,RB,,14.0,Stanford,8.0,1993-01-22,30.0,72,220,,,,598969.0,tymontgomery,,,,,,
-8414,Britain Covey,WR,PHI,18.0,Utah,4.0,1997-03-18,29.0,68,173,6.0,,,,britaincovey,,,,,,
+8414,Britain Covey,WR,PHI,18.0,Utah,4.0,1997-03-18,29.0,68,173,7.0,,,,britaincovey,,,,,,
 8523,Nick Muse,TE,,87.0,South Carolina,4.0,1998-11-25,27.0,77,252,,,,,nickmuse,,,,,,
 11957,Sam Schnee,WR,,,Northern Iowa,1.0,2000-04-01,24.0,70,191,,,,,samschnee,,,,,,
 5775,Jared Murphy,WR,,9.0,"Miami, O.",4.0,1994-07-20,27.0,70,182,,,,744057.0,jaredmurphy,,,,,,
-9501,DeMario Douglas,WR,NE,3.0,Liberty,3.0,2000-12-08,25.0,68,185,4.0,,,,demariodouglas,,,731004224116207616,,p0ppy,
+9501,DeMario Douglas,WR,NE,3.0,Liberty,3.0,2000-12-08,25.0,68,185,5.0,,,,demariodouglas,,,731004224116207616,,p0ppy,
 7539,Gerrid Doaks,RB,,26.0,Cincinnati,3.0,1998-06-09,25.0,71,228,,,,,gerriddoaks,,,,,,
-8180,Jalen Nailor,WR,LV,9.0,Michigan State,4.0,1999-03-02,27.0,72,190,2.0,,,,jalennailor,4806.0,,,731000657544359936,,KyleWurster
+8180,Jalen Nailor,WR,LV,9.0,Michigan State,4.0,1999-03-02,27.0,72,190,2.0,,,,jalennailor,5436.0,,,731000657544359936,,KyleWurster
 4994,Kalen Ballage,RB,,29.0,Arizona State,4.0,1995-12-22,26.0,74,231,,,,820568.0,kalenballage,,,,,,
 1737,Case Keenum,QB,CHI,11.0,Houston,14.0,1988-02-17,38.0,73,220,3.0,,,338280.0,casekeenum,,,,,,
 6469,Davis Koppenhaver,TE,,0.0,Duke,3.0,1996-01-24,25.0,76,240,,,,830826.0,daviskoppenhaver,,,,,,
@@ -599,12 +599,12 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12519,Luther Burden,WR,CHI,10.0,Missouri,1.0,2003-12-12,22.0,72,210,2.0,,,,lutherburden,,,730904582686912512,862077560916389888,rlonigro,milly69
 7425,Patrick Carr,RB,,0.0,Houston,2.0,1995-09-22,26.0,70,205,,,,,patrickcarr,,,,,,
 7854,Miller Forristall,TE,,82.0,Alabama,3.0,1998-03-11,26.0,77,243,,,,,millerforristall,,,,,,
-9486,Dontayvion Wicks,WR,PHI,13.0,Virginia,3.0,2001-06-16,25.0,73,206,4.0,,,,dontayvionwicks,,,731003760045875200,1267223871346454528,nolan22snyder,rudyvosters
+9486,Dontayvion Wicks,WR,PHI,13.0,Virginia,3.0,2001-06-16,25.0,73,206,3.0,,,,dontayvionwicks,,,731003760045875200,1267223871346454528,nolan22snyder,rudyvosters
 1346,Marquise Goodwin,WR,,3.0,Texas,11.0,1990-11-19,33.0,69,185,,,,507478.0,marquisegoodwin,,,,,,
 2949,Synjyn Days,RB,,0.0,Georgia Tech,11.0,1991-10-09,34.0,72,223,,,,553584.0,synjyndays,,,,,,
 8650,Lujuan Winningham,WR,,0.0,Central Arkansas,1.0,,,75,195,,,,,lujuanwinningham,,,,,,
 13199,Montorie Foster,WR,SEA,87.0,Michigan State,1.0,2001-08-03,24.0,71,188,,,,,montoriefoster,,,,,,
-12455,Brashard Smith,RB,KC,24.0,SMU,1.0,2003-04-11,23.0,70,196,4.0,,,,brashardsmith,,4858.0,731000657544359936,1032440738459639808,KyleWurster,GriffinStiemke
+12455,Brashard Smith,RB,KC,24.0,SMU,1.0,2003-04-11,23.0,70,196,2.0,,,,brashardsmith,,4963.0,731000657544359936,1032440738459639808,KyleWurster,GriffinStiemke
 4881,Lamar Jackson,QB,BAL,8.0,Louisville,8.0,1997-01-07,29.0,74,205,1.0,,,877745.0,lamarjackson,,,731000657544359936,462057196620869632,KyleWurster,calebb15
 13632,Devonte Ross,WR,LAC,24.0,Penn State,0.0,2002-09-09,23.0,70,170,,,,,devonteross,,,,,,
 13428,Joey Aguilar,QB,JAX,17.0,Tennessee,0.0,2001-06-16,25.0,75,225,,,,,joeyaguilar,,,,,,
@@ -628,9 +628,9 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12408,Michael Hiers,QB,,,Samford,1.0,1999-05-28,25.0,73,215,,,,,michaelhiers,,,,,,
 12941,Bryson Nesbit,TE,MIN,83.0,North Carolina,1.0,2002-09-25,23.0,77,228,,,,,brysonnesbit,,,,,,
 4420,Cody Hollister,WR,,8.0,Arkansas,6.0,1993-11-18,29.0,76,220,,,,696881.0,codyhollister,,,,,,
-9480,Brenton Strange,TE,JAX,85.0,Penn State,3.0,2000-12-27,25.0,76,253,1.0,,,,brentonstrange,666.0,,730904582686912512,1265863097675956224,rlonigro,JacksonTaft
-12545,Tyler Shough,QB,NO,6.0,Louisville,1.0,1999-09-28,26.0,77,219,1.0,,,,tylershough,712.0,,1000853961747877888,731000657544359936,Tscheibe26,KyleWurster
-827,Tyrod Taylor,QB,GB,6.0,Virginia Tech,15.0,1989-08-03,36.0,73,217,2.0,,,399579.0,tyrodtaylor,,1602.0,,,,
+9480,Brenton Strange,TE,JAX,85.0,Penn State,3.0,2000-12-27,25.0,76,253,1.0,,,,brentonstrange,,,730904582686912512,1265863097675956224,rlonigro,JacksonTaft
+12545,Tyler Shough,QB,NO,6.0,Louisville,1.0,1999-09-28,26.0,77,219,1.0,,,,tylershough,848.0,,1000853961747877888,731000657544359936,Tscheibe26,KyleWurster
+827,Tyrod Taylor,QB,GB,6.0,Virginia Tech,15.0,1989-08-03,36.0,73,217,2.0,,,399579.0,tyrodtaylor,,1728.0,,,,
 13667,Marcus Burke,WR,,,,0.0,,,75,195,,,,,marcusburke,,,,,,
 6352,Matt Colburn,RB,,0.0,Wake Forest,6.0,1997-07-27,27.0,70,201,,,,,mattcolburn,,,,,,
 2822,Adam Humphries,WR,,27.0,Clemson,8.0,1993-06-24,30.0,74,195,,,,602096.0,adamhumphries,,,,,,
@@ -663,8 +663,8 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 13330,Kenyon Sadiq,TE,NYJ,16.0,Oregon,0.0,2005-03-04,21.0,75,241,1.0,Questionable,Undisclosed,,kenyonsadiq,,,,862077560916389888,,milly69
 12755,Kelly Akharaiyi,WR,,,Mississippi State,1.0,2000-02-05,25.0,72,201,,,,,kellyakharaiyi,,,,,,
 7317,Jared Rice,TE,,40.0,Fresno State,2.0,1996-10-19,25.0,77,243,,,,,jaredrice,,,,,,
-9506,Sean Tucker,RB,TB,44.0,Syracuse,3.0,2001-10-25,24.0,70,205,3.0,,,,seantucker,666.0,2889.0,731000657544359936,462057196620869632,KyleWurster,calebb15
-7607,Michael Carter,RB,TEN,35.0,North Carolina,5.0,1999-05-07,27.0,68,201,4.0,,,,michaelcarter,,2680.0,,,,
+9506,Sean Tucker,RB,TB,44.0,Syracuse,3.0,2001-10-25,24.0,70,205,3.0,,,,seantucker,1116.0,2889.0,731000657544359936,462057196620869632,KyleWurster,calebb15
+7607,Michael Carter,RB,TEN,35.0,North Carolina,5.0,1999-05-07,27.0,68,201,4.0,,,,michaelcarter,,3044.0,,,,
 8167,Christian Watson,WR,GB,9.0,North Dakota State,4.0,1999-05-12,27.0,76,215,1.0,,,,christianwatson,,,730904582686912512,731000657544359936,rlonigro,KyleWurster
 8211,Tyrion Davis-Price,RB,,44.0,LSU,3.0,2000-10-23,24.0,72,211,,,,,tyriondavisprice,,,,,,
 5777,Malachi Jones,WR,,2.0,Appalachian State,6.0,1994-03-20,27.0,74,215,,,,695382.0,malachijones,,,,,,
@@ -676,7 +676,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 3505,Dom Williams,WR,,80.0,Washington State,6.0,1992-12-11,29.0,74,200,,,,608147.0,domwilliams,,,,,,
 5223,Caleb Scott,WR,TEN,83.0,Vanderbilt,4.0,1996-02-26,25.0,74,203,,,,835860.0,calebscott,,,,,,
 642,Golden Tate,WR,,0.0,Notre Dame,12.0,1988-08-02,33.0,70,197,,,,400490.0,goldentate,,,,,,
-9999,Will Levis,QB,TEN,8.0,Kentucky,3.0,1999-06-27,27.0,76,229,2.0,,,,willlevis,,1792.0,,,,
+9999,Will Levis,QB,TEN,8.0,Kentucky,3.0,1999-06-27,27.0,76,229,3.0,,,,willlevis,,1856.0,,,,
 13344,Preston Fox,WR,,,,0.0,,,70,188,,,,,prestonfox,,,,,,
 6420,Jon'Vea Johnson,WR,,0.0,Toledo,3.0,1995-12-23,26.0,72,192,,,,833478.0,jonveajohnson,,,,,,
 12509,Tre' Harris,WR,LAC,9.0,Ole Miss,1.0,2002-02-28,24.0,75,210,3.0,,,,treharris,,,1000853961747877888,462057196620869632,Tscheibe26,calebb15
@@ -692,14 +692,14 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12946,Dontae Fleming,WR,MIN,19.0,Tulane,1.0,2001-11-28,24.0,74,180,,,,,dontaefleming,,,,,,
 2790,Nigel King,WR,,0.0,Kansas,10.0,1992-10-09,32.0,75,210,,,,592458.0,nigelking,,,,,,
 8158,Carson Strong,QB,,0.0,Nevada,1.0,1999-09-14,23.0,75,226,,,,,carsonstrong,,,,,,
-11651,Isaac Guerendo,RB,SF,31.0,Louisville,2.0,2000-06-28,26.0,72,221,5.0,Questionable,Pectoral,,isaacguerendo,,,731184036722118656,,JScott51,
+11651,Isaac Guerendo,RB,SF,31.0,Louisville,2.0,2000-06-28,26.0,72,221,4.0,Questionable,Pectoral,,isaacguerendo,,,731184036722118656,,JScott51,
 8613,Taysir Mack,WR,,0.0,Pittsburgh,1.0,1998-09-17,24.0,74,190,,,,,taysirmack,,,,,,
 2462,J.J. Nelson,WR,,15.0,UAB,7.0,1992-04-24,30.0,70,160,,,,557431.0,jjnelson,,,,,,
 14020,Dean Patterson,WR,TB,8.0,Georgia Tech,0.0,,,74,200,,,,,deanpatterson,,,,,,
 6237,Wilton Speight,QB,,5.0,UCLA,3.0,1994-12-06,27.0,78,232,,,,822513.0,wiltonspeight,,,,,,
 3846,Duke Williams,WR,,0.0,Auburn,6.0,1993-05-13,28.0,75,225,,,,824249.0,dukewilliams,,,,,,
 6392,Johnathan Lloyd,WR,,10.0,Duke,3.0,1995-12-04,26.0,72,190,,,,820719.0,johnathanlloyd,,,,,,
-13272,Carson Beck,QB,ARI,19.0,Miami (FL),0.0,2002-11-19,23.0,76,233,2.0,,,,carsonbeck,,,,585284262555594752,,AlexVanOoyen
+13272,Carson Beck,QB,ARI,19.0,Miami (FL),0.0,2002-11-19,23.0,76,233,3.0,,,,carsonbeck,,,,585284262555594752,,AlexVanOoyen
 8831,Ethan Fernea,WR,,13.0,UCLA,2.0,1998-03-02,26.0,72,195,,,,,ethanfernea,,,,,,
 8751,Dylan Parham,TE,,0.0,North Carolina State,2.0,1998-05-31,24.0,77,245,,,,,dylanparham,,,,,,
 11189,Zay Malone,WR,,82.0,Henderson State,1.0,2000-03-06,23.0,69,180,,,,,zaymalone,,,,,,
@@ -712,7 +712,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8068,C.J. Saunders,WR,,85.0,Ohio State,2.0,1996-09-15,27.0,70,190,,,,,cjsaunders,,,,,,
 13673,Trent Battle,RB,,,,0.0,,,73,205,,,,,trentbattle,,,,,,
 5977,Terry Godwin,WR,,80.0,Georgia,3.0,1996-10-23,25.0,71,185,,,,879072.0,terrygodwin,,,,,,
-3271,Tyler Higbee,TE,LAR,89.0,Western Kentucky,10.0,1993-01-01,33.0,78,253,3.0,,,604176.0,tylerhigbee,,1503.0,,,,
+3271,Tyler Higbee,TE,LAR,89.0,Western Kentucky,10.0,1993-01-01,33.0,78,253,3.0,,,604176.0,tylerhigbee,,1899.0,,,,
 11267,Aron Cruickshank,WR,,84.0,Rutgers,1.0,2000-09-07,22.0,70,170,,,,,aroncruickshank,,,,,,
 2906,Bell Braylon,WR,,0.0,Abilene Christian,3.0,,,78,205,,,,736104.0,bellbraylon,,,,,,
 1502,Chris Thompson,RB,,0.0,Florida State,9.0,1990-10-20,31.0,68,187,,,,509372.0,christhompson,,,,,,
@@ -737,33 +737,33 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6659,Craig Reynolds,RB,,49.0,Kutztown,7.0,1996-06-15,29.0,71,216,,Questionable,Undisclosed,1167356.0,craigreynolds,,,,,,
 8090,Daniel Crawford,TE,,80.0,Northern Illinois,1.0,1997-12-15,24.0,74,251,,,,,danielcrawford,,,,,,
 9228,Bryce Young,QB,CAR,9.0,Alabama,3.0,2001-07-25,24.0,70,204,1.0,,,,bryceyoung,,,1000639485861785600,862077560916389888,Joshlahay10,milly69
-12487,Terrance Ferguson,TE,LAR,18.0,Oregon,1.0,2003-03-07,23.0,77,252,1.0,,,,terranceferguson,688.0,1656.0,731000657544359936,1127441193396285440,KyleWurster,LilmanJay67
+12487,Terrance Ferguson,TE,LAR,18.0,Oregon,1.0,2003-03-07,23.0,77,252,1.0,,,,terranceferguson,1536.0,,731000657544359936,1127441193396285440,KyleWurster,LilmanJay67
 8694,Henry Litwin,WR,,0.0,Slippery Rock,1.0,,,71,189,,,,,henrylitwin,,,,,,
-10221,Ronnie Bell,WR,NO,85.0,Michigan,3.0,2000-01-28,26.0,72,192,9.0,,,,ronniebell,,,,,,
+10221,Ronnie Bell,WR,NO,85.0,Michigan,3.0,2000-01-28,26.0,72,192,8.0,,,,ronniebell,,,,,,
 6195,Damon Sheehy-Guiseppi,WR,,15.0,Phoenix CC,3.0,1995-02-15,26.0,71,181,,,,1164241.0,damonsheehyguiseppi,,,,,,
 4131,Kenny Golladay,WR,,19.0,Northern Illinois,6.0,1993-11-03,29.0,76,213,,,,697295.0,kennygolladay,,,,,,
 5973,Josh Oliver,TE,MIN,84.0,San Jose State,7.0,1997-03-21,29.0,77,264,2.0,Questionable,Ankle,881779.0,josholiver,,,,,,
 6870,Bryan Edwards,WR,,11.0,South Carolina,3.0,1998-11-13,24.0,75,215,,,,,bryanedwards,,,,,,
-8408,Jordan Mason,RB,MIN,27.0,Georgia Tech,4.0,1999-05-24,27.0,71,230,2.0,,,,jordanmason,,,1000853961747877888,1267223871346454528,Tscheibe26,rudyvosters
+8408,Jordan Mason,RB,MIN,27.0,Georgia Tech,4.0,1999-05-24,27.0,71,230,1.0,,,,jordanmason,,,1000853961747877888,1267223871346454528,Tscheibe26,rudyvosters
 12884,Quincy Skinner,WR,,,Vanderbilt,1.0,2003-02-28,22.0,74,205,,,,,quincyskinner,,,,,,
 8226,Greg Bell,RB,,38.0,San Diego State,2.0,1998-06-16,25.0,72,200,,,,,gregbell,,,,,,
 5128,Logan Woodside,QB,,15.0,Toledo,8.0,1995-01-27,30.0,74,201,,,,732107.0,loganwoodside,,,,,,
 13603,Gregory Desrosiers,RB,LAC,31.0,Memphis,0.0,,,71,200,,,,,gregorydesrosiers,,,,,,
 10869,Matt Landers,WR,,83.0,Arkansas,2.0,1999-06-16,26.0,76,200,,,,,mattlanders,,,,,,
-11650,Luke McCaffrey,WR,WAS,11.0,Rice,2.0,2001-04-02,25.0,74,195,7.0,,,,lukemccaffrey,,2842.0,731174840580571136,,Mattwyn,
+11650,Luke McCaffrey,WR,WAS,11.0,Rice,2.0,2001-04-02,25.0,74,195,4.0,,,,lukemccaffrey,,3024.0,731174840580571136,,Mattwyn,
 7235,Aleva Hifo,WR,,84.0,Brigham Young,2.0,1997-12-23,24.0,70,187,,,,,alevahifo,,,,,,
 8798,Felix Harper,QB,,0.0,Alcorn State,1.0,,,71,180,,,,,felixharper,,,,,,
 6988,Raymond Calais,RB,,30.0,Louisiana,2.0,1998-04-02,24.0,68,188,,,,,raymondcalais,,,,,,
 2635,Vernon Johnson,WR,,0.0,Texas A&M-Commerce,10.0,1992-04-17,32.0,73,190,,,,847325.0,vernonjohnson,,,,,,
-13296,Caleb Douglas,WR,MIA,7.0,Texas Tech,0.0,2003-09-09,22.0,76,205,4.0,Questionable,Undisclosed,,calebdouglas,5656.0,,,731000657544359936,,KyleWurster
+13296,Caleb Douglas,WR,MIA,7.0,Texas Tech,0.0,2003-09-09,22.0,76,205,3.0,Questionable,Undisclosed,,calebdouglas,10704.0,,,,,
 6263,Trevor Wood,TE,,88.0,Texas A&M,3.0,1996-01-25,25.0,78,265,,,,838138.0,trevorwood,,,,,,
 7021,Rico Dowdle,RB,PIT,13.0,South Carolina,6.0,1998-06-14,28.0,71,215,2.0,,,,ricodowdle,,,731000657544359936,1265863097675956224,KyleWurster,JacksonTaft
 11301,Braxton Westfield,WR,,13.0,Carson-Newman,1.0,,,76,205,,,,,braxtonwestfield,,,,,,
-11895,Mason Tipton,WR,NO,15.0,Yale,2.0,2000-09-27,25.0,71,187,8.0,Questionable,Groin,,masontipton,,,,,,
+11895,Mason Tipton,WR,NO,15.0,Yale,2.0,2000-09-27,25.0,71,187,7.0,Questionable,Groin,,masontipton,,,,,,
 13852,Dontae McMillan,RB,BAL,36.0,Eastern Michigan,0.0,2001-10-04,24.0,70,203,,,,,dontaemcmillan,,,,,,
 5260,Vyncint Smith,WR,,15.0,Limestone,5.0,1996-06-09,27.0,75,195,,,,850603.0,vyncintsmith,,,,,,
 1701,Eric Rogers,WR,,3.0,California Lutheran,9.0,1991-02-12,30.0,76,195,,,,,ericrogers,,,,,,
-11630,Roman Wilson,WR,PIT,14.0,Michigan,2.0,2001-06-19,25.0,70,186,4.0,,,,romanwilson,,2907.0,,,,
+11630,Roman Wilson,WR,PIT,14.0,Michigan,2.0,2001-06-19,25.0,70,186,4.0,,,,romanwilson,,3654.0,,,,
 7083,Tyler Huntley,QB,BAL,5.0,Utah,6.0,1998-02-03,28.0,73,204,2.0,,,,tylerhuntley,,,,,,
 12735,Caleb Lohner,TE,DEN,84.0,Utah,1.0,2001-10-01,24.0,79,250,6.0,Questionable,Lower Body,,caleblohner,,,,,,
 12288,Mathieu Severance,RB,,,Bentley,1.0,,,68,191,,,,,mathieuseverance,,,,,,
@@ -776,8 +776,8 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12066,Elijah Collins,RB,,,Oklahoma State,1.0,2000-08-01,24.0,72,212,,,,,elijahcollins,,,,,,
 11504,Jose Barbon,WR,,14.0,Temple,1.0,2000-04-16,23.0,72,185,,,,,josebarbon,,,,,,
 5962,KeeSean Johnson,WR,,81.0,Fresno State,4.0,1996-10-09,26.0,73,201,,,,838443.0,keeseanjohnson,,,,,,
-8135,Treylon Burks,WR,WAS,13.0,Arkansas,4.0,2000-03-23,26.0,74,225,5.0,,,,treylonburks,8750.0,2114.0,,,,
-7694,Tommy Tremble,TE,CAR,82.0,Notre Dame,5.0,2000-06-02,26.0,76,250,2.0,,,,tommytremble,,,,,,
+8135,Treylon Burks,WR,WAS,13.0,Arkansas,4.0,2000-03-23,26.0,74,225,3.0,,,,treylonburks,19768.0,2310.0,,,,
+7694,Tommy Tremble,TE,CAR,82.0,Notre Dame,5.0,2000-06-02,26.0,76,250,1.0,,,,tommytremble,,,,,,
 8656,Tyshaun James,WR,,0.0,Central Connecticut State,1.0,1999-06-22,23.0,74,214,,,,,tyshaunjames,,,,,,
 7418,Broc Rutter,QB,,5.0,North Central,2.0,1997-04-03,24.0,74,204,,,,,brocrutter,,,,,,
 6153,Dexter Williams,RB,,34.0,Notre Dame,3.0,1997-01-06,25.0,71,212,,,,884610.0,dexterwilliams,,,,,,
@@ -792,23 +792,23 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8169,Tre Turner,WR,,0.0,Virginia Tech,1.0,,,73,184,,,,,treturner,,,,,,
 6371,Drew Anderson,QB,,3.0,Murray State,3.0,1995-10-18,26.0,76,221,,,,945086.0,drewanderson,,,,,,
 13325,Jordan Hudson,WR,DAL,18.0,SMU,0.0,2003-11-22,22.0,73,199,,,,,jordanhudson,,,,,,
-7596,Elijah Moore,WR,PHI,19.0,Ole Miss,5.0,2000-03-27,26.0,70,178,7.0,,,,elijahmoore,,,,,,
+7596,Elijah Moore,WR,PHI,19.0,Ole Miss,5.0,2000-03-27,26.0,70,178,5.0,,,,elijahmoore,,,,,,
 8799,Zaire Mitchell-Paden,TE,NO,84.0,Florida Atlantic,4.0,1999-08-20,26.0,77,257,5.0,,,,zairemitchellpaden,,,,,,
-8146,Garrett Wilson,WR,NYJ,5.0,Ohio State,4.0,2000-07-22,25.0,72,183,1.0,,,,garrettwilson,,,731184036722118656,1265863097675956224,JScott51,JacksonTaft
+8146,Garrett Wilson,WR,NYJ,5.0,Ohio State,4.0,2000-07-22,26.0,72,183,1.0,,,,garrettwilson,,,731184036722118656,1265863097675956224,JScott51,JacksonTaft
 6040,Tyree Jackson,TE,,80.0,Buffalo,7.0,1997-11-07,28.0,79,249,,Questionable,Undisclosed,881048.0,tyreejackson,,,,,,
 8543,Drew Estrada,WR,,81.0,Baylor,1.0,1997-07-24,25.0,72,196,,,,,drewestrada,,,,,,
 5209,Mike Boone,RB,,16.0,Cincinnati,7.0,1995-06-30,30.0,70,206,,,,842181.0,mikeboone,,,,,,
-4663,Austin Ekeler,RB,,30.0,Western Colorado,9.0,1995-05-17,30.0,70,200,,,,790004.0,austinekeler,,1956.0,,,,
-9511,Keaton Mitchell,RB,LAC,34.0,East Carolina,3.0,2002-01-17,24.0,68,191,2.0,,,,keatonmitchell,2592.0,,1000639485861785600,1032440738459639808,Joshlahay10,GriffinStiemke
+4663,Austin Ekeler,RB,,30.0,Western Colorado,9.0,1995-05-17,30.0,70,200,,,,790004.0,austinekeler,,2416.0,,,,
+9511,Keaton Mitchell,RB,LAC,34.0,East Carolina,3.0,2002-01-17,24.0,68,191,2.0,,,,keatonmitchell,3492.0,,1000639485861785600,1032440738459639808,Joshlahay10,GriffinStiemke
 943,Kyle Rudolph,TE,,8.0,Notre Dame,12.0,1989-11-09,33.0,78,258,,,,469472.0,kylerudolph,,,,,,
-13311,Chris Bell,WR,MIA,18.0,Louisville,0.0,2004-06-07,22.0,74,220,2.0,Questionable,Knee - ACL,,chrisbell,,,,1357227930467434496,,OwenBowers
+13311,Chris Bell,WR,MIA,18.0,Louisville,0.0,2004-06-07,22.0,74,220,1.0,PUP,Knee - ACL,,chrisbell,1148.0,,,1357227930467434496,,OwenBowers
 7521,Chris Blair,WR,ATL,19.0,Alcorn State,5.0,1997-10-06,28.0,74,215,5.0,,,,chrisblair,,,,,,
 7352,Matt Cole,WR,,18.0,McKendree,2.0,1996-11-07,25.0,70,197,,,,,mattcole,,,,,,
 12543,Tahj Brooks,RB,CIN,25.0,Texas Tech,1.0,2002-05-13,24.0,69,220,3.0,,,,tahjbrooks,,,1000853961747877888,,Tscheibe26,
 7438,Kristian Wilkerson,WR,,82.0,Southeast Missouri State,6.0,1997-01-10,29.0,73,214,,,,,kristianwilkerson,,,,,,
-13299,Nate Boerkircher,TE,JAX,87.0,Texas A&M,0.0,2001-09-04,24.0,77,245,2.0,,,,nateboerkircher,,,,,,
+13299,Nate Boerkircher,TE,JAX,87.0,Texas A&M,0.0,2001-09-04,24.0,77,245,3.0,,,,nateboerkircher,,,,,,
 8186,Devon Williams,WR,,0.0,Oregon,1.0,,,77,211,,,,,devonwilliams,,,,,,
-8208,Tyler Badie,RB,DEN,28.0,Missouri,4.0,2000-02-07,26.0,68,197,4.0,,,,tylerbadie,,,,,,
+8208,Tyler Badie,RB,DEN,28.0,Missouri,4.0,2000-02-07,26.0,68,197,5.0,,,,tylerbadie,,,,,,
 1855,Shaquelle Evans,WR,,84.0,UCLA,8.0,1991-03-07,30.0,72,210,,,,508969.0,shaquelleevans,,,,,,
 1604,Nick Williams,WR,DEN,0.0,UConn,10.0,1990-11-23,32.0,70,184,,,,511823.0,nickwilliams,,,,,,
 8908,Brandon Lewis,WR,,0.0,Air Force,1.0,,,69,175,,,,,brandonlewis,,,,,,
@@ -832,20 +832,20 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 2142,Rajion Neal,RB,,43.0,Tennessee,8.0,1992-03-28,29.0,71,220,,,,542837.0,rajionneal,,,,,,
 5750,Garrett Hudson,TE,,46.0,Richmond,4.0,1995-01-24,26.0,76,245,,,,823118.0,garretthudson,,,,,,
 11644,Cody Schrader,RB,DEN,5.0,Missouri,2.0,1999-09-08,26.0,69,214,7.0,,,,codyschrader,,,,,,
-4040,JuJu Smith-Schuster,WR,NYG,8.0,USC,9.0,1996-11-22,29.0,73,215,7.0,,,835909.0,jujusmithschuster,,,731004224116207616,,p0ppy,
-8206,Skylar Thompson,QB,BAL,11.0,Kansas State,4.0,1997-06-04,29.0,74,219,4.0,,,,skylarthompson,,,,,,
+4040,JuJu Smith-Schuster,WR,NYG,8.0,USC,9.0,1996-11-22,29.0,73,215,5.0,,,835909.0,jujusmithschuster,,,731004224116207616,,p0ppy,
+8206,Skylar Thompson,QB,BAL,11.0,Kansas State,4.0,1997-06-04,29.0,74,219,3.0,,,,skylarthompson,,,,,,
 7316,Darius Bradwell,RB,,32.0,Tulane,2.0,1997-05-15,25.0,72,235,,,,,dariusbradwell,,,,,,
 12171,British Brooks,RB,HOU,44.0,North Carolina,2.0,1999-11-18,26.0,71,225,4.0,,,,britishbrooks,,,,,,
 11214,Tanner Morgan,QB,,4.0,Minnesota,1.0,1999-04-17,24.0,74,215,,,,,tannermorgan,,,,,,
 5110,Russell Gage,WR,,14.0,LSU,7.0,1996-01-22,29.0,72,184,,,,822014.0,russellgage,,,,,,
 6363,Michael Walker,WR,,0.0,Boston College,3.0,1996-10-29,25.0,71,195,,,,883432.0,michaelwalker,,,,,,
-3321,Tyreek Hill,WR,,10.0,West Alabama,10.0,1994-03-01,31.0,70,191,,Questionable,Knee - ACL,823156.0,tyreekhill,1056.0,3184.0,731172076769128448,1265863097675956224,TuckBrock,JacksonTaft
+3321,Tyreek Hill,WR,,10.0,West Alabama,10.0,1994-03-01,31.0,70,191,,Questionable,Knee - ACL,823156.0,tyreekhill,1976.0,8856.0,731172076769128448,1265863097675956224,TuckBrock,JacksonTaft
 8013,Tim Jones,WR,JAX,13.0,Southern Miss,5.0,1998-05-15,28.0,73,200,7.0,,,,timjones,,,,,,
 4571,Blake Jarwin,TE,,89.0,Oklahoma State,5.0,1994-07-16,27.0,77,260,,,,711965.0,blakejarwin,,,,,,
 13074,Isaiah Neyor,WR,GB,80.0,Nebraska,1.0,2001-06-07,25.0,76,218,8.0,,,,isaiahneyor,,,,,,
 12198,Wayne Ruby,WR,,,Mount Union,1.0,2000-06-18,24.0,73,190,,,,,wayneruby,,,,,,
 13415,Haynes King,QB,CAR,16.0,Georgia Tech,0.0,2001-01-09,25.0,74,212,,,,,haynesking,,,,,,
-6185,Easton Stick,QB,IND,4.0,North Dakota State,7.0,1995-09-15,30.0,73,224,4.0,,,831007.0,eastonstick,,,,,,
+6185,Easton Stick,QB,IND,4.0,North Dakota State,7.0,1995-09-15,30.0,73,224,3.0,,,831007.0,eastonstick,,,,,,
 12224,David White,WR,,16.0,Western Carolina,1.0,2000-07-18,25.0,76,200,,,,,davidwhite,,,,,,
 6361,Raphael Leonard,WR,,14.0,Southern Illinois,3.0,1997-05-26,24.0,74,197,,,,1058046.0,raphaelleonard,,,,,,
 11081,Cephus Johnson,WR,,28.0,Southeastern Louisiana,1.0,1999-09-21,24.0,77,220,,,,,cephusjohnson,,,,,,
@@ -859,9 +859,9 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7149,Tommy Stevens,TE,NYG,0.0,Mississippi State,2.0,1996-12-15,25.0,77,235,,,,,tommystevens,,,,,,
 8817,Nolan Givan,TE,,0.0,Southeastern Louisiana,1.0,,,75,250,,,,,nolangivan,,,,,,
 8132,Tyler Allgeier,RB,ARI,22.0,BYU,4.0,2000-04-15,26.0,70,225,2.0,,,,tylerallgeier,,,731004224116207616,731000657544359936,p0ppy,KyleWurster
-12523,Jimmy Horn,WR,CAR,15.0,Colorado,1.0,2002-09-12,23.0,68,174,6.0,,,,jimmyhorn,,1659.0,731172076769128448,,TuckBrock,
+12523,Jimmy Horn,WR,CAR,15.0,Colorado,1.0,2002-09-12,23.0,68,174,6.0,,,,jimmyhorn,,1869.0,731172076769128448,,TuckBrock,
 3157,William Fuller,WR,,3.0,Notre Dame,6.0,1994-04-16,27.0,73,184,,,,749948.0,williamfuller,,,,,,
-13401,Michael Trigg,TE,DAL,46.0,Baylor,0.0,2002-06-27,24.0,76,240,3.0,,,,michaeltrigg,1485.0,,,,,
+13401,Michael Trigg,TE,DAL,46.0,Baylor,0.0,2002-06-27,24.0,76,240,2.0,,,,michaeltrigg,1899.0,,,,,
 8254,Julius Chestnut,RB,TEN,36.0,Sacred Heart,4.0,2000-10-26,25.0,71,228,6.0,,,,juliuschestnut,,,,,,
 13261,Layne Pryor,TE,HOU,47.0,Northern Iowa,1.0,2003-04-05,23.0,74,250,5.0,Questionable,Quadriceps,,laynepryor,,,,,,
 8107,Nikola Kalinic,TE,CHI,86.0,York (CAN),4.0,1997-01-21,29.0,76,248,4.0,,,,nikolakalinic,,,,,,
@@ -886,8 +886,8 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7960,T.J. Simmons,WR,,83.0,West Virginia,1.0,,,74,198,,,,,tjsimmons,,,,,,
 8663,Jared Bernhardt,WR,,83.0,Ferris State,1.0,1997-09-12,25.0,73,195,,,,,jaredbernhardt,,,,,,
 7867,Spencer Brown,RB,,42.0,UAB,3.0,1998-11-13,25.0,72,220,,,,,spencerbrown,,,,,,
-7535,Hunter Long,TE,JAX,84.0,Boston College,5.0,1998-08-19,27.0,77,243,4.0,,,,hunterlong,,,,,,
-12482,Savion Williams,WR,GB,83.0,TCU,1.0,2001-11-22,24.0,76,222,4.0,,,,savionwilliams,,1351.0,,,,
+7535,Hunter Long,TE,JAX,84.0,Boston College,5.0,1998-08-19,27.0,77,243,5.0,,,,hunterlong,,,,,,
+12482,Savion Williams,WR,GB,83.0,TCU,1.0,2001-11-22,24.0,76,222,4.0,,,,savionwilliams,,,,,,
 13190,Taylor Elgersma,QB,,,Wilfrid Laurier (CAN),1.0,2002-03-27,23.0,77,227,,,,,taylorelgersma,,,,,,
 8088,Kalif Jackson,TE,MIA,60.0,Grambling State,1.0,,,77,255,,,,,kalifjackson,,,,,,
 5142,Kurt Benkert,QB,,14.0,Virginia,4.0,1995-07-17,27.0,75,218,,,,728991.0,kurtbenkert,,,,,,
@@ -900,7 +900,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7530,Frank Darby,WR,,3.0,Arizona State,3.0,1997-09-08,26.0,73,200,,,,,frankdarby,,,,,,
 13119,Collin Schlee,QB,,,Virginia Tech,0.0,2001-05-30,24.0,75,225,,,,,collinschlee,,,,,,
 6909,Lynn Bowden,WR,,5.0,Kentucky,4.0,1997-10-14,26.0,73,204,,,,,lynnbowden,,,,,,
-13424,Seth McGowan,RB,IND,20.0,Kentucky,0.0,2001-10-23,24.0,72,223,3.0,,,,sethmcgowan,4648.0,,,1357227930467434496,,OwenBowers
+13424,Seth McGowan,RB,IND,20.0,Kentucky,0.0,2001-10-23,24.0,72,223,3.0,,,,sethmcgowan,8032.0,,,1357227930467434496,,OwenBowers
 3445,Marcus Johnson,WR,,84.0,Texas,7.0,1994-08-05,28.0,73,204,,,,691348.0,marcusjohnson,,,,,,
 3178,Josh Doctson,WR,,0.0,TCU,6.0,1992-12-03,29.0,74,206,,,,592413.0,joshdoctson,,,,,,
 7378,Kyle Markway,TE,,47.0,South Carolina,2.0,1997-03-04,25.0,76,250,,,,,kylemarkway,,,,,,
@@ -918,7 +918,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 3407,Beau Sandland,TE,,85.0,Montana State,6.0,1993-02-23,28.0,77,250,,,,728150.0,beausandland,,,,,,
 7703,Jacob Harris,WR,,30.0,UCF,4.0,1997-04-16,28.0,77,211,,,,,jacobharris,,,,,,
 5558,Marcus Martin,RB,,0.0,Slippery Rock,4.0,1995-02-16,26.0,74,255,,,,,marcusmartin,,,,,,
-4351,Tim Patrick,WR,NYJ,17.0,Utah,9.0,1993-11-23,32.0,77,210,5.0,,,838179.0,timpatrick,,,,,,
+4351,Tim Patrick,WR,NYJ,17.0,Utah,9.0,1993-11-23,32.0,77,210,4.0,,,838179.0,timpatrick,,,,,,
 11276,Joseph Ngata,WR,,86.0,Clemson,2.0,2001-01-09,24.0,75,215,,,,,josephngata,,,,,,
 12355,Treveyon Pratt,WR,,,Morgan State,1.0,2000-05-26,24.0,74,195,,,,,treveyonpratt,,,,,,
 2846,Marquez Clark,WR,,0.0,Central Oklahoma,10.0,1991-09-26,33.0,71,185,,,,652839.0,marquezclark,,,,,,
@@ -957,7 +957,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 9493,Puka Nacua,WR,LAR,12.0,BYU,3.0,2001-05-29,25.0,74,216,1.0,,,,pukanacua,,,731000657544359936,1127441193396285440,KyleWurster,LilmanJay67
 13321,Dan Villari,TE,LAR,38.0,Syracuse,0.0,2002-06-29,24.0,76,243,,,,,danvillari,,,,,,
 12019,Devin Carter,WR,,,West Virginia,1.0,2002-03-18,22.0,75,214,,,,,devincarter,,,,,,
-10226,Andrei Iosivas,WR,CIN,80.0,Princeton,3.0,1999-10-15,26.0,75,210,3.0,,,,andreiiosivas,2223.0,1719.0,,,,
+10226,Andrei Iosivas,WR,CIN,80.0,Princeton,3.0,1999-10-15,26.0,75,210,3.0,,,,andreiiosivas,2664.0,1683.0,,,,
 4285,Robert Davis,WR,,14.0,Georgia State,5.0,1995-04-02,26.0,75,210,,,,744112.0,robertdavis,,,,,,
 8248,Kalil Pimpleton,WR,,81.0,Central Michigan,1.0,1998-12-09,24.0,69,172,,,,,kalilpimpleton,,,,,,
 5431,Shay Fields,WR,,16.0,Colorado,4.0,1996-06-22,25.0,71,185,,,,835740.0,shayfields,,,,,,
@@ -974,11 +974,11 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 11617,Malachi Corley,WR,CLE,83.0,Western Kentucky,2.0,2002-03-21,24.0,71,215,7.0,,,,malachicorley,,,,,,
 2673,Damiere Byrd,WR,,89.0,South Carolina,9.0,1993-01-27,31.0,69,175,,,,604908.0,damierebyrd,,,,,,
 6710,Josh Caldwell,RB,,30.0,Northwest Missouri State,3.0,1996-05-28,25.0,71,220,,,,1171711.0,joshcaldwell,,,,,,
-4981,Calvin Ridley,WR,TEN,0.0,Alabama,8.0,1994-12-20,31.0,73,190,3.0,,,884013.0,calvinridley,,,731184036722118656,1267949452228820992,JScott51,carsonclausen12
-4171,Josh Reynolds,WR,,83.0,Texas A&M,9.0,1995-02-16,31.0,75,192,,Questionable,Hip,822367.0,joshreynolds,,,,,,
+4981,Calvin Ridley,WR,TEN,0.0,Alabama,8.0,1994-12-20,31.0,73,190,3.0,,,884013.0,calvinridley,788.0,,731184036722118656,1267949452228820992,JScott51,carsonclausen12
+4171,Josh Reynolds,WR,,83.0,Texas A&M,9.0,1995-02-16,31.0,75,192,,Questionable,Hip,822367.0,joshreynolds,,1488.0,,,,
 6926,Brycen Hopkins,TE,,88.0,Purdue,4.0,1997-03-27,27.0,76,245,,,,,brycenhopkins,,,,,,
 7893,Dedrick Mills,RB,,0.0,Nebraska,1.0,1996-12-27,25.0,71,220,,,,,dedrickmills,,,,,,
-7946,Jack Stoll,TE,CLE,89.0,Nebraska,5.0,1998-01-28,28.0,76,245,5.0,,,,jackstoll,,,,,,
+7946,Jack Stoll,TE,CLE,89.0,Nebraska,5.0,1998-01-28,28.0,76,245,4.0,,,,jackstoll,,,,,,
 13417,De'Zhaun Stribling,WR,SF,15.0,Ole Miss,0.0,2002-12-18,23.0,74,207,4.0,,,,dezhaunstribling,,,,1127441193396285440,,LilmanJay67
 8077,Otis Anderson,RB,,0.0,Central Florida,1.0,1998-11-12,23.0,71,174,,,,,otisanderson,,,,,,
 2935,Ricky Collins,WR,,0.0,Texas A&M-Commerce,10.0,1992-03-05,33.0,72,200,,,,847319.0,rickycollins,,,,,,
@@ -988,11 +988,11 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 2373,Clive Walford,TE,,0.0,Miami (FL),7.0,1991-10-01,30.0,76,252,,,,553616.0,clivewalford,,,,,,
 12906,Cam Camper,WR,,,Boise State,1.0,2001-08-21,24.0,75,197,,,,,camcamper,,,,,,
 8160,Kenny Pickett,QB,CAR,12.0,Pittsburgh,4.0,1998-06-06,28.0,75,220,2.0,,,,kennypickett,,,,,,
-9479,Darnell Washington,TE,PIT,80.0,Georgia,3.0,2001-08-17,24.0,79,264,2.0,,,,darnellwashington,730.0,1555.0,731172076769128448,,TuckBrock,
+9479,Darnell Washington,TE,PIT,80.0,Georgia,3.0,2001-08-17,24.0,79,264,2.0,,,,darnellwashington,985.0,1510.0,731172076769128448,,TuckBrock,
 7752,Kawaan Baker,WR,,17.0,South Alabama,4.0,1998-08-24,27.0,73,210,,,,,kawaanbaker,,,,,,
 11577,Will Shipley,RB,PHI,28.0,Clemson,2.0,2002-08-29,23.0,71,209,3.0,,,,willshipley,,,1000639485861785600,,Joshlahay10,
-12540,Chimere Dike,WR,TEN,17.0,Florida,1.0,2001-12-14,24.0,73,196,4.0,,,,chimeredike,,3816.0,731184036722118656,730904582686912512,JScott51,rlonigro
-13307,Marlin Klein,TE,HOU,83.0,Michigan,0.0,2002-09-17,23.0,78,250,2.0,Questionable,Hamstring,,marlinklein,,,,,,
+12540,Chimere Dike,WR,TEN,17.0,Florida,1.0,2001-12-14,24.0,73,196,4.0,,,,chimeredike,945.0,4059.0,731184036722118656,730904582686912512,JScott51,rlonigro
+13307,Marlin Klein,TE,HOU,83.0,Michigan,0.0,2002-09-17,23.0,78,250,3.0,Questionable,Hamstring,,marlinklein,785.0,,,,,
 3978,Jacob Huesman,QB,,48.0,Chattanooga,5.0,1993-02-27,28.0,74,220,,,,610344.0,jacobhuesman,,,,,,
 5859,A.J. Brown,WR,NE,1.0,Ole Miss,7.0,1997-06-30,29.0,73,226,1.0,,,944826.0,ajbrown,,,1001981921347375104,462057196620869632,VanGrizzly,calebb15
 4034,Christian McCaffrey,RB,SF,23.0,Stanford,9.0,1996-06-07,30.0,71,210,1.0,,,830517.0,christianmccaffrey,,,731172076769128448,990858054952411136,TuckBrock,parkergullixon
@@ -1014,7 +1014,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4455,Matt Breida,RB,,28.0,Georgia Southern,7.0,1995-02-28,29.0,70,195,,,,750097.0,mattbreida,,,,,,
 2291,Dontrelle Inman,WR,,0.0,Virginia,11.0,1989-01-31,32.0,75,205,,,,399529.0,dontrelleinman,,,,,,
 8240,BJ Baylor,RB,,36.0,Oregon State,1.0,1998-09-08,24.0,70,202,,,,,bjbaylor,,,,,,
-7591,Justin Fields,QB,KC,6.0,Ohio State,5.0,1999-03-05,27.0,75,227,2.0,,,,justinfields,792.0,2148.0,,,,
+7591,Justin Fields,QB,KC,6.0,Ohio State,5.0,1999-03-05,27.0,75,227,2.0,,,,justinfields,,2202.0,,731000657544359936,,KyleWurster
 8824,Samson Nacua,WR,,89.0,BYU,1.0,,,75,206,,,,,samsonnacua,,,,,,
 6460,Cole Herdman,TE,,88.0,Purdue,3.0,1995-06-27,26.0,76,238,,,,830938.0,coleherdman,,,,,,
 5714,Tim Wilson,WR,,84.0,East Stroudsburg,4.0,1994-02-16,27.0,69,170,,,,1116613.0,timwilson,,,,,,
@@ -1047,17 +1047,17 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4929,Ahmad Fulwood,WR,,0.0,Florida,5.0,,,76,208,,,,748609.0,ahmadfulwood,,,,,,
 1244,Josh Gordon,WR,,19.0,Baylor,10.0,1991-04-13,31.0,75,224,,,,503496.0,joshgordon,,,,,,
 5967,Tony Pollard,RB,TEN,20.0,Memphis,7.0,1997-04-30,29.0,72,209,1.0,,,880398.0,tonypollard,,,731004224116207616,730904582686912512,p0ppy,rlonigro
-8076,Michael Bandy,WR,DEN,83.0,San Diego,5.0,1997-12-05,28.0,70,190,8.0,,,,michaelbandy,,,,,,
+8076,Michael Bandy,WR,DEN,83.0,San Diego,5.0,1997-12-05,28.0,70,190,7.0,,,,michaelbandy,,,,,,
 12756,Stephen Gosnell,WR,BUF,89.0,Virginia Tech,1.0,2001-10-22,24.0,73,198,,,,,stephengosnell,,,,,,
 12048,George Holani,RB,SEA,36.0,Boise State,2.0,1999-12-16,26.0,71,210,4.0,,,,georgeholani,,,,,,
 10217,Clayton Tune,QB,,6.0,Houston,3.0,1999-03-23,27.0,75,220,,,,,claytontune,,,,,,
 12888,Dalen Cambre,WR,NYG,83.0,Louisiana,1.0,2001-04-10,25.0,72,192,13.0,,,,dalencambre,,,,,,
-13353,Chris Brazzell,WR,CAR,19.0,Tennessee,0.0,2003-09-22,22.0,76,198,4.0,,,,chrisbrazzell,,,,1032440738459639808,,GriffinStiemke
-12641,Jaylin Lane,WR,WAS,83.0,Virginia Tech,1.0,2002-05-01,24.0,70,196,3.0,,,,jaylinlane,664.0,2608.0,730904582686912512,,rlonigro,
+13353,Chris Brazzell,WR,CAR,19.0,Tennessee,0.0,2003-09-22,22.0,76,198,3.0,,,,chrisbrazzell,,,,1032440738459639808,,GriffinStiemke
+12641,Jaylin Lane,WR,WAS,83.0,Virginia Tech,1.0,2002-05-01,24.0,70,196,5.0,,,,jaylinlane,1120.0,2632.0,730904582686912512,,rlonigro,
 3454,Danny Anthrop,WR,,0.0,Purdue,9.0,1993-05-29,31.0,72,193,,,,692212.0,dannyanthrop,,,,,,
 11496,Braydon Johnson,WR,,15.0,Oklahoma State,1.0,1998-12-02,24.0,71,195,,,,,braydonjohnson,,,,,,
 7379,Rysen John,TE,,87.0,Simon Fraser (CAN),2.0,1997-12-20,24.0,79,227,,,,,rysenjohn,,,,,,
-10213,Tre Tucker,WR,LV,1.0,Cincinnati,3.0,2001-03-08,25.0,68,182,1.0,,,,tretucker,726.0,,730904582686912512,1357227930467434496,rlonigro,OwenBowers
+10213,Tre Tucker,WR,LV,1.0,Cincinnati,3.0,2001-03-08,25.0,68,182,1.0,,,,tretucker,1248.0,,730904582686912512,1357227930467434496,rlonigro,OwenBowers
 13696,Ja'Mori Maclin,WR,BUF,84.0,Kentucky,0.0,2001-09-08,24.0,71,183,,,,,jamorimaclin,,,,,,
 5916,Darrell Henderson,RB,,27.0,Memphis,4.0,1997-08-19,26.0,68,208,,,,914372.0,darrellhenderson,,,,,,
 6069,Stanley Morgan,WR,,82.0,Nebraska,6.0,1996-09-07,28.0,72,205,,,,866112.0,stanleymorgan,,,,,,
@@ -1066,7 +1066,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8130,Trey McBride,TE,ARI,85.0,Colorado State,4.0,1999-11-22,26.0,76,246,1.0,,,,treymcbride,,,731000657544359936,1127441193396285440,KyleWurster,LilmanJay67
 13286,Jadarian Price,RB,SEA,8.0,Notre Dame,0.0,2003-10-09,22.0,71,209,1.0,,,,jadarianprice,,,,862077560916389888,,milly69
 10211,Camerun Peoples,RB,,32.0,Appalachian State,1.0,1999-09-14,23.0,73,217,,,,,camerunpeoples,,,,,,
-7536,Quintin Morris,TE,JAX,80.0,Bowling Green,5.0,1999-01-21,27.0,74,243,5.0,,,,quintinmorris,,,,,,
+7536,Quintin Morris,TE,JAX,80.0,Bowling Green,5.0,1999-01-21,27.0,74,243,4.0,,,,quintinmorris,,,,,,
 6491,Adam Choice,RB,,38.0,Clemson,3.0,1995-11-30,26.0,69,220,,,,828750.0,adamchoice,,,,,,
 13339,Davon Booth,RB,CLE,29.0,Mississippi State,0.0,2002-01-23,24.0,68,192,,,,,davonbooth,,,,,,
 8142,Alec Pierce,WR,IND,14.0,Cincinnati,4.0,2000-05-02,26.0,75,211,1.0,Questionable,Ankle,,alecpierce,,,731004224116207616,990858054952411136,p0ppy,parkergullixon
@@ -1074,7 +1074,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7045,Joshua Kelley,RB,,25.0,UCLA,5.0,1997-11-20,27.0,71,212,,,,,joshuakelley,,,,,,
 7086,John Hightower,WR,,84.0,Boise State,3.0,1996-05-31,27.0,74,190,,,,,johnhightower,,,,,,
 7616,Kai Locksley,WR,,0.0,Texas-El Paso,1.0,1996-11-17,25.0,75,202,,,,,kailocksley,,,,,,
-13309,Aaron Anderson,WR,CLE,85.0,LSU,0.0,2002-12-02,23.0,68,198,6.0,,,,aaronanderson,,,,,,
+13309,Aaron Anderson,WR,CLE,85.0,LSU,0.0,2002-12-02,23.0,68,198,5.0,,,,aaronanderson,,,,,,
 7210,Kendall Hinton,WR,,9.0,Wake Forest,3.0,1997-02-19,26.0,72,195,,,,,kendallhinton,,,,,,
 2875,Tony Creecy,RB,,0.0,North Carolina State,10.0,1992-05-22,32.0,72,200,,,,557333.0,tonycreecy,,,,,,
 6964,Sean McKeon,TE,IND,49.0,Michigan,6.0,1997-12-28,28.0,77,255,5.0,,,,seanmckeon,,,,,,
@@ -1084,7 +1084,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12254,Phillip Brooks,WR,,,Kansas State,1.0,1999-09-19,25.0,67,175,,,,,phillipbrooks,,,,,,
 5277,Deon Yelder,TE,,81.0,Western Kentucky,4.0,1995-03-06,27.0,76,255,,,,750702.0,deonyelder,,,,,,
 2925,Darius Davis,WR,,0.0,Henderson State,11.0,,,70,212,,,,471406.0,dariusdavis,,,,,,
-3976,Mitchell Trubisky,QB,TEN,10.0,North Carolina,9.0,1994-08-20,31.0,75,222,3.0,,,728169.0,mitchelltrubisky,,,,,,
+3976,Mitchell Trubisky,QB,TEN,10.0,North Carolina,9.0,1994-08-20,31.0,75,222,2.0,,,728169.0,mitchelltrubisky,,,,,,
 13416,Roman Hemby,RB,LV,,Indiana,0.0,2002-08-16,23.0,72,210,,,,,romanhemby,,,,,,
 12215,Kevin Foelsch,TE,,84.0,New Haven,1.0,2001-04-13,24.0,76,250,,,,,kevinfoelsch,,,,,,
 7584,Brennan Eagles,WR,,0.0,Texas,1.0,,,76,229,,,,,brennaneagles,,,,,,
@@ -1097,7 +1097,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 13839,Chase Curtis,TE,NYJ,87.0,TCU,0.0,,,77,235,,,,,chasecurtis,,,,,,
 5207,Marchie Murdock,WR,,0.0,Iowa State,4.0,1995-01-07,27.0,73,205,,,,740375.0,marchiemurdock,,,,,,
 8700,Savon Scarver,WR,,0.0,Utah State,1.0,,,71,184,,,,,savonscarver,,,,,,
-4066,Evan Engram,TE,DEN,1.0,Ole Miss,9.0,1994-09-02,31.0,75,240,1.0,,,749185.0,evanengram,664.0,2384.0,,,,
+4066,Evan Engram,TE,DEN,1.0,Ole Miss,9.0,1994-09-02,31.0,75,240,1.0,,,749185.0,evanengram,984.0,2320.0,,,,
 11329,Josh Vann,WR,,87.0,South Carolina,1.0,2000-03-10,23.0,70,190,,,,,joshvann,,,,,,
 13670,Harrison Wallace,WR,ARI,30.0,Ole Miss,0.0,2003-04-23,23.0,72,192,,,,,harrisonwallace,,,,,,
 12533,Jacory Croskey-Merritt,RB,WAS,22.0,Arizona,1.0,2001-04-12,25.0,71,208,1.0,,,,jacorycroskeymerritt,,,731000657544359936,1127441193396285440,KyleWurster,LilmanJay67
@@ -1129,28 +1129,28 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 490,Chase Daniel,QB,,4.0,Missouri,14.0,1986-10-07,36.0,72,229,,,,300101.0,chasedaniel,,,,,,
 8676,Rashid Shaheed,WR,SEA,22.0,Weber State,4.0,1998-08-31,27.0,72,180,2.0,,,,rashidshaheed,,,1000639485861785600,462057196620869632,Joshlahay10,calebb15
 13285,Malachi Fields,WR,NYG,0.0,Notre Dame,0.0,2003-08-26,22.0,76,222,4.0,,,,malachifields,,,,731000657544359936,,KyleWurster
-6271,Olamide Zaccheaus,WR,ATL,14.0,Virginia,7.0,1997-07-23,28.0,68,194,2.0,,,883976.0,olamidezaccheaus,615.0,,,,,
+6271,Olamide Zaccheaus,WR,ATL,14.0,Virginia,7.0,1997-07-23,29.0,68,194,4.0,,,883976.0,olamidezaccheaus,1260.0,,,,,
 5756,Garrett Dickerson,TE,,0.0,Northwestern,4.0,1995-12-30,26.0,75,248,,,,830838.0,garrettdickerson,,,,,,
-13392,Jeff Caldwell,WR,KC,8.0,Cincinnati,0.0,2003-03-02,23.0,77,215,,,,,jeffcaldwell,1485.0,,,,,
+13392,Jeff Caldwell,WR,KC,8.0,Cincinnati,0.0,2003-03-02,23.0,77,215,,,,,jeffcaldwell,864.0,1782.0,,,,
 11848,Casey Bauman,QB,,,Augustana ,1.0,2000-05-18,24.0,78,238,,,,,caseybauman,,,,,,
 11885,Ramel Keyton,WR,,14.0,Tennessee,1.0,2000-09-14,24.0,74,191,,,,,ramelkeyton,,,,,,
 6866,KJ Hill,WR,LAC,84.0,Ohio State,2.0,1997-09-15,24.0,72,196,,,,,kjhill,,,,,,
 2756,Andrew Gleichert,TE,,0.0,Michigan State,10.0,1992-01-13,33.0,77,264,,,,557383.0,andrewgleichert,,,,,,
 12086,Cam Johnson,WR,,,Northwestern,1.0,1999-04-12,25.0,72,205,,,,,camjohnson,,,,,,
 2651,Phillip Sims,QB,,0.0,Winston-Salem State,10.0,1992-08-15,32.0,76,210,,,,543791.0,phillipsims,,,,,,
-13300,Le'Veon Moss,RB,,37.0,,0.0,,,71,210,,NA,Undisclosed,,leveonmoss,,1572.0,,,,
+13300,Le'Veon Moss,RB,,37.0,,0.0,,,71,210,,NA,Undisclosed,,leveonmoss,,1944.0,,,,
 6920,Isaiah Hodgins,WR,NYG,89.0,Oregon State,6.0,1998-10-21,27.0,75,200,8.0,,,,isaiahhodgins,,,,,,
 12527,Ashton Jeanty,RB,LV,2.0,Boise State,1.0,2003-12-02,22.0,68,208,1.0,,,,ashtonjeanty,,,731172076769128448,462057196620869632,TuckBrock,calebb15
-10225,Jonathan Mingo,WR,DAL,81.0,Ole Miss,3.0,2001-04-20,25.0,74,225,6.0,Questionable,Groin,,jonathanmingo,,,,,,
+10225,Jonathan Mingo,WR,DAL,81.0,Ole Miss,3.0,2001-04-20,25.0,74,225,5.0,Questionable,Groin,,jonathanmingo,,,,,,
 3516,Mitch Mathews,WR,,85.0,Brigham Young,6.0,1991-04-15,30.0,78,215,,,,507649.0,mitchmathews,,,,,,
-12470,Riley Leonard,QB,IND,15.0,Notre Dame,1.0,2002-09-13,23.0,76,213,3.0,,,,rileyleonard,,1350.0,,,,
+12470,Riley Leonard,QB,IND,15.0,Notre Dame,1.0,2002-09-13,23.0,76,213,4.0,,,,rileyleonard,,1458.0,,,,
 12118,Jacob Warren,TE,,,Tennessee,1.0,2000-04-13,24.0,78,251,,,,,jacobwarren,,,,,,
 4827,Germone Hopper,WR,,16.0,Clemson,5.0,1993-10-22,28.0,72,180,,,,653106.0,germonehopper,,,,,,
 12473,Mitchell Evans,TE,CAR,84.0,Notre Dame,1.0,2003-03-18,23.0,77,258,3.0,,,,mitchellevans,,,,,,
 8428,Zander Horvath,RB,,26.0,Purdue,2.0,1998-12-10,25.0,75,230,,,,,zanderhorvath,,,,,,
 13780,Terion Stewart,RB,KC,,Virginia Tech,0.0,2001-11-29,24.0,69,222,,,,,terionstewart,,,,,,
 12880,Silas Bolden,WR,,,Texas,1.0,2001-11-09,24.0,68,160,,,,,silasbolden,,,,,,
-10219,Chris Rodriguez,RB,JAX,36.0,Kentucky,3.0,1999-09-26,26.0,71,224,2.0,Questionable,Foot,,chrisrodriguez,1530.0,,1001981921347375104,462057196620869632,VanGrizzly,calebb15
+10219,Chris Rodriguez,RB,JAX,36.0,Kentucky,3.0,1999-09-26,26.0,71,224,2.0,Questionable,Foot,,chrisrodriguez,1431.0,,1001981921347375104,462057196620869632,VanGrizzly,calebb15
 4051,Chad Kelly,QB,,0.0,Ole Miss,5.0,1994-03-26,27.0,74,216,,,,653107.0,chadkelly,,,,,,
 4563,Taylor McNamara,TE,,0.0,USC,5.0,1994-08-12,27.0,77,245,,,,651540.0,taylormcnamara,,,,,,
 5271,Buddy Howell,RB,,38.0,Florida Atlantic,4.0,1996-03-27,26.0,73,225,,,,833687.0,buddyhowell,,,,,,
@@ -1186,10 +1186,10 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 2886,Justin Sinz,TE,,0.0,Purdue,10.0,1991-11-03,33.0,76,250,,,,548424.0,justinsinz,,,,,,
 5799,Darius Prince,WR,,1.0,Penn State - Beaver,10.0,1990-04-23,31.0,73,185,,,,1064935.0,dariusprince,,,,,,
 8705,Landon Lenoir,WR,,0.0,Southern Illinois,1.0,1998-08-11,24.0,71,186,,,,,landonlenoir,,,,,,
-13414,Kaelon Black,RB,SF,26.0,Indiana,0.0,2001-10-17,24.0,69,208,3.0,,,,kaelonblack,2674.0,,,731000657544359936,,KyleWurster
+13414,Kaelon Black,RB,SF,26.0,Indiana,0.0,2001-10-17,24.0,69,208,3.0,,,,kaelonblack,2121.0,,,731000657544359936,,KyleWurster
 1689,Adam Thielen,WR,,16.0,Minnesota State,13.0,1990-08-22,35.0,74,195,,NA,Undisclosed,733643.0,adamthielen,,,,,,
 12231,JJ Laap,WR,,,SUNY-Cortland,1.0,2001-01-28,23.0,73,177,,,,,jjlaap,,,,,,
-11082,Ben Sims,TE,MIA,89.0,Baylor,3.0,2000-05-16,26.0,77,250,3.0,,,,bensims,,,,,,
+11082,Ben Sims,TE,MIA,89.0,Baylor,3.0,2000-05-16,26.0,77,250,4.0,,,,bensims,,,,,,
 12085,Alec Holler,TE,,,UCF,1.0,1999-07-19,25.0,75,242,,,,,alecholler,,,,,,
 12033,OJ Hiliare,WR,,,Bowling Green,1.0,2001-02-12,23.0,72,185,,,,,ojhiliare,,,,,,
 8233,Mataeo Durant,RB,,0.0,Duke,1.0,1999-12-04,23.0,73,195,,,,,mataeodurant,,,,,,
@@ -1202,7 +1202,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 2121,T.J. Jones,WR,,80.0,Notre Dame,8.0,1992-07-19,29.0,72,190,,,,544025.0,tjjones,,,,,,
 11941,Isaiah Wooden,WR,,85.0,Southern Utah,2.0,2000-02-03,26.0,69,170,,,,,isaiahwooden,,,,,,
 14055,Louis Hansen,TE,HOU,47.0,UConn,0.0,,,77,240,,,,,louishansen,,,,,,
-12495,Ollie Gordon,RB,MIA,0.0,Oklahoma State,1.0,2004-01-15,22.0,74,225,3.0,,,,olliegordon,,2268.0,731184036722118656,1267223871346454528,JScott51,rudyvosters
+12495,Ollie Gordon,RB,MIA,0.0,Oklahoma State,1.0,2004-01-15,22.0,74,225,3.0,,,,olliegordon,,2408.0,731184036722118656,1267223871346454528,JScott51,rudyvosters
 1170,Alfred Morris,RB,,41.0,Florida Atlantic,10.0,1988-12-12,33.0,70,224,,,,382365.0,alfredmorris,,,,,,
 5102,Daurice Fountain,WR,,12.0,Northern Iowa,6.0,1995-12-22,28.0,74,210,,,,830751.0,dauricefountain,,,,,,
 5261,Jester Weah,WR,,82.0,Pittsburgh,4.0,1995-02-07,26.0,75,210,,,,742410.0,jesterweah,,,,,,
@@ -1239,7 +1239,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12901,Patrick Herbert,TE,JAX,88.0,Oregon,1.0,2000-10-18,25.0,77,255,,,,,patrickherbert,,,,,,
 12291,Dakota Caton,WR,,,Indiana State,1.0,,,70,185,,,,,dakotacaton,,,,,,
 7901,Rico Bussey,WR,,84.0,Hawaii,1.0,1998-02-25,24.0,74,190,,,,,ricobussey,,,,,,
-2374,Tyler Lockett,WR,,17.0,Kansas State,11.0,1992-09-28,33.0,70,182,,,,605242.0,tylerlockett,,1496.0,,,,
+2374,Tyler Lockett,WR,,17.0,Kansas State,11.0,1992-09-28,33.0,70,182,,,,605242.0,tylerlockett,,1572.0,,,,
 6957,James Proche,WR,,13.0,SMU,6.0,1996-09-21,29.0,71,193,,,,,jamesproche,,,,,,
 3357,Brandon Allen,QB,NYG,12.0,Arkansas,10.0,1992-09-05,33.0,74,219,3.0,,,604390.0,brandonallen,,,,,,
 7573,Damon Hazelton,WR,,86.0,Missouri,1.0,1997-02-28,25.0,75,215,,,,,damonhazelton,,,,,,
@@ -1253,18 +1253,18 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6685,Jalen Greene,WR,,3.0,Utah State,3.0,1996-06-13,25.0,74,205,,,,822878.0,jalengreene,,,,,,
 6956,Devin Asiasi,TE,,87.0,UCLA,4.0,1997-08-14,26.0,75,260,,,,,devinasiasi,,,,,,
 9226,De'Von Achane,RB,MIA,28.0,Texas A&M,3.0,2001-10-13,24.0,69,191,1.0,Questionable,Shoulder,,devonachane,,,731000657544359936,730904582686912512,KyleWurster,rlonigro
-9494,Marvin Mims,WR,DEN,19.0,Oklahoma,3.0,2002-03-19,24.0,71,182,5.0,,,,marvinmims,,3429.0,731184036722118656,462057196620869632,JScott51,calebb15
+9494,Marvin Mims,WR,DEN,19.0,Oklahoma,3.0,2002-03-19,24.0,71,182,5.0,,,,marvinmims,,3537.0,731184036722118656,462057196620869632,JScott51,calebb15
 5243,Detrich Clark,WR,,0.0,Colorado State,4.0,1994-02-15,27.0,70,180,,,,912064.0,detrichclark,,,,,,
 4973,Hayden Hurst,TE,,88.0,South Carolina,7.0,1993-08-24,31.0,76,245,,,,881956.0,haydenhurst,,,,,,
 12905,John Copenhaver,TE,,,North Carolina,1.0,,,75,240,,,,,johncopenhaver,,,,,,
 4535,Steven Wroblewski,TE,,0.0,Southern Utah,5.0,1992-11-20,29.0,79,265,,,,878350.0,stevenwroblewski,,,,,,
 2382,Duke Johnson,RB,,22.0,Miami (FL),8.0,1993-09-23,29.0,69,210,,,,691583.0,dukejohnson,,,,,,
-11559,Michael Penix,QB,ATL,9.0,Washington,2.0,2000-05-08,26.0,75,220,2.0,Questionable,Knee - ACL,,michaelpenix,,,1001981921347375104,990858054952411136,VanGrizzly,parkergullixon
+11559,Michael Penix,QB,ATL,9.0,Washington,2.0,2000-05-08,26.0,75,220,1.0,Questionable,Knee - ACL,,michaelpenix,,,1001981921347375104,990858054952411136,VanGrizzly,parkergullixon
 6878,Anthony McFarland,RB,,16.0,Maryland,4.0,1999-03-04,25.0,68,193,,,,,anthonymcfarland,,,,,,
 7993,Trey Ragas,RB,,25.0,Louisiana,1.0,1996-11-07,25.0,70,214,,,,,treyragas,,,,,,
 13279,Carnell Tate,WR,TEN,14.0,Ohio State,0.0,2005-01-19,21.0,74,192,1.0,,,,carnelltate,,,,862077560916389888,,milly69
 4665,Eli Jenkins,QB,,0.0,Jacksonville State,5.0,1994-08-07,27.0,74,210,,,,700808.0,elijenkins,,,,,,
-4993,Mike Gesicki,TE,CIN,88.0,Penn State,8.0,1995-10-03,30.0,78,245,1.0,,,836152.0,mikegesicki,880.0,,,,,
+4993,Mike Gesicki,TE,CIN,88.0,Penn State,8.0,1995-10-03,30.0,78,245,1.0,,,836152.0,mikegesicki,1096.0,,,,,
 12070,McCallan Castles,TE,,47.0,Tennessee,2.0,1999-12-03,26.0,76,244,,,,,mccallancastles,,,,,,
 4613,Shaq Hill,WR,,89.0,Eastern Washington,5.0,1993-05-12,28.0,70,180,,,,593407.0,shaqhill,,,,,,
 4367,Monty Madaris,WR,,0.0,Michigan State,5.0,1993-09-08,28.0,73,207,,,,696173.0,montymadaris,,,,,,
@@ -1277,7 +1277,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7735,Cary Angeline,TE,,0.0,North Carolina State,1.0,1997-09-07,24.0,78,250,,,,,caryangeline,,,,,,
 1273,Francis Owusu,WR,,82.0,Stanford,5.0,1994-12-27,27.0,75,219,,,,739427.0,francisowusu,,,,,,
 5955,Hunter Renfrow,WR,,13.0,Clemson,7.0,1995-12-21,30.0,70,185,,,,841649.0,hunterrenfrow,,,,,,
-13403,Jam Miller,RB,NE,30.0,Alabama,0.0,,,70,209,3.0,,,,jammiller,2061.0,,,,,
+13403,Jam Miller,RB,NE,30.0,Alabama,0.0,,,70,209,4.0,,,,jammiller,3402.0,,,,,
 2191,Marcus Lucas,WR,,80.0,Missouri,8.0,1992-03-01,29.0,76,250,,,,553236.0,marcuslucas,,,,,,
 6493,Justin Johnson,TE,,0.0,Mississippi State,3.0,1996-11-08,25.0,75,245,,,,876831.0,justinjohnson,,,,,,
 1592,Darren Fells,TE,TB,88.0,California-Irvine,9.0,1986-04-22,35.0,79,281,,,,266414.0,darrenfells,,,,,,
@@ -1289,7 +1289,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 533,Colt McCoy,QB,,12.0,Texas,13.0,1986-09-05,36.0,73,212,,,,306296.0,coltmccoy,,,,,,
 13212,Cade McDonald,WR,,,Miami (OH),1.0,2001-05-07,24.0,70,196,,,,,cademcdonald,,,,,,
 4641,Keeon Johnson,WR,,0.0,Virginia,5.0,1994-12-31,27.0,74,211,,,,745847.0,keeonjohnson,,,,,,
-13427,Diego Pavia,QB,BAL,,Vanderbilt,0.0,2002-02-16,24.0,70,203,3.0,,,,diegopavia,,,,,,
+13427,Diego Pavia,QB,BAL,,Vanderbilt,0.0,2002-02-16,24.0,70,203,,,,,diegopavia,891.0,5535.0,,,,
 11654,Dante Miller,RB,NYG,25.0,South Carolina,2.0,1999-05-14,27.0,69,200,6.0,,,,dantemiller,,,,,,
 4175,Chad Hansen,WR,,83.0,California,5.0,1995-01-18,27.0,73,202,,,,788345.0,chadhansen,,,,,,
 6108,Jacques Patrick,RB,,31.0,Florida State,4.0,1997-01-07,27.0,74,231,,,,,jacquespatrick,,,,,,
@@ -1307,11 +1307,11 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 2573,DaVaris Daniels,WR,,0.0,Notre Dame,10.0,1992-12-18,32.0,73,201,,,,608906.0,davarisdaniels,,,,,,
 11292,Tommy DeVito,QB,NE,16.0,Illinois,3.0,1998-08-07,27.0,74,210,2.0,,,,tommydevito,,,,,,
 8433,Cade Brewer,TE,,0.0,Texas,1.0,1998-10-09,24.0,74,238,,,,,cadebrewer,,,,,,
-12476,Devin Neal,RB,NO,24.0,Kansas,1.0,2003-08-12,22.0,71,213,4.0,Questionable,Undisclosed,,devinneal,,,1001981921347375104,1267223871346454528,VanGrizzly,rudyvosters
+12476,Devin Neal,RB,NO,24.0,Kansas,1.0,2003-08-12,22.0,71,213,3.0,Questionable,Undisclosed,,devinneal,,,1001981921347375104,1267223871346454528,VanGrizzly,rudyvosters
 8595,Kyric McGowan,WR,,87.0,Georgia Tech,2.0,1999-11-01,24.0,71,198,,,,,kyricmcgowan,,,,,,
 3894,Garrett Griffin,TE,,86.0,Air Force,7.0,1994-03-04,29.0,76,246,,,,703203.0,garrettgriffin,,,,,,
-12511,Will Howard,QB,PIT,18.0,Ohio State,1.0,2001-09-24,24.0,76,236,3.0,,,,willhoward,,1555.0,,,,
-8002,Shane Buechele,QB,BUF,6.0,SMU,5.0,1998-01-08,28.0,72,210,2.0,,,,shanebuechele,,,,,,
+12511,Will Howard,QB,PIT,18.0,Ohio State,1.0,2001-09-24,24.0,76,236,2.0,,,,willhoward,,1570.0,,,,
+8002,Shane Buechele,QB,BUF,6.0,SMU,5.0,1998-01-08,28.0,72,210,3.0,,,,shanebuechele,,,,,,
 11554,Chase Cota,WR,,13.0,Oregon,1.0,1999-11-09,24.0,76,200,,,,,chasecota,,,,,,
 7540,Amari Rodgers,WR,,3.0,Clemson,2.0,1999-09-23,24.0,69,212,,,,,amarirodgers,,,,,,
 8118,David Bell,WR,,18.0,Purdue,3.0,2000-12-14,24.0,73,212,,,,,davidbell,,,,,,
@@ -1324,7 +1324,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 11123,Tyler Hoosman,RB,,44.0,North Dakota,1.0,1999-05-07,24.0,71,214,,,,,tylerhoosman,,,,,,
 12490,Bhayshul Tuten,RB,JAX,33.0,Virginia Tech,1.0,2003-02-14,23.0,69,209,1.0,,,,bhayshultuten,,,1001981921347375104,462057196620869632,VanGrizzly,calebb15
 12478,Nick Nash,WR,WAS,19.0,San Jose State,1.0,2000-08-02,25.0,75,195,8.0,,,,nicknash,,,,,,
-12457,Jaydon Blue,RB,DAL,23.0,Texas,1.0,2004-01-08,22.0,69,198,3.0,,,,jaydonblue,656.0,2504.0,1000639485861785600,862077560916389888,Joshlahay10,milly69
+12457,Jaydon Blue,RB,DAL,23.0,Texas,1.0,2004-01-08,22.0,69,198,2.0,,,,jaydonblue,1160.0,2456.0,1000639485861785600,862077560916389888,Joshlahay10,milly69
 7578,Myron Mitchell,WR,,87.0,UAB,1.0,1998-06-17,24.0,73,185,,,,,myronmitchell,,,,,,
 7548,Tyler Vaughns,WR,,80.0,USC,1.0,1997-06-01,25.0,74,184,,,,,tylervaughns,,,,,,
 13859,Jalen Walthall,WR,NYJ,39.0,Incarnate Word,0.0,2002-10-14,23.0,72,191,,,,,jalenwalthall,,,,,,
@@ -1345,22 +1345,22 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 2749,Raheem Mostert,RB,,31.0,Purdue,11.0,1992-04-09,33.0,70,212,,Questionable,Knee,606501.0,raheemmostert,,,,,,
 8435,Kwamie Lassiter,WR,,18.0,Kansas,2.0,1998-01-21,26.0,71,185,,,,,kwamielassiter,,,,,,
 4358,Austin Duke,WR,,8.0,North Carolina-Charlotte,5.0,1993-08-03,28.0,69,161,,,,749410.0,austinduke,,,,,,
-8112,Drake London,WR,ATL,5.0,USC,4.0,2001-07-24,24.0,76,215,1.0,Questionable,Undisclosed,,drakelondon,,,731172076769128448,730904582686912512,TuckBrock,rlonigro
+8112,Drake London,WR,ATL,5.0,USC,4.0,2001-07-24,25.0,76,215,1.0,Questionable,Undisclosed,,drakelondon,,,731172076769128448,730904582686912512,TuckBrock,rlonigro
 11632,Malik Nabers,WR,NYG,1.0,LSU,2.0,2003-07-28,22.0,72,200,1.0,Questionable,Knee - ACL,,maliknabers,,,731184036722118656,1267949452228820992,JScott51,carsonclausen12
-4177,Mack Hollins,WR,NE,13.0,North Carolina,9.0,1993-09-16,32.0,76,221,5.0,,,702808.0,mackhollins,,,,,,
+4177,Mack Hollins,WR,NE,13.0,North Carolina,9.0,1993-09-16,32.0,76,221,4.0,,,702808.0,mackhollins,,,,,,
 12757,Hal Presley,WR,,11.0,Baylor,1.0,2002-01-22,24.0,75,210,,,,,halpresley,,,,,,
 13850,Octavian Smith,WR,BAL,87.0,Maryland,0.0,2003-05-12,23.0,71,184,,,,,octaviansmith,,,,,,
 13825,Malik McClain,WR,NYJ,84.0,Arizona State,0.0,,,76,195,,,,,malikmcclain,,,,,,
 6723,Vincent Testaverde,QB,,0.0,Albany,3.0,1996-07-20,25.0,73,211,,,,839041.0,vincenttestaverde,,,,,,
 1854,Quincy Enunwa,WR,,81.0,Nebraska,8.0,1992-05-31,29.0,74,225,,,,540619.0,quincyenunwa,,,,,,
-5848,Marquise Brown,WR,PHI,0.0,Oklahoma,7.0,1997-06-04,29.0,69,170,3.0,,,976220.0,marquisebrown,,,731174840580571136,,Mattwyn,
+5848,Marquise Brown,WR,PHI,0.0,Oklahoma,7.0,1997-06-04,29.0,69,170,4.0,,,976220.0,marquisebrown,,,731174840580571136,,Mattwyn,
 11169,Dresser Winn,QB,,4.0,Tennessee-Martin,2.0,1998-11-11,26.0,75,215,,,,,dresserwinn,,,,,,
 8250,Tay Martin,WR,DET,17.0,Oklahoma State,4.0,1997-12-14,28.0,75,186,8.0,,,,taymartin,,,,,,
 6598,Trenton Irwin,WR,,38.0,Stanford,7.0,1995-12-10,30.0,73,200,,,,884943.0,trentonirwin,,,,,,
 12090,Corey Crooms,WR,,,Minnesota,1.0,2001-04-17,23.0,71,180,,,,,coreycrooms,,,,,,
 13662,Will Pauling,WR,SF,4.0,Notre Dame,0.0,2003-03-04,23.0,69,183,,,,,willpauling,,,,,,
 7101,Rodney Smith,RB,,0.0,Minnesota,2.0,1996-02-28,25.0,71,210,,,,,rodneysmith,,,,,,
-12715,Thomas Fidone,TE,NYG,86.0,Nebraska,1.0,2002-09-20,23.0,78,255,5.0,Questionable,Foot,,thomasfidone,,,,,,
+12715,Thomas Fidone,TE,NYG,86.0,Nebraska,1.0,2002-09-20,23.0,78,255,5.0,PUP,Foot,,thomasfidone,,,,,,
 4650,Billy Brown,TE,,48.0,Shepherd,5.0,1993-03-20,28.0,76,238,,,,1050875.0,billybrown,,,,,,
 13328,Anthony Hankerson,RB,MIA,30.0,Oregon State,0.0,2004-02-03,22.0,68,204,,,,,anthonyhankerson,,,,,,
 10857,Stetson Bennett,QB,LAR,13.0,Georgia,3.0,1997-10-28,28.0,71,192,3.0,,,,stetsonbennett,,,,,,
@@ -1373,7 +1373,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7915,Landen Akers,WR,,84.0,Iowa State,1.0,1997-07-07,25.0,72,191,,,,,landenakers,,,,,,
 11543,Lachlan Pitts,TE,,81.0,William & Mary,1.0,,,78,255,,,,,lachlanpitts,,,,,,
 13139,Taylor Morin,WR,,,Wake Forest,1.0,,,71,185,,,,,taylormorin,,,,,,
-10227,Payne Durham,TE,TB,87.0,Purdue,3.0,2000-06-15,26.0,77,255,3.0,,,,paynedurham,,,,,,
+10227,Payne Durham,TE,TB,87.0,Purdue,3.0,2000-06-15,26.0,77,255,2.0,,,,paynedurham,,,,,,
 10214,Davis Allen,TE,LAR,87.0,Clemson,3.0,2001-02-03,25.0,78,253,5.0,,,,davisallen,,,,,,
 8153,Isaiah Spiller,RB,,35.0,Texas A&M,3.0,2001-08-09,23.0,73,215,,,,,isaiahspiller,,,,,,
 7308,Nick Bowers,TE,,88.0,Penn State,4.0,1996-05-26,28.0,76,260,,,,,nickbowers,,,,,,
@@ -1384,18 +1384,18 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 10866,Aidan O'Connell,QB,LV,12.0,Purdue,3.0,1998-09-01,27.0,75,206,3.0,,,,aidanoconnell,,,,,,
 6037,Brett Rypien,QB,,14.0,Boise State,7.0,1996-07-09,29.0,74,210,,,,866216.0,brettrypien,,,,,,
 3859,Jalen Simmons,RB,,34.0,South Carolina State,6.0,1992-04-01,29.0,68,205,,,,608743.0,jalensimmons,,,,,,
-12499,Elic Ayomanor,WR,TEN,5.0,Stanford,1.0,2003-06-03,23.0,74,206,5.0,,,,elicayomanor,,1540.0,1001981921347375104,1127441193396285440,VanGrizzly,LilmanJay67
+12499,Elic Ayomanor,WR,TEN,5.0,Stanford,1.0,2003-06-03,23.0,74,206,5.0,,,,elicayomanor,,1512.0,1001981921347375104,1127441193396285440,VanGrizzly,LilmanJay67
 9503,Jacob Copeland,WR,,89.0,Maryland,1.0,1999-07-20,25.0,72,202,,,,,jacobcopeland,,,,,,
 4055,O.J. Howard,TE,,88.0,Alabama,6.0,1994-11-19,28.0,78,250,,,,732147.0,ojhoward,,,,,,
 6142,Caleb Wilson,TE,,0.0,UCLA,3.0,1996-07-15,25.0,76,240,,,,924062.0,calebwilson,,,,,,
 13013,Mark Redman,TE,LAR,83.0,Louisville,1.0,2002-01-20,24.0,77,258,,,,,markredman,,,,,,
 13967,Jimmy Kibble,WR,NE,19.0,Georgetown,0.0,,,73,199,,,,,jimmykibble,,,,,,
-11201,Blake Whiteheart,TE,CLE,86.0,Wake Forest,3.0,2000-03-22,26.0,76,250,4.0,,,,blakewhiteheart,,,,,,
+11201,Blake Whiteheart,TE,CLE,86.0,Wake Forest,3.0,2000-03-22,26.0,76,250,3.0,,,,blakewhiteheart,,,,,,
 12528,Ajou Ajou,WR,,9.0,Garden City,1.0,2002-01-10,23.0,75,218,,,,,ajouajou,,,,,,
 12222,Joseph Scates,WR,,,Memphis,1.0,2000-02-19,24.0,74,205,,,,,josephscates,,,,,,
 606,Joe Webb,QB,,0.0,UAB,12.0,1986-11-14,35.0,76,230,,,,296439.0,joewebb,,,,,,
 13595,Cash Jones,RB,ATL,32.0,Georgia,0.0,2002-04-05,24.0,71,195,,,,,cashjones,,,,,,
-11299,Zavier Scott,RB,MIN,36.0,Maine,3.0,1999-07-17,27.0,73,221,4.0,,,,zavierscott,,,,,,
+11299,Zavier Scott,RB,MIN,36.0,Maine,3.0,1999-07-17,27.0,73,221,3.0,,,,zavierscott,,,,,,
 11901,Kyle Sheets,WR,,,Slippery Rock,1.0,2000-09-24,24.0,76,220,,,,,kylesheets,,,,,,
 9221,Jahmyr Gibbs,RB,DET,0.0,Alabama,3.0,2002-03-20,24.0,69,202,1.0,,,,jahmyrgibbs,,,731003760045875200,862077560916389888,nolan22snyder,milly69
 3486,Chris Brown,WR,,0.0,Notre Dame,6.0,1993-12-08,28.0,73,191,,,,697462.0,chrisbrown,,,,,,
@@ -1414,14 +1414,14 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4832,Andrew Price,TE,,47.0,Nevada-Las Vegas,5.0,1993-09-08,28.0,78,255,,,,693200.0,andrewprice,,,,,,
 13240,Toa Taua,RB,,35.0,Nevada,2.0,2000-02-15,25.0,69,215,,,,,toataua,,,,,,
 3770,Quenton Bundrage,WR,,0.0,Iowa State,9.0,1991-09-13,33.0,74,198,,,,,quentonbundrage,,,,,,
-4039,Cooper Kupp,WR,SEA,10.0,Eastern Washington,9.0,1993-06-15,33.0,73,205,3.0,,,698227.0,cooperkupp,,1536.0,1000853961747877888,1032440738459639808,Tscheibe26,GriffinStiemke
+4039,Cooper Kupp,WR,SEA,10.0,Eastern Washington,9.0,1993-06-15,33.0,73,205,3.0,,,698227.0,cooperkupp,918.0,1740.0,1000853961747877888,1032440738459639808,Tscheibe26,GriffinStiemke
 3688,Tra Carson,RB,,34.0,Texas A&M,6.0,1992-10-24,29.0,71,228,,,,607821.0,tracarson,,,,,,
 7462,Stephen Guidry,WR,,0.0,Mississippi State,2.0,1997-03-25,24.0,76,200,,,,,stephenguidry,,,,,,
 11410,Braxton Burmeister,WR,,4.0,San Diego State,1.0,1998-09-19,24.0,72,200,,,,,braxtonburmeister,,,,,,
 7610,Trey Lance,QB,LAC,5.0,North Dakota State,5.0,2000-05-09,26.0,76,226,2.0,,,,treylance,,,,,,
 4777,De'Chavon Hayes,RB,,0.0,Arizona State,5.0,1992-07-18,29.0,71,187,,,,,dechavonhayes,,,,,,
 6846,Hunter Bryant,TE,,86.0,Washington,2.0,1998-08-20,23.0,74,245,,,,,hunterbryant,,,,,,
-12483,Jack Bech,WR,LV,18.0,TCU,1.0,2002-12-18,23.0,73,214,3.0,,,,jackbech,,,731000657544359936,,KyleWurster,
+12483,Jack Bech,WR,LV,18.0,TCU,1.0,2002-12-18,23.0,73,214,3.0,,,,jackbech,,,731000657544359936,585284262555594752,KyleWurster,AlexVanOoyen
 13849,Cortez Braham,WR,BAL,82.0,Memphis,0.0,2000-03-06,26.0,74,203,,,,,cortezbraham,,,,,,
 12800,Oscar Cardenas,TE,,,UTSA,1.0,2001-07-25,24.0,76,260,,,,,oscarcardenas,,,,,,
 12013,Jaden Shirden,RB,,,Monmouth,1.0,2002-05-02,22.0,69,195,,,,,jadenshirden,,,,,,
@@ -1430,17 +1430,17 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 13776,Hank Beatty,WR,TEN,13.0,Illinois,0.0,,,70,179,,,,,hankbeatty,,,,,,
 14041,Anderson Castle,RB,IND,42.0,Duke,0.0,,,72,221,,,,,andersoncastle,,,,,,
 2578,John Harris,WR,,18.0,Texas,10.0,,,74,218,,,,555845.0,johnharris,,,,,,
-5985,Foster Moreau,TE,HOU,87.0,LSU,7.0,1997-05-06,29.0,76,250,3.0,,,865573.0,fostermoreau,,,,,,
+5985,Foster Moreau,TE,HOU,87.0,LSU,7.0,1997-05-06,29.0,76,250,2.0,,,865573.0,fostermoreau,,,,,,
 11158,Jalen Sample,WR,,18.0,Minnesota State,1.0,1999-03-19,24.0,76,200,,,,,jalensample,,,,,,
 3340,Jerell Adams,TE,,0.0,South Carolina,6.0,1992-12-31,29.0,77,254,,,,694014.0,jerelladams,,,,,,
 5425,John Diarse,WR,,9.0,Texas Christian,4.0,1994-12-10,27.0,73,214,,,,727740.0,johndiarse,,,,,,
-13410,Chase Roberts,WR,LV,,BYU,0.0,2001-01-21,25.0,76,210,5.0,,,,chaseroberts,,,,,,
+13410,Chase Roberts,WR,LV,,BYU,0.0,2001-01-21,25.0,76,210,6.0,,,,chaseroberts,,,,,,
 4463,Tyler McCloskey,RB,,47.0,Houston,5.0,1994-08-11,27.0,74,245,,,,741526.0,tylermccloskey,,,,,,
 11601,Trey Knox,TE,,,South Carolina,1.0,2001-08-14,23.0,75,240,,,,,treyknox,,,,,,
 14040,Terrill Davis,WR,MIN,40.0,Oklahoma State,0.0,2003-08-11,22.0,72,195,,,,,terrilldavis,,,,,,
 12953,Jalen White,RB,,,Georgia Southern,1.0,2002-06-05,23.0,72,205,,,,,jalenwhite,,,,,,
 7563,Javian Hawkins,RB,,14.0,Louisville,1.0,1999-11-03,22.0,69,196,,,,,javianhawkins,,,,,,
-13429,Seydou Traore,TE,MIA,49.0,Mississippi State,0.0,2002-08-12,23.0,76,235,4.0,,,,seydoutraore,,,,,,
+13429,Seydou Traore,TE,MIA,49.0,Mississippi State,0.0,2002-08-12,23.0,76,235,3.0,,,,seydoutraore,,,,,,
 7503,Connor Davis,TE,,0.0,Stony Brook,2.0,1994-10-20,27.0,80,271,,,,,connordavis,,,,,,
 8190,Abram Smith,RB,,41.0,Baylor,1.0,1998-09-14,24.0,71,221,,,,,abramsmith,,,,,,
 13904,Jacob De Jesus,WR,KC,80.0,California,0.0,,,67,170,,,,,jacobdejesus,,,,,,
@@ -1465,8 +1465,8 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4408,Terrell Newby,RB,,44.0,Nebraska,5.0,1995-07-25,26.0,70,200,,,,728308.0,terrellnewby,,,,,,
 5233,Marcus Baugh,TE,,0.0,Ohio State,4.0,1994-12-09,27.0,76,245,,,,728328.0,marcusbaugh,,,,,,
 8148,Jameson Williams,WR,DET,1.0,Alabama,4.0,2001-03-26,25.0,73,184,2.0,,,,jamesonwilliams,,,731184036722118656,585284262555594752,JScott51,AlexVanOoyen
-10444,Cedric Tillman,WR,CLE,19.0,Tennessee,3.0,2000-04-19,26.0,75,215,4.0,,,,cedrictillman,,1782.0,731003760045875200,,nolan22snyder,
-7090,Darnell Mooney,WR,NYG,17.0,Tulane,6.0,1997-10-29,28.0,71,177,3.0,,,,darnellmooney,1044.0,2835.0,1000639485861785600,1267949452228820992,Joshlahay10,carsonclausen12
+10444,Cedric Tillman,WR,CLE,19.0,Tennessee,3.0,2000-04-19,26.0,75,215,6.0,,,,cedrictillman,,2079.0,731003760045875200,,nolan22snyder,
+7090,Darnell Mooney,WR,NYG,17.0,Tulane,6.0,1997-10-29,28.0,71,177,3.0,,,,darnellmooney,2088.0,2628.0,1000639485861785600,1267949452228820992,Joshlahay10,carsonclausen12
 2200,Timothy Flanders,RB,,,Sam Houston State,11.0,1991-09-29,33.0,69,210,,,,,timothyflanders,,,,,,
 13085,Kole Taylor,TE,,,West Virginia,0.0,,,79,250,,,,,koletaylor,,,,,,
 6539,Devontae Jackson,RB,,0.0,West Georgia,3.0,1996-04-27,25.0,67,170,,,,1166782.0,devontaejackson,,,,,,
@@ -1487,7 +1487,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 2306,Jameis Winston,QB,NYG,19.0,Florida State,11.0,1994-01-06,32.0,76,231,2.0,,,691536.0,jameiswinston,,,,,,
 4924,Zach Terrell,QB,BAL,0.0,Western Michigan,1.0,1993-05-01,24.0,"6'1""",206,,,,652366.0,zachterrell,,,,,,
 13032,Marshall Lang,TE,MIN,81.0,Northwestern,1.0,2001-10-15,24.0,76,246,,,,,marshalllang,,,,,,
-1479,Keenan Allen,WR,,13.0,California,13.0,1992-04-27,33.0,74,211,,,,557210.0,keenanallen,876.0,2648.0,730904582686912512,,rlonigro,
+1479,Keenan Allen,WR,,13.0,California,13.0,1992-04-27,33.0,74,211,,,,557210.0,keenanallen,1724.0,3012.0,730904582686912512,,rlonigro,
 5699,Matt Fleming,WR,,0.0,Benedictine,4.0,1996-12-04,25.0,72,180,,,,1116607.0,mattfleming,,,,,,
 3258,Nick Vannett,TE,,38.0,Ohio State,10.0,1993-03-06,33.0,77,257,,,,606488.0,nickvannett,,,,,,
 6164,Kahale Warring,TE,,86.0,San Diego State,3.0,1997-03-23,25.0,77,250,,,,887526.0,kahalewarring,,,,,,
@@ -1499,7 +1499,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 3410,Jake Coker,QB,,6.0,Alabama,9.0,1992-09-22,32.0,77,232,,,,605411.0,jakecoker,,,,,,
 11556,Devin Leary,QB,,13.0,Kentucky,1.0,1999-09-10,25.0,73,215,,,,,devinleary,,,,,,
 12188,Justin Strong,RB,,,Southern Illinois,1.0,,,72,205,,,,,justinstrong,,,,,,
-4381,Taysom Hill,TE,,7.0,BYU,9.0,1990-08-23,35.0,74,221,,,,503184.0,taysomhill,,2982.0,731184036722118656,,JScott51,
+4381,Taysom Hill,TE,,7.0,BYU,9.0,1990-08-23,35.0,74,221,,,,503184.0,taysomhill,,3584.0,731184036722118656,,JScott51,
 12477,Kurtis Rourke,QB,SF,14.0,Indiana,1.0,2000-10-25,25.0,76,220,4.0,,,,kurtisrourke,,,,,,
 7899,Isaiah McKoy,WR,,0.0,Kent State,1.0,,,75,182,,,,,isaiahmckoy,,,,,,
 7204,Reggie Gilliam,RB,NE,44.0,Toledo,6.0,1997-08-20,28.0,73,255,6.0,,,,reggiegilliam,,,,,,
@@ -1509,7 +1509,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4962,Sony Michel,RB,,0.0,Georgia,5.0,1995-02-17,28.0,71,215,,,,823041.0,sonymichel,,,,,,
 13394,Josh Cameron,WR,JAX,19.0,Baylor,0.0,2003-03-18,23.0,73,224,5.0,,,,joshcameron,,,,,,
 11595,Jared Wiley,TE,KC,12.0,TCU,2.0,2000-11-02,25.0,78,249,4.0,,,,jaredwiley,,,,,,
-12531,Trevor Etienne,RB,CAR,23.0,Georgia,1.0,2004-07-09,22.0,68,198,4.0,,,,trevoretienne,,1444.0,731172076769128448,,TuckBrock,
+12531,Trevor Etienne,RB,CAR,23.0,Georgia,1.0,2004-07-09,22.0,68,198,3.0,,,,trevoretienne,,1536.0,731172076769128448,,TuckBrock,
 4790,Robert Wheelwright,WR,,82.0,Wisconsin,5.0,,,75,211,,,,742491.0,robertwheelwright,,,,,,
 4183,Nathan Peterman,QB,,4.0,Pittsburgh,9.0,1994-05-04,32.0,74,220,,,,650974.0,nathanpeterman,,,,,,
 5264,Blake Mack,TE,,88.0,Arkansas State,4.0,1996-04-24,25.0,75,229,,,,837316.0,blakemack,,,,,,
@@ -1546,8 +1546,8 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 14008,Rodney Hammond,RB,DEN,,Sacramento State,0.0,2002-09-02,23.0,69,195,,,,,rodneyhammond,,,,,,
 13275,Ty Simpson,QB,LAR,15.0,Alabama,0.0,2002-12-21,23.0,73,211,2.0,,,,tysimpson,,,,1127441193396285440,,LilmanJay67
 7087,Jonathan Ward,RB,,30.0,Central Michigan,6.0,1997-09-30,28.0,72,202,,,,,jonathanward,,,,,,
-12969,Lan Larison,RB,NE,34.0,UC Davis,1.0,2001-10-11,24.0,71,209,4.0,,,,lanlarison,,,,,,
-8423,Brittain Brown,RB,CHI,38.0,UCLA,4.0,1997-10-10,28.0,73,205,4.0,,,,brittainbrown,,,,,,
+12969,Lan Larison,RB,NE,34.0,UC Davis,1.0,2001-10-11,24.0,71,209,5.0,,,,lanlarison,,,,,,
+8423,Brittain Brown,RB,CHI,38.0,UCLA,4.0,1997-10-10,28.0,73,205,3.0,,,,brittainbrown,,,,,,
 10865,Travis Dye,RB,,35.0,USC,1.0,1999-08-24,24.0,70,201,,,,,travisdye,,,,,,
 12815,Stevo Klotz,TE,,,Iowa State,1.0,,,76,260,,,,,stevoklotz,,,,,,
 4309,Scott Orndoff,TE,,86.0,Pittsburgh,5.0,1993-12-16,28.0,76,255,,,,733680.0,scottorndoff,,,,,,
@@ -1558,8 +1558,8 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12007,Nathaniel Peat,RB,,,Missouri,1.0,2000-08-23,24.0,68,197,,,,,nathanielpeat,,,,,,
 7084,Jake Luton,QB,,13.0,Oregon State,5.0,1996-04-11,28.0,78,224,,,,,jakeluton,,,,,,
 11133,Jaray Jenkins,WR,,82.0,LSU,1.0,2000-01-04,24.0,74,206,,,,,jarayjenkins,,,,,,
-13320,Zachariah Branch,WR,ATL,17.0,Georgia,0.0,2004-03-29,22.0,70,180,3.0,,,,zachariahbranch,760.0,,,1127441193396285440,,LilmanJay67
-1234,Russell Wilson,QB,,3.0,Wisconsin,14.0,1988-11-29,37.0,71,206,,,,401534.0,russellwilson,,1535.0,,,,
+13320,Zachariah Branch,WR,ATL,17.0,Georgia,0.0,2004-03-29,22.0,70,180,2.0,,,,zachariahbranch,,,,1127441193396285440,,LilmanJay67
+1234,Russell Wilson,QB,,3.0,Wisconsin,14.0,1988-11-29,37.0,71,206,,,,401534.0,russellwilson,,1815.0,,,,
 2900,Terrence Franks,RB,,0.0,Texas State,10.0,1992-05-12,32.0,70,214,,,,562993.0,terrencefranks,,,,,,
 12541,Dont'e Thornton,WR,LV,10.0,Tennessee,1.0,2002-11-30,23.0,77,205,4.0,,,,dontethornton,,,731003760045875200,,nolan22snyder,
 2913,Gavin Lutman,WR,,8.0,Pittsburg State,10.0,1991-03-27,33.0,76,211,,,,791891.0,gavinlutman,,,,,,
@@ -1571,12 +1571,12 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7891,Brock Wright,TE,DET,89.0,Notre Dame,5.0,1998-11-27,27.0,77,254,2.0,Questionable,Neck,,brockwright,,,,,,
 13269,Fernando Mendoza,QB,LV,15.0,Indiana,0.0,2003-10-01,22.0,77,225,1.0,,,,fernandomendoza,,,,1265863097675956224,,JacksonTaft
 1338,Matt Barkley,QB,,19.0,USC,11.0,1990-09-08,33.0,74,227,,,,494493.0,mattbarkley,,,,,,
-13420,Bryce Lance,WR,NO,18.0,North Dakota State,0.0,2002-08-20,23.0,75,204,5.0,,,,brycelance,1540.0,,,,,
+13420,Bryce Lance,WR,NO,18.0,North Dakota State,0.0,2002-08-20,23.0,75,204,6.0,,,,brycelance,2450.0,,,,,
 8634,Chris Pierce,TE,,48.0,Vanderbilt,2.0,1998-11-02,25.0,76,235,,,,,chrispierce,,,,,,
 4187,Brian Hill,RB,,36.0,Wyoming,6.0,1995-11-09,27.0,73,216,,,,823872.0,brianhill,,,,,,
 11593,Brevyn Spann-Ford,TE,DAL,89.0,Minnesota,2.0,1999-12-27,26.0,78,265,4.0,,,,brevynspannford,,,,,,
 2279,Paul Richardson,WR,,10.0,Colorado,8.0,1992-04-13,29.0,72,180,,,,560223.0,paulrichardson,,,,,,
-12512,Quinshon Judkins,RB,CLE,10.0,Ohio State,1.0,2003-10-29,22.0,72,221,1.0,Questionable,Ankle,,quinshonjudkins,,,731004224116207616,1267223871346454528,p0ppy,rudyvosters
+12512,Quinshon Judkins,RB,CLE,10.0,Ohio State,1.0,2003-10-29,22.0,72,221,1.0,,,,quinshonjudkins,,,731004224116207616,1267223871346454528,p0ppy,rudyvosters
 1476,Latavius Murray,RB,,28.0,UCF,11.0,1990-01-18,34.0,75,230,,,,467405.0,lataviusmurray,,,,,,
 5080,Damion Ratley,WR,,0.0,Texas A&M,4.0,1995-04-16,26.0,74,200,,,,865803.0,damionratley,,,,,,
 12634,Jordan Watkins,WR,SF,17.0,Ole Miss,1.0,2002-02-15,24.0,71,196,7.0,,,,jordanwatkins,,,,,,
@@ -1612,7 +1612,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8151,Kenneth Walker,RB,KC,9.0,Michigan State,4.0,2000-10-20,25.0,69,211,1.0,,,,kennethwalker,,,730904582686912512,730904582686912512,rlonigro,rlonigro
 13773,Isaiah Jacobs,RB,,,UAB,0.0,,,70,220,,,,,isaiahjacobs,,,,,,
 10236,Dalton Kincaid,TE,BUF,86.0,Utah,3.0,1999-10-18,26.0,75,246,1.0,,,,daltonkincaid,,,731004224116207616,1267223871346454528,p0ppy,rudyvosters
-2078,Odell Beckham,WR,NYG,3.0,LSU,12.0,1992-11-05,33.0,71,198,6.0,,,589984.0,odellbeckham,602.0,1855.0,,,,
+2078,Odell Beckham,WR,NYG,3.0,LSU,12.0,1992-11-05,33.0,71,198,7.0,,,589984.0,odellbeckham,,2954.0,,,,
 12003,Gunnar Watson,QB,,,Troy,1.0,2000-01-11,25.0,75,210,,,,,gunnarwatson,,,,,,
 12383,John Jiles,WR,,83.0,West Florida,2.0,2000-07-08,25.0,75,220,,Questionable,Undisclosed,,johnjiles,,,,,,
 12352,Jeremy Moussa,QB,,,Florida A&M,1.0,,,75,225,,,,,jeremymoussa,,,,,,
@@ -1637,7 +1637,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 5751,Austin Roberts,TE,,42.0,UCLA,4.0,1995-12-03,26.0,74,230,,,,840790.0,austinroberts,,,,,,
 4409,Josiah Price,TE,,0.0,Michigan State,5.0,1993-07-19,28.0,76,248,,,,696179.0,josiahprice,,,,,,
 6364,Papi White,WR,,80.0,Ohio,3.0,1996-07-19,25.0,69,168,,,,837579.0,papiwhite,,,,,,
-13413,Cyrus Allen,WR,KC,13.0,Cincinnati,0.0,2003-02-11,23.0,71,180,5.0,,,,cyrusallen,6150.0,,,,,
+13413,Cyrus Allen,WR,KC,13.0,Cincinnati,0.0,2003-02-11,23.0,71,180,5.0,,,,cyrusallen,4908.0,,,,,
 6059,Travis Fulgham,WR,,86.0,Old Dominion,4.0,1995-09-13,27.0,74,211,,,,839325.0,travisfulgham,,,,,,
 12829,Coleman Owen,WR,IND,9.0,Ohio,1.0,2001-03-23,25.0,70,181,,,,,colemanowen,,,,,,
 13677,Noah Short,WR,,8.0,Army,0.0,,,72,195,,,,,noahshort,,,,,,
@@ -1645,7 +1645,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12773,DJ Uiagalelei,QB,LAC,7.0,Florida State,1.0,2001-04-17,25.0,76,252,3.0,,,,djuiagalelei,,,,,,
 7176,Caleb Repp,TE,,0.0,Utah State,2.0,1997-03-06,24.0,77,225,,,,,calebrepp,,,,,,
 2206,Logan Kilgore,QB,,0.0,Middle Tennessee,12.0,,,75,206,,,,,logankilgore,,,,,,
-12718,Konata Mumpfield,WR,LAR,4.0,Pittsburgh,1.0,2002-10-24,23.0,73,188,3.0,,,,konatamumpfield,,1998.0,,,,
+12718,Konata Mumpfield,WR,LAR,4.0,Pittsburgh,1.0,2002-10-24,23.0,73,188,4.0,,,,konatamumpfield,882.0,2295.0,,,,
 9481,Luke Musgrave,TE,GB,88.0,Oregon State,3.0,2000-09-02,25.0,78,253,2.0,Questionable,Undisclosed,,lukemusgrave,,,,,,
 11213,Camren McDonald,TE,,45.0,Florida State,1.0,1999-05-30,24.0,76,237,,,,,camrenmcdonald,,,,,,
 13419,Jaydn Ott,RB,KC,42.0,Oklahoma,0.0,2002-12-16,23.0,71,208,5.0,,,,jaydnott,,,,,,
@@ -1656,20 +1656,20 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 11548,Aaron Dykes,RB,,46.0,Richmond,1.0,,,71,202,,,,,aarondykes,,,,,,
 7109,Malcolm Perry,WR,,19.0,Navy,2.0,1997-04-19,25.0,69,190,,,,,malcolmperry,,,,,,
 12226,Lorenzo Lingard,RB,,,Akron,1.0,1999-05-29,25.0,72,205,,,,,lorenzolingard,,,,,,
-8129,Dameon Pierce,RB,PHI,39.0,Florida,4.0,2000-02-19,26.0,70,218,5.0,,,,dameonpierce,,1520.0,,,,
+8129,Dameon Pierce,RB,PHI,39.0,Florida,4.0,2000-02-19,26.0,70,218,4.0,,,,dameonpierce,,1760.0,,,,
 8685,John Mitchell,TE,,0.0,Florida Atlantic,1.0,1998-04-03,24.0,76,235,,,,,johnmitchell,,,,,,
 13281,Jordyn Tyson,WR,NO,0.0,Arizona State,0.0,2004-08-12,21.0,74,203,2.0,Questionable,Undisclosed,,jordyntyson,,,,1032440738459639808,,GriffinStiemke
 8437,Thomas Hennigan,WR,,89.0,Appalachian State,1.0,1998-08-18,24.0,73,210,,,,,thomashennigan,,,,,,
 6595,Devlin Hodges,QB,,0.0,Samford,3.0,1996-04-12,25.0,73,210,,,,837040.0,devlinhodges,,,,,,
 8173,ZaQuandre White,RB,,0.0,South Carolina,1.0,1998-12-21,24.0,73,215,,,,,zaquandrewhite,,,,,,
 8243,DeAndre Torrey,RB,,0.0,North Texas,1.0,1998-12-23,24.0,67,199,,,,,deandretorrey,,,,,,
-11581,MarShawn Lloyd,RB,GB,32.0,USC,2.0,2001-01-05,25.0,69,220,2.0,,,,marshawnlloyd,2826.0,1638.0,731000657544359936,731000657544359936,KyleWurster,KyleWurster
-13303,Cade Klubnik,QB,NYJ,10.0,Clemson,0.0,2003-10-10,22.0,74,207,2.0,Questionable,Back,,cadeklubnik,2061.0,,,,,
+11581,MarShawn Lloyd,RB,GB,32.0,USC,2.0,2001-01-05,25.0,69,220,2.0,,,,marshawnlloyd,6201.0,1908.0,731000657544359936,731000657544359936,KyleWurster,KyleWurster
+13303,Cade Klubnik,QB,NYJ,10.0,Clemson,0.0,2003-10-10,22.0,74,207,2.0,,,,cadeklubnik,3006.0,,,,,
 8201,Jack Coan,QB,,0.0,Notre Dame,1.0,1998-12-09,24.0,75,223,,,,,jackcoan,,,,,,
 13962,Cameron Dorner,WR,NE,88.0,North Texas,0.0,,,73,188,,,,,camerondorner,,,,,,
 5032,Jordan Akins,TE,,87.0,UCF,8.0,1992-04-19,33.0,75,250,,,,838396.0,jordanakins,,,,,,
 4080,Zay Jones,WR,,17.0,East Carolina,9.0,1995-03-30,30.0,74,200,,Questionable,Achilles,746491.0,zayjones,,,,,,
-4147,Samaje Perine,RB,CIN,34.0,Oklahoma,9.0,1995-09-16,30.0,71,240,2.0,,,820734.0,samajeperine,656.0,,,,,
+4147,Samaje Perine,RB,CIN,34.0,Oklahoma,9.0,1995-09-16,30.0,71,240,2.0,,,820734.0,samajeperine,1264.0,,,,,
 14058,Malick Meiga,WR,CAR,35.0,Coastal Carolina,0.0,2001-03-25,25.0,76,201,,,,,malickmeiga,,,,,,
 4997,Mark Walton,RB,,22.0,Miami,4.0,1997-03-29,24.0,70,200,,,,871716.0,markwalton,,,,,,
 3418,Mekale McKay,WR,,19.0,Cincinnati,6.0,1993-08-04,28.0,77,210,,,,693829.0,mekalemckay,,,,,,
@@ -1678,7 +1678,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12538,Brady Cook,QB,NYJ,4.0,Missouri,1.0,2001-10-12,24.0,74,215,4.0,,,,bradycook,,,,,,
 4050,Cyril Grayson,WR,,16.0,LSU,5.0,1993-12-05,28.0,69,183,,,,978117.0,cyrilgrayson,,,,,,
 13010,Jordan Waters,RB,LAR,32.0,North Carolina State,1.0,2000-12-18,25.0,72,225,,,,,jordanwaters,,,,,,
-7720,Kene Nwangwu,RB,NYJ,3.0,Iowa State,5.0,1998-02-09,28.0,73,210,6.0,,,,kenenwangwu,,,,,,
+7720,Kene Nwangwu,RB,NYJ,3.0,Iowa State,5.0,1998-02-09,28.0,73,210,4.0,,,,kenenwangwu,,,,,,
 11867,Jaelen Gill,WR,,38.0,Fresno State,1.0,1999-11-17,25.0,72,185,,,,,jaelengill,,,,,,
 8416,Jalen Virgil,WR,BUF,87.0,Appalachian State,4.0,1998-07-13,28.0,73,210,8.0,,,,jalenvirgil,,,,,,
 8621,Garrett Walston,TE,,0.0,North Carolina,1.0,1998-01-20,24.0,76,245,,,,,garrettwalston,,,,,,
@@ -1688,17 +1688,17 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6973,J.J. Taylor,RB,,26.0,Arizona,5.0,1998-01-04,27.0,66,185,,,,,jjtaylor,,,,,,
 5548,Elijah Marks,WR,,0.0,Northern Arizona,4.0,1995-12-29,26.0,73,175,,,,838626.0,elijahmarks,,,,,,
 6585,Tony Brooks-James,RB,,40.0,Oregon,3.0,1994-12-06,27.0,69,179,,,,835777.0,tonybrooksjames,,,,,,
-12536,Jaylin Noel,WR,HOU,13.0,Iowa State,1.0,2002-09-04,23.0,71,201,4.0,,,,jaylinnoel,,,731003760045875200,462057196620869632,nolan22snyder,calebb15
+12536,Jaylin Noel,WR,HOU,13.0,Iowa State,1.0,2002-09-04,23.0,71,201,3.0,,,,jaylinnoel,,,731003760045875200,462057196620869632,nolan22snyder,calebb15
 12314,Beau Corrales,WR,,,Texas State,1.0,,,76,215,,,,,beaucorrales,,,,,,
 10223,Eric Gray,RB,NYG,20.0,Oklahoma,3.0,1999-11-04,26.0,70,211,5.0,,,,ericgray,,,,,,
 7597,Kenny Yeboah,TE,ARI,48.0,Ole Miss,5.0,1998-10-30,27.0,75,250,4.0,,,,kennyyeboah,,,,,,
-12492,Pat Bryant,WR,DEN,13.0,Illinois,1.0,2002-12-10,23.0,74,204,4.0,,,,patbryant,,1624.0,730904582686912512,1267223871346454528,rlonigro,rudyvosters
+12492,Pat Bryant,WR,DEN,13.0,Illinois,1.0,2002-12-10,23.0,74,204,4.0,,,,patbryant,,1608.0,730904582686912512,1267223871346454528,rlonigro,rudyvosters
 7287,Josh Hammond,WR,,80.0,Florida,3.0,1998-07-24,25.0,72,194,,,,,joshhammond,,,,,,
-6826,Cole Kmet,TE,CHI,85.0,Notre Dame,6.0,1999-03-10,27.0,78,257,2.0,,,,colekmet,,1854.0,,,,
+6826,Cole Kmet,TE,CHI,85.0,Notre Dame,6.0,1999-03-10,27.0,78,257,2.0,,,,colekmet,,1845.0,,,,
 6161,L.J. Scott,RB,,0.0,Michigan State,3.0,1996-09-15,25.0,72,228,,,,,ljscott,,,,,,
 12134,Sam Wiglusz,WR,,,Ohio,1.0,1999-07-24,25.0,72,187,,,,,samwiglusz,,,,,,
 5250,Robert Foster,WR,,0.0,Alabama,4.0,1994-05-07,28.0,74,196,,,,750838.0,robertfoster,,,,,,
-12526,Tetairoa McMillan,WR,CAR,4.0,Arizona,1.0,2003-04-05,23.0,77,212,1.0,Questionable,Ankle,,tetairoamcmillan,,,731174840580571136,1357227930467434496,Mattwyn,OwenBowers
+12526,Tetairoa McMillan,WR,CAR,4.0,Arizona,1.0,2003-04-05,23.0,77,212,1.0,,,,tetairoamcmillan,,,731174840580571136,1357227930467434496,Mattwyn,OwenBowers
 2528,Ben Koyack,TE,,83.0,Notre Dame,7.0,1993-04-09,28.0,77,258,,,,610943.0,benkoyack,,,,,,
 13225,Sam Brown,WR,,,Miami (FL),1.0,2002-08-15,23.0,74,200,,,,,sambrown,,,,,,
 5199,Byron Pringle,WR,,83.0,Kansas State,6.0,1993-11-17,30.0,73,203,,,,913826.0,byronpringle,,,,,,
@@ -1767,14 +1767,14 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6873,Austin Mack,WR,,81.0,Ohio State,4.0,1997-08-31,26.0,74,215,,,,,austinmack,,,,,,
 208,Josh McCown,QB,,3.0,Sam Houston State,20.0,1979-07-04,42.0,76,218,,,,81059.0,joshmccown,,,,,,
 8560,Davis Cheek,QB,,3.0,Elon,1.0,1999-02-26,23.0,75,215,,,,,davischeek,,,,,,
-12984,CJ Dippre,TE,NE,81.0,Alabama,1.0,2002-04-29,24.0,77,256,4.0,,,,cjdippre,,,,,,
+12984,CJ Dippre,TE,NE,81.0,Alabama,1.0,2002-04-29,24.0,77,256,4.0,PUP,Undisclosed,,cjdippre,,,,,,
 1029,Nick Foles,QB,,9.0,Arizona,11.0,1989-01-20,34.0,78,243,,,,403189.0,nickfoles,,,,,,
 11874,Jaylen Johnson,WR,,39.0,East Carolina,2.0,2000-05-26,25.0,74,194,,,,,jaylenjohnson,,,,,,
 9508,Tyjae Spears,RB,TEN,2.0,Tulane,3.0,2001-06-15,25.0,71,195,2.0,,,,tyjaespears,,,731004224116207616,731000657544359936,p0ppy,KyleWurster
-11570,Rasheen Ali,RB,BAL,26.0,Marshall,2.0,2001-02-16,25.0,71,210,4.0,,,,rasheenali,,,,,,
+11570,Rasheen Ali,RB,BAL,26.0,Marshall,2.0,2001-02-16,25.0,71,210,3.0,,,,rasheenali,,,,,,
 12534,Kyle Monangai,RB,CHI,25.0,Rutgers,1.0,2002-06-06,24.0,68,207,2.0,,,,kylemonangai,,,731000657544359936,1357227930467434496,KyleWurster,OwenBowers
 4344,C.J. Board,WR,,80.0,Chattanooga,6.0,1993-12-12,29.0,73,181,,,,695408.0,cjboard,,,,,,
-8195,Ronnie Rivers,RB,LAR,20.0,Fresno State,4.0,1999-01-31,27.0,69,198,5.0,,,,ronnierivers,,,,,,
+8195,Ronnie Rivers,RB,LAR,20.0,Fresno State,4.0,1999-01-31,27.0,69,198,3.0,,,,ronnierivers,,,,,,
 6892,Nate Stanley,QB,,12.0,Iowa,2.0,1997-08-26,24.0,76,233,,,,,natestanley,,,,,,
 13890,Michael Briscoe,WR,MIN,46.0,Cal Poly,0.0,,,74,209,,,,,michaelbriscoe,,,,,,
 4218,Trent Taylor,WR,,81.0,Louisiana Tech,9.0,1994-04-30,31.0,68,180,,,,733849.0,trenttaylor,,,,,,
@@ -1790,10 +1790,10 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8018,Shaun Beyer,TE,,80.0,Iowa,1.0,1996-11-11,25.0,77,248,,,,,shaunbeyer,,,,,,
 13931,E.J. Horton,WR,IND,10.0,Purdue,0.0,,,73,190,,,,,ejhorton,,,,,,
 5392,Jack Heneghan,QB,,6.0,Dartmouth,4.0,1996-02-13,25.0,76,230,,,,832130.0,jackheneghan,,,,,,
-13533,Barion Brown,WR,NO,19.0,LSU,0.0,2003-12-12,22.0,71,185,6.0,,,,barionbrown,,,,,,
+13533,Barion Brown,WR,NO,19.0,LSU,0.0,2003-12-12,22.0,71,177,5.0,,,,barionbrown,,,,,,
 2600,Ricky Seale,RB,,0.0,Stanford,10.0,1992-01-08,33.0,69,203,,,,553101.0,rickyseale,,,,,,
 7190,Bronson Rechsteiner,RB,,34.0,Kennesaw State,2.0,1997-10-24,24.0,72,230,,,,,bronsonrechsteiner,,,,,,
-13337,Emmett Johnson,RB,KC,10.0,Nebraska,0.0,2003-10-10,22.0,71,200,3.0,,,,emmettjohnson,,,,1032440738459639808,,GriffinStiemke
+13337,Emmett Johnson,RB,KC,10.0,Nebraska,0.0,2003-10-10,22.0,71,200,4.0,,,,emmettjohnson,,,,1032440738459639808,,GriffinStiemke
 13101,Gage Larvadain,WR,CLE,84.0,South Carolina,1.0,2002-01-03,24.0,68,171,9.0,,,,gagelarvadain,,,,,,
 12061,Noah Cain,RB,,,LSU,1.0,2000-12-17,24.0,70,222,,,,,noahcain,,,,,,
 3582,Chester Rogers,WR,,80.0,Grambling State,6.0,1994-01-12,28.0,73,180,,,,702949.0,chesterrogers,,,,,,
@@ -1811,11 +1811,11 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 13162,Maximilian Mang,TE,,49.0,Syracuse,1.0,2000-03-13,25.0,78,263,,,,,maximilianmang,,,,,,
 7081,James Morgan,QB,,16.0,Florida International,3.0,1997-02-28,26.0,76,229,,,,,jamesmorgan,,,,,,
 6290,Scotty Miller,WR,CHI,35.0,Bowling Green,7.0,1997-07-31,28.0,69,174,7.0,,,866578.0,scottymiller,,,,,,
-13150,Darius Cooper,WR,PHI,80.0,Tarleton State,1.0,2001-11-22,24.0,71,210,5.0,,,,dariuscooper,,,,,,
-11186,Carlos Washington,RB,MIA,37.0,Southeastern Louisiana,3.0,1998-12-26,27.0,71,210,4.0,,,,carloswashington,,,,,,
+13150,Darius Cooper,WR,PHI,80.0,Tarleton State,1.0,2001-11-22,24.0,71,210,6.0,,,,dariuscooper,,,,,,
+11186,Carlos Washington,RB,MIA,37.0,Southeastern Louisiana,3.0,1998-12-26,27.0,71,210,5.0,,,,carloswashington,,,,,,
 11583,Jonathon Brooks,RB,CAR,25.0,Texas,2.0,2003-07-21,23.0,72,207,2.0,,,,jonathonbrooks,,,731000657544359936,585284262555594752,KyleWurster,AlexVanOoyen
 7396,Devin Phelps,WR,,0.0,Shepherd,2.0,1996-10-15,25.0,74,190,,,,,devinphelps,,,,,,
-5127,Kyle Allen,QB,BUF,11.0,Houston,8.0,1996-03-08,30.0,75,210,3.0,,,822350.0,kyleallen,,,,,,
+5127,Kyle Allen,QB,BUF,11.0,Houston,8.0,1996-03-08,30.0,75,210,2.0,,,822350.0,kyleallen,,,,,,
 11447,Kris Leach,TE,,86.0,Kent State,1.0,,,78,248,,,,,krisleach,,,,,,
 12497,Tory Horton,WR,SEA,15.0,Colorado State,1.0,2002-11-29,23.0,74,196,4.0,Questionable,Shin,,toryhorton,,,730904582686912512,730904582686912512,rlonigro,rlonigro
 5408,Sergio Bailey,WR,,83.0,Eastern Michigan,4.0,1994-03-20,27.0,72,190,,,,,sergiobailey,,,,,,
@@ -1827,8 +1827,8 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4931,Austin Appleby,QB,,0.0,Florida,5.0,1993-06-04,28.0,76,240,,,,,austinappleby,,,,,,
 8697,Kevin Shaa,WR,,0.0,Liberty,1.0,1997-11-10,25.0,70,166,,,,,kevinshaa,,,,,,
 13291,Kejon Owens,RB,MIN,35.0,Florida International,0.0,,,71,210,,,,,kejonowens,,,,,,
-13336,Dane Key,WR,DEN,32.0,Nebraska,0.0,2003-07-01,23.0,75,210,7.0,,,,danekey,,,,,,
-12933,Caden Prieskorn,TE,,88.0,Ole Miss,1.0,1999-09-21,26.0,77,255,,,,,cadenprieskorn,,,,,,
+13336,Dane Key,WR,DEN,32.0,Nebraska,0.0,2003-07-01,23.0,75,210,8.0,,,,danekey,,,,,,
+12933,Caden Prieskorn,TE,CAR,88.0,Ole Miss,1.0,1999-09-21,26.0,77,255,,,,,cadenprieskorn,,,,,,
 4274,David Moore,WR,CAR,83.0,East Central,9.0,1995-01-15,31.0,72,220,7.0,,,1049915.0,davidmoore,,,,,,
 13179,Ja'seem Reed,WR,CAR,86.0,San Diego,1.0,2003-03-21,23.0,74,195,,,,,jaseemreed,,,,,,
 8217,Leddie Brown,RB,,0.0,West Virginia,1.0,2000-02-28,22.0,72,213,,,,,leddiebrown,,,,,,
@@ -1849,7 +1849,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 5046,Royce Freeman,RB,,41.0,Oregon,8.0,1996-02-24,29.0,72,238,,,,835779.0,roycefreeman,,,,,,
 4621,Caleb Bluiett,TE,,85.0,Texas,5.0,1993-10-06,28.0,75,257,,,,691333.0,calebbluiett,,,,,,
 7075,Charlie Woerner,TE,ATL,89.0,Georgia,6.0,1997-10-16,28.0,77,250,3.0,,,,charliewoerner,,,,,,
-12502,Gunnar Helm,TE,TEN,84.0,Texas,1.0,2002-09-06,23.0,77,241,1.0,,,,gunnarhelm,1225.0,,,730904582686912512,,rlonigro
+12502,Gunnar Helm,TE,TEN,84.0,Texas,1.0,2002-09-06,23.0,77,241,1.0,,,,gunnarhelm,1743.0,,,730904582686912512,,rlonigro
 7571,Rashod Bateman,WR,BAL,7.0,Minnesota,5.0,1999-11-29,26.0,73,193,2.0,,,,rashodbateman,,,731174840580571136,,Mattwyn,
 8783,Kendric Pryor,WR,CIN,19.0,Wisconsin,4.0,1998-01-06,28.0,71,189,6.0,,,,kendricpryor,,,,,,
 6728,Jackson Harris,TE,,0.0,Georgia,3.0,1997-02-28,24.0,77,250,,,,871366.0,jacksonharris,,,,,,
@@ -1875,34 +1875,34 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12308,Samson Evans,RB,,,Eastern Michigan,1.0,,,72,217,,,,,samsonevans,,,,,,
 5974,Trace McSorley,QB,,3.0,Penn State,5.0,1995-08-23,29.0,72,202,,,,836164.0,tracemcsorley,,,,,,
 14029,Johnny Pascuzzi,TE,LAC,42.0,Tulane,0.0,,,76,241,,,,,johnnypascuzzi,,,,,,
-4199,Aaron Jones,RB,MIN,33.0,UTEP,9.0,1994-12-02,31.0,70,208,1.0,,,741314.0,aaronjones,,,1001981921347375104,1265863097675956224,VanGrizzly,JacksonTaft
+4199,Aaron Jones,RB,MIN,33.0,UTEP,9.0,1994-12-02,31.0,70,208,2.0,,,741314.0,aaronjones,,,1001981921347375104,1265863097675956224,VanGrizzly,JacksonTaft
 4515,B.J. Johnson,WR,,0.0,Georgia Southern,5.0,1993-02-22,28.0,73,212,,,,605925.0,bjjohnson,,,,,,
 2595,Tim Semisch,TE,,85.0,Northern Illinois,7.0,1991-09-18,30.0,80,267,,,,608071.0,timsemisch,,,,,,
 6449,Dorian Baker,WR,,19.0,Kentucky,3.0,1996-06-01,25.0,75,213,,,,835381.0,dorianbaker,,,,,,
 6156,Benny Snell,RB,,38.0,Kentucky,4.0,1998-02-27,25.0,70,224,,,,920062.0,bennysnell,,,,,,
-4950,Christian Kirk,WR,SF,3.0,Texas A&M,8.0,1996-11-18,29.0,71,200,5.0,,,865801.0,christiankirk,,,,990858054952411136,,parkergullixon
+4950,Christian Kirk,WR,SF,3.0,Texas A&M,8.0,1996-11-18,29.0,71,200,3.0,,,865801.0,christiankirk,,,,990858054952411136,,parkergullixon
 3150,Xavier Rush,WR,,17.0,Tulane,6.0,1992-12-30,29.0,75,202,,,,602835.0,xavierrush,,,,,,
 6399,Kano Dillon,TE,,0.0,Oregon,3.0,,,77,265,,,,840741.0,kanodillon,,,,,,
-12472,Raheim Sanders,RB,CLE,35.0,South Carolina,1.0,2002-06-08,24.0,72,230,3.0,,,,raheimsanders,,2200.0,731172076769128448,,TuckBrock,
+12472,Raheim Sanders,RB,CLE,35.0,South Carolina,1.0,2002-06-08,24.0,72,230,3.0,,,,raheimsanders,,3000.0,731172076769128448,,TuckBrock,
 12865,AJ Henning,WR,MIA,88.0,Northwestern,1.0,2001-09-09,24.0,70,192,,,,,ajhenning,,,,,,
 11646,Jalen Coker,WR,CAR,18.0,Holy Cross,2.0,2001-10-30,24.0,75,213,2.0,,,,jalencoker,,,731174840580571136,1265863097675956224,Mattwyn,JacksonTaft
-13316,Eric Rivers,WR,TB,83.0,Georgia Tech,0.0,2002-09-17,23.0,70,176,7.0,,,,ericrivers,,,,,,
+13316,Eric Rivers,WR,TB,83.0,Georgia Tech,0.0,2002-09-17,23.0,70,176,6.0,,,,ericrivers,,,,,,
 4454,Kendrick Bourne,WR,ARI,17.0,Eastern Washington,9.0,1995-08-04,30.0,73,205,3.0,,,754412.0,kendrickbourne,,,731004224116207616,,p0ppy,
 284,Delanie Walker,TE,,82.0,Central Missouri,16.0,1984-08-12,37.0,74,248,,,,218943.0,delaniewalker,,,,,,
-12498,Mason Taylor,TE,NYJ,85.0,LSU,1.0,2004-05-08,22.0,77,251,2.0,,,,masontaylor,,2295.0,1000853961747877888,1267949452228820992,Tscheibe26,carsonclausen12
+12498,Mason Taylor,TE,NYJ,85.0,LSU,1.0,2004-05-08,22.0,77,251,2.0,,,,masontaylor,,1880.0,1000853961747877888,1267949452228820992,Tscheibe26,carsonclausen12
 13242,Lawrance Toafili,RB,,,Florida State,1.0,2001-11-30,24.0,72,185,,,,,lawrancetoafili,,,,,,
 12481,Cam Skattebo,RB,NYG,44.0,Arizona State,1.0,2002-02-05,24.0,71,215,1.0,Questionable,Ankle,,camskattebo,,,1001981921347375104,990858054952411136,VanGrizzly,parkergullixon
 3621,Jordan Williams-Lambert,WR,,0.0,Ball State,6.0,1994-05-09,27.0,74,224,,,,652431.0,jordanwilliamslambert,,,,,,
 3880,M.J. McFarland,TE,,0.0,Texas-El Paso,6.0,1992-07-25,29.0,76,249,,,,590677.0,mjmcfarland,,,,,,
-10218,Xavier Hutchinson,WR,HOU,19.0,Iowa State,3.0,2000-06-01,26.0,75,210,5.0,,,,xavierhutchinson,,1575.0,,,,
+10218,Xavier Hutchinson,WR,HOU,19.0,Iowa State,3.0,2000-06-01,26.0,75,210,5.0,,,,xavierhutchinson,,1631.0,,,,
 8019,Devontres Dukes,WR,,84.0,USF,1.0,1997-06-18,24.0,76,216,,,,,devontresdukes,,,,,,
 12169,Reggie Brown,WR,,,James Madison,1.0,,,73,195,,,,,reggiebrown,,,,,,
 12850,Tyler Neville,TE,,,Virginia,1.0,,,75,250,,,,,tylerneville,,,,,,
-6154,David Sills,WR,TB,80.0,West Virginia,7.0,1996-05-29,30.0,75,211,6.0,,,866973.0,davidsills,,,,,,
+6154,David Sills,WR,TB,80.0,West Virginia,7.0,1996-05-29,30.0,75,211,7.0,,,866973.0,davidsills,,,,,,
 6931,DeeJay Dallas,RB,JAX,20.0,Miami (FL),6.0,1998-09-16,27.0,70,225,6.0,,,,deejaydallas,,,,,,
 2597,Michael Dyer,RB,,40.0,Louisville,10.0,1990-10-13,34.0,69,220,,,,557117.0,michaeldyer,,,,,,
 5886,Hakeem Butler,TE,DEN,30.0,Iowa State,7.0,1996-05-16,30.0,77,227,,,,882776.0,hakeembutler,,,,,,
-11623,Jordan Whittington,WR,LAR,88.0,Texas,2.0,2000-10-01,25.0,73,202,4.0,,,,jordanwhittington,,2349.0,731174840580571136,,Mattwyn,
+11623,Jordan Whittington,WR,LAR,88.0,Texas,2.0,2000-10-01,25.0,73,202,3.0,,,,jordanwhittington,,2421.0,731174840580571136,,Mattwyn,
 5915,Andy Isabella,WR,,7.0,UMass,6.0,1996-11-18,28.0,69,188,,Questionable,Ankle,878911.0,andyisabella,,,,,,
 7158,Riley Neal,QB,,5.0,Vanderbilt,2.0,1996-10-02,25.0,78,225,,,,,rileyneal,,,,,,
 6450,David Blough,QB,,18.0,Purdue,5.0,1995-07-31,28.0,73,207,,,,821297.0,davidblough,,,,,,
@@ -1911,35 +1911,35 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4995,Ian Thomas,TE,LV,80.0,Indiana,8.0,1996-06-06,30.0,75,253,3.0,,,943093.0,ianthomas,,,,,,
 6365,Carson Meier,TE,,89.0,Oklahoma,3.0,1995-06-29,26.0,77,254,,,,820726.0,carsonmeier,,,,,,
 2082,Xavier Grimble,TE,,85.0,Southern California,8.0,1992-09-22,29.0,76,261,,,,555680.0,xaviergrimble,,,,,,
-9225,Tank Bigsby,RB,PHI,8.0,Auburn,3.0,2002-08-30,23.0,71,215,2.0,,,,tankbigsby,868.0,,731174840580571136,1267223871346454528,Mattwyn,rudyvosters
+9225,Tank Bigsby,RB,PHI,8.0,Auburn,3.0,2002-08-30,23.0,71,215,2.0,,,,tankbigsby,1736.0,,731174840580571136,1267223871346454528,Mattwyn,rudyvosters
 7218,Cam Sutton,TE,,0.0,Fresno State,2.0,1996-09-13,25.0,78,226,,,,,camsutton,,,,,,
 7589,Ian Book,QB,,13.0,Notre Dame,4.0,1998-03-30,26.0,72,206,,,,,ianbook,,,,,,
 6063,Tyron Billy-Johnson,WR,,13.0,Oklahoma State,5.0,1996-01-08,28.0,73,193,,,,865567.0,tyronbillyjohnson,,,,,,
-4018,Joe Mixon,RB,,28.0,Oklahoma,9.0,1996-07-24,29.0,73,220,,Questionable,Foot,820727.0,joemixon,,,1000853961747877888,,Tscheibe26,
-13227,Mitch Van Vooren,WR,,,St. Norbert,1.0,,,77,242,,,,,mitchvanvooren,,,,,,
-13411,Zavion Thomas,WR,CHI,81.0,LSU,0.0,2004-02-14,22.0,70,190,5.0,,,,zavionthomas,7128.0,,,730904582686912512,,rlonigro
+4018,Joe Mixon,RB,,28.0,Oklahoma,9.0,1996-07-24,29.0,73,220,,Questionable,Foot,820727.0,joemixon,,3658.0,1000853961747877888,,Tscheibe26,
+13227,Mitch Van Vooren,WR,NE,,St. Norbert,1.0,,,77,242,,,,,mitchvanvooren,,,,,,
+13411,Zavion Thomas,WR,CHI,81.0,LSU,0.0,2004-02-14,22.0,70,190,4.0,,,,zavionthomas,8532.0,,,730904582686912512,,rlonigro
 2319,DeVante Parker,WR,,13.0,Louisville,9.0,1993-01-20,31.0,75,218,,,,602241.0,devanteparker,,,,,,
 11603,AJ Barner,TE,SEA,88.0,Michigan,2.0,2002-05-03,24.0,78,251,1.0,Questionable,Undisclosed,,ajbarner,,,1001981921347375104,1357227930467434496,VanGrizzly,OwenBowers
 13407,Carson Towt,TE,IND,45.0,Notre Dame,0.0,2001-06-01,25.0,80,250,,,,,carsontowt,,,,,,
 4533,James Summers,RB,,39.0,East Carolina,5.0,1994-06-12,27.0,75,210,,,,891768.0,jamessummers,,,,,,
 4721,Shakeir Ryan,WR,,12.0,"Northwestern State, La.",5.0,1995-08-11,26.0,68,160,,,,747298.0,shakeirryan,,,,,,
 8094,Michael Jacobson,TE,,86.0,Iowa State,4.0,1997-04-04,28.0,79,244,,,,,michaeljacobson,,,,,,
-13348,J'Mari Taylor,RB,JAX,30.0,Virginia,0.0,2002-03-15,24.0,69,199,4.0,,,,jmaritaylor,2970.0,,,,,
+13348,J'Mari Taylor,RB,JAX,30.0,Virginia,0.0,2002-03-15,24.0,69,199,3.0,,,,jmaritaylor,4473.0,,,,,
 4229,Mason Schreck,TE,,86.0,Buffalo,6.0,1993-11-04,29.0,77,252,,,,694088.0,masonschreck,,,,,,
 11863,Leon Johnson,WR,,,Oklahoma State,1.0,2001-06-12,23.0,77,215,,,,,leonjohnson,,,,,,
 12190,Jason Bean,QB,,12.0,Kansas,1.0,1999-06-09,26.0,74,196,,,,,jasonbean,,,,,,
 6438,Kelvin McKnight,WR,,16.0,Samford,3.0,1997-04-25,24.0,68,186,,,,883332.0,kelvinmcknight,,,,,,
 5249,Andre Levrone,WR,,16.0,Virginia,4.0,1995-03-09,26.0,74,222,,,,745850.0,andrelevrone,,,,,,
 3548,Jamal Robinson,WR,,19.0,Louisiana-Lafayette,6.0,1993-01-13,28.0,76,205,,,,604111.0,jamalrobinson,,,,,,
-9757,Kendre Miller,RB,NO,5.0,TCU,3.0,2002-06-11,24.0,72,220,3.0,Questionable,Knee - ACL,,kendremiller,,,,,,
-7670,Joshua Palmer,WR,BUF,5.0,Tennessee,5.0,1999-09-22,26.0,73,210,5.0,,,,joshuapalmer,,,,,,
+9757,Kendre Miller,RB,NO,5.0,TCU,3.0,2002-06-11,24.0,72,220,4.0,Questionable,Knee - ACL,,kendremiller,,1434.0,,,,
+7670,Joshua Palmer,WR,BUF,5.0,Tennessee,5.0,1999-09-22,26.0,73,210,3.0,,,,joshuapalmer,,,,,,
 7035,Kendrick Rogers,WR,,16.0,Texas A&M,2.0,1997-08-07,24.0,76,204,,,,,kendrickrogers,,,,,,
 13205,Luke Deal,TE,,,Auburn,0.0,,,77,252,,Questionable,Undisclosed,,lukedeal,,,,,,
 2229,Garrett Gilbert,QB,,19.0,SMU,9.0,1991-01-01,32.0,76,221,,,,507477.0,garrettgilbert,,,,,,
 4626,Amba Etta-Tawo,WR,,6.0,Syracuse,5.0,1993-11-10,28.0,73,208,,,,695781.0,ambaettatawo,,,,,,
 5275,Jeff Badet,WR,,0.0,Oklahoma,4.0,1994-09-02,27.0,71,182,,,,746896.0,jeffbadet,,,,,,
 7611,Rhamondre Stevenson,RB,NE,38.0,Oklahoma,5.0,1998-02-23,28.0,72,227,2.0,,,,rhamondrestevenson,,,1001981921347375104,990858054952411136,VanGrizzly,parkergullixon
-12547,Kyle Williams,WR,NE,8.0,Washington State,1.0,2002-11-13,23.0,71,190,6.0,,,,kylewilliams,,2795.0,731004224116207616,462057196620869632,p0ppy,calebb15
+12547,Kyle Williams,WR,NE,8.0,Washington State,1.0,2002-11-13,23.0,71,190,6.0,,,,kylewilliams,,3150.0,731004224116207616,462057196620869632,p0ppy,calebb15
 5125,Damoun Patterson,WR,,0.0,Youngstown State,4.0,1994-09-16,27.0,74,190,,,,822636.0,damounpatterson,,,,,,
 8101,Mark Vital,TE,,80.0,Baylor,1.0,1996-11-07,25.0,77,250,,,,,markvital,,,,,,
 3333,Temarrick Hemingway,TE,WAS,88.0,South Carolina State,6.0,1993-07-30,28.0,77,245,,,,608714.0,temarrickhemingway,,,,,,
@@ -1960,34 +1960,34 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 5791,Gerald Holmes,RB,,34.0,Michigan State,4.0,1994-11-15,27.0,73,231,,,,748700.0,geraldholmes,,,,,,
 12705,Graham Mertz,QB,HOU,18.0,Florida,1.0,2000-12-06,25.0,74,216,3.0,,,,grahammertz,,,,,,
 7600,Pat Freiermuth,TE,PIT,88.0,Penn State,5.0,1998-10-25,27.0,77,258,1.0,,,,patfreiermuth,,,,585284262555594752,,AlexVanOoyen
-8527,Dareke Young,WR,LV,81.0,Lenoir-Rhyne,4.0,1999-06-04,27.0,74,224,6.0,,,,darekeyoung,,,,,,
+8527,Dareke Young,WR,LV,81.0,Lenoir-Rhyne,4.0,1999-06-04,27.0,74,224,7.0,,,,darekeyoung,,,,,,
 13026,Moochie Dixon,WR,,,SMU,1.0,,,72,187,,,,,moochiedixon,,,,,,
-11199,Emari Demercado,RB,KC,25.0,TCU,3.0,1999-01-20,27.0,69,215,2.0,,,,emaridemercado,,,,,,
+11199,Emari Demercado,RB,KC,25.0,TCU,3.0,1999-01-20,27.0,69,215,3.0,,,,emaridemercado,,,,,,
 6002,Qadree Ollison,RB,,41.0,Pittsburgh,4.0,1996-09-08,27.0,73,232,,,,832473.0,qadreeollison,,,,,,
 8602,Danny Davis,WR,,0.0,Wisconsin,1.0,1998-01-20,24.0,73,188,,,,,dannydavis,,,,,,
 11645,Javon Baker,WR,,83.0,UCF,2.0,2002-02-18,23.0,73,202,,,,,javonbaker,,,,,,
 2672,Damarr Aultman,WR,,0.0,Maine,10.0,1992-01-13,33.0,71,198,,,,551666.0,damarraultman,,,,,,
-12860,Theo Wease,WR,MIA,81.0,Missouri,1.0,2001-06-25,25.0,74,210,3.0,,,,theowease,600.0,,,,,
+12860,Theo Wease,WR,MIA,81.0,Missouri,1.0,2001-06-25,25.0,74,210,4.0,,,,theowease,1152.0,,,,,
 331,Philip Rivers,QB,,17.0,North Carolina State,22.0,1981-12-08,44.0,77,228,,,,246054.0,philiprivers,,,,,,
 11104,SaRodorick Thompson,RB,,27.0,Texas Tech,1.0,1999-10-01,24.0,72,215,,,,,sarodorickthompson,,,,,,
 12688,Cam Miller,QB,MIA,15.0,North Dakota State,1.0,2001-06-18,25.0,73,211,3.0,,,,cammiller,,,,,,
 4922,Garrett Scantling,WR,ATL,89.0,Georgia,1.0,,,"6'3""",210,,,,,garrettscantling,,,,,,
-12486,Dillon Gabriel,QB,CLE,6.0,Oregon,1.0,2000-12-28,25.0,71,205,4.0,,,,dillongabriel,,3059.0,,,,
+12486,Dillon Gabriel,QB,CLE,6.0,Oregon,1.0,2000-12-28,25.0,71,205,4.0,,,,dillongabriel,,3234.0,,,,
 10212,Josh Whyle,TE,GB,81.0,Cincinnati,3.0,1999-09-08,26.0,79,248,3.0,,,,joshwhyle,,,,,,
-11381,Travis Vokolek,TE,ARI,81.0,Nebraska,3.0,1998-06-04,27.0,78,260,,Questionable,Neck,,travisvokolek,,,,,,
-8161,Malik Willis,QB,MIA,2.0,Liberty,4.0,1999-05-25,27.0,73,225,1.0,,,,malikwillis,3633.0,,730904582686912512,1127441193396285440,rlonigro,LilmanJay67
+11381,Travis Vokolek,TE,ARI,81.0,Nebraska,3.0,1998-06-04,27.0,78,260,,,,,travisvokolek,,,,,,
+8161,Malik Willis,QB,MIA,2.0,Liberty,4.0,1999-05-25,27.0,73,225,1.0,,,,malikwillis,3374.0,,730904582686912512,1127441193396285440,rlonigro,LilmanJay67
 5201,Terry Swanson,RB,,42.0,Toledo,4.0,1996-08-06,25.0,70,205,,,,833513.0,terryswanson,,,,,,
 1559,Mike Glennon,QB,,16.0,North Carolina State,10.0,1989-12-12,33.0,78,225,,,,464346.0,mikeglennon,,,,,,
 7558,Whop Philyor,WR,,0.0,Indiana,1.0,1998-07-31,23.0,71,182,,,,,whopphilyor,,,,,,
 4951,DJ Chark,WR,,16.0,LSU,7.0,1996-09-23,28.0,75,198,,,,822008.0,djchark,,,,,,
-11729,Sione Vaki,RB,DET,33.0,Utah,2.0,2001-07-30,24.0,71,216,4.0,,,,sionevaki,,,,,,
+11729,Sione Vaki,RB,DET,33.0,Utah,2.0,2001-07-30,24.0,71,216,4.0,,,,sionevaki,777.0,,,,,
 11483,Ellis Merriweather,RB,,38.0,UMass,2.0,1999-04-07,26.0,73,220,,,,,ellismerriweather,,,,,,
 8228,Jaylen Warren,RB,PIT,30.0,Oklahoma State,4.0,1998-11-01,27.0,68,215,1.0,,,,jaylenwarren,,,731184036722118656,731000657544359936,JScott51,KyleWurster
 4786,Jhajuan Seales,WR,,0.0,Oklahoma State,5.0,1993-11-26,28.0,72,205,,,,,jhajuanseales,,,,,,
 5774,Cam Serigne,TE,,86.0,Wake Forest,4.0,1994-08-06,27.0,75,240,,,,740272.0,camserigne,,,,,,
-11562,Spencer Rattler,QB,NO,2.0,South Carolina,2.0,2000-09-28,25.0,72,211,2.0,,,,spencerrattler,,1864.0,,,,
-8230,Ty Chandler,RB,NO,83.0,North Carolina,4.0,1998-05-12,28.0,71,205,5.0,,,,tychandler,,,,,,
-6011,Gardner Minshew,QB,ARI,15.0,Washington State,7.0,1996-05-16,30.0,73,225,3.0,,,867303.0,gardnerminshew,1220.0,,,,,
+11562,Spencer Rattler,QB,NO,2.0,South Carolina,2.0,2000-09-28,25.0,72,211,2.0,,,,spencerrattler,,2520.0,,,,
+8230,Ty Chandler,RB,NO,83.0,North Carolina,4.0,1998-05-12,28.0,71,205,6.0,,,,tychandler,,,,,,
+6011,Gardner Minshew,QB,ARI,15.0,Washington State,7.0,1996-05-16,30.0,73,225,2.0,,,867303.0,gardnerminshew,848.0,,,,,
 5089,Mike White,QB,,16.0,Western Kentucky,8.0,1995-03-25,30.0,77,220,,,,741785.0,mikewhite,,,,,,
 4453,Victor Bolden,WR,,84.0,Oregon State,6.0,1995-04-04,28.0,68,178,,,,749590.0,victorbolden,,,,,,
 12268,Colby Suits,QB,,,Houston Christian,1.0,,,76,240,,,,,colbysuits,,,,,,
@@ -2002,21 +2002,21 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12494,Kyle McCord,QB,GB,18.0,Syracuse,1.0,2002-09-19,23.0,75,218,3.0,,,,kylemccord,,,,,,
 13929,Sahmir Hagans,WR,IND,11.0,Duke,0.0,,,70,190,,,,,sahmirhagans,,,,,,
 4942,Marcell Ateman,WR,,15.0,Oklahoma State,5.0,1994-09-16,29.0,76,216,,,,744883.0,marcellateman,,,,,,
-11626,Xavier Legette,WR,CAR,17.0,South Carolina,2.0,2001-01-29,25.0,75,227,5.0,,,,xavierlegette,,,1000853961747877888,1127441193396285440,Tscheibe26,LilmanJay67
+11626,Xavier Legette,WR,CAR,17.0,South Carolina,2.0,2001-01-29,25.0,75,227,4.0,,,,xavierlegette,,,1000853961747877888,1127441193396285440,Tscheibe26,LilmanJay67
 4146,Dede Westbrook,WR,,80.0,Oklahoma,5.0,1993-11-21,29.0,72,178,,,,865950.0,dedewestbrook,,,,,,
 11582,Carson Steele,RB,PHI,34.0,UCLA,2.0,2002-10-21,23.0,72,228,6.0,,,,carsonsteele,,,,,,
-11637,Keon Coleman,WR,BUF,0.0,Florida State,2.0,2003-05-17,23.0,75,213,4.0,,,,keoncoleman,603.0,2097.0,1000639485861785600,990858054952411136,Joshlahay10,parkergullixon
+11637,Keon Coleman,WR,BUF,0.0,Florida State,2.0,2003-05-17,23.0,75,213,5.0,,,,keoncoleman,846.0,1809.0,1000639485861785600,990858054952411136,Joshlahay10,parkergullixon
 7744,Antonio Nunn,WR,,0.0,Buffalo,1.0,1996-09-14,25.0,71,200,,,,,antonionunn,,,,,,
 8559,Josh Babicz,TE,,0.0,North Dakota State,2.0,1999-04-23,23.0,78,255,,,,,joshbabicz,,,,,,
 11864,Zach Heins,TE,,,South Dakota State,1.0,2000-04-21,24.0,79,260,,,,,zachheins,,,,,,
 11573,Frank Gore,RB,BUF,20.0,Southern Miss,2.0,2002-03-13,24.0,68,201,4.0,,,,frankgore,,,,,,
-13408,Tanner Koziol,TE,JAX,89.0,Houston,0.0,2004-01-28,22.0,79,250,3.0,,,,tannerkoziol,,,,,,
+13408,Tanner Koziol,TE,JAX,89.0,Houston,0.0,2004-01-28,22.0,79,250,2.0,,,,tannerkoziol,,,,,,
 12817,Jake Briningstool,TE,KC,88.0,Clemson,1.0,2002-12-09,23.0,78,240,6.0,Questionable,Hamstring,,jakebriningstool,,,,,,
 5700,Robert Martin,RB,,49.0,Rutgers,4.0,1995-09-04,26.0,71,212,,,,838246.0,robertmartin,,,,,,
 7288,Ben Ellefson,TE,,82.0,North Dakota State,3.0,1996-09-01,26.0,75,250,,,,,benellefson,,,,,,
 5857,Noah Fant,TE,NO,87.0,Iowa,7.0,1997-11-20,28.0,76,249,2.0,,,923911.0,noahfant,,,,,,
 12725,Luke Lachey,TE,GB,86.0,Iowa,1.0,2001-06-29,25.0,78,250,4.0,,,,lukelachey,,,,,,
-12500,Quinn Ewers,QB,MIA,14.0,Texas,1.0,2003-03-15,23.0,74,209,2.0,,,,quinnewers,,3690.0,1001981921347375104,1127441193396285440,VanGrizzly,LilmanJay67
+12500,Quinn Ewers,QB,MIA,14.0,Texas,1.0,2003-03-15,23.0,74,209,2.0,,,,quinnewers,,4068.0,1001981921347375104,1127441193396285440,VanGrizzly,LilmanJay67
 6730,Jordan Ta'amu,QB,,4.0,Ole Miss,4.0,1997-12-10,25.0,75,221,,,,974470.0,jordantaamu,,,,,,
 7395,Rashad Medaris,WR,,0.0,Cincinnati,2.0,1996-10-09,25.0,71,178,,,,,rashadmedaris,,,,,,
 8103,Ryan Willis,QB,,14.0,Virginia Tech,1.0,1996-09-28,25.0,76,211,,,,,ryanwillis,,,,,,
@@ -2029,7 +2029,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 13624,Shaleak Knotts,WR,,30.0,,0.0,,,75,194,,,,,shaleakknotts,,,,,,
 8204,Bo Melton,WR,GB,16.0,Rutgers,4.0,1999-05-18,27.0,71,189,5.0,,,,bomelton,,,,,,
 11073,Thayer Thomas,WR,,89.0,North Carolina State,2.0,1998-05-20,27.0,72,195,,,,,thayerthomas,,,,,,
-13477,Colbie Young,WR,CIN,86.0,Georgia,0.0,2002-07-24,23.0,76,218,6.0,,,,colbieyoung,1386.0,,,,,
+13477,Colbie Young,WR,CIN,86.0,Georgia,0.0,2002-07-24,24.0,76,218,5.0,,,,colbieyoung,2844.0,,,,,
 12521,Elijah Arroyo,TE,SEA,18.0,Miami (FL),1.0,2003-04-05,23.0,77,254,2.0,,,,elijaharroyo,,,731184036722118656,1267223871346454528,JScott51,rudyvosters
 6357,Shawn Bane,WR,,16.0,Northwest Missouri State,3.0,1995-06-09,26.0,71,170,,,,1165726.0,shawnbane,,,,,,
 5094,Ryan Izzo,TE,,47.0,Florida State,4.0,1995-12-21,26.0,77,255,,,,861278.0,ryanizzo,,,,,,
@@ -2063,7 +2063,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7992,Matt Bushman,TE,,49.0,BYU,3.0,1995-11-03,28.0,77,245,,,,,mattbushman,,,,,,
 1067,Marvin Jones,WR,,0.0,California,11.0,1990-03-12,33.0,74,199,,,,461620.0,marvinjones,,,,,,
 2381,Chris Conley,WR,,18.0,Georgia,10.0,1992-10-25,32.0,75,205,,,,591801.0,chrisconley,,,,,,
-11600,Ja'Tavion Sanders,TE,CAR,0.0,Texas,2.0,2003-03-27,23.0,76,252,1.0,,,,jatavionsanders,,,,,,
+11600,Ja'Tavion Sanders,TE,CAR,0.0,Texas,2.0,2003-03-27,23.0,76,252,2.0,,,,jatavionsanders,,,,,,
 2917,Brian Vogler,TE,,0.0,Alabama,7.0,1992-03-07,29.0,79,263,,,,557176.0,brianvogler,,,,,,
 12126,Isaac Rex,TE,,,BYU,1.0,1998-08-04,26.0,78,246,,,,,isaacrex,,,,,,
 6553,Austin Walter,RB,,32.0,Rice,5.0,1996-08-17,27.0,68,202,,,,839390.0,austinwalter,,,,,,
@@ -2091,7 +2091,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 11126,Michael Ezeike,TE,,47.0,UCLA,1.0,2000-09-17,23.0,77,245,,,,,michaelezeike,,,,,,
 6453,D.J. Montgomery,WR,,2.0,Austin Peay,7.0,1996-11-17,29.0,73,201,,,,1063397.0,djmontgomery,,,,,,
 5587,Chris Warren,RB,,34.0,Texas,4.0,1996-06-06,25.0,76,250,,,,884299.0,chriswarren,,,,,,
-12503,Isaiah Bond,WR,CLE,0.0,Texas,1.0,2004-03-15,22.0,71,180,5.0,,,,isaiahbond,665.0,2465.0,1000639485861785600,1265863097675956224,Joshlahay10,JacksonTaft
+12503,Isaiah Bond,WR,CLE,0.0,Texas,1.0,2004-03-15,22.0,71,180,4.0,,,,isaiahbond,1150.0,2765.0,1000639485861785600,1265863097675956224,Joshlahay10,JacksonTaft
 5235,David Wells,TE,,89.0,San Diego State,6.0,1995-05-02,29.0,78,260,,,,746301.0,davidwells,,,,,,
 11607,Hayden Hatten,WR,,,Idaho,1.0,2000-06-06,24.0,73,207,,,,,haydenhatten,,,,,,
 11580,Dillon Johnson,RB,,,Washington,1.0,2001-06-15,23.0,72,218,,,,,dillonjohnson,,,,,,
@@ -2107,7 +2107,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 3440,Josh Woodrum,QB,,0.0,Liberty,6.0,1992-11-07,29.0,75,228,,,,611616.0,joshwoodrum,,,,,,
 4806,Brandon Radcliff,RB,,37.0,Louisville,5.0,1993-03-18,28.0,69,210,,,,692182.0,brandonradcliff,,,,,,
 7618,Micah Simon,WR,CAR,81.0,Brigham Young,1.0,,,73,195,,,,,micahsimon,,,,,,
-11625,Adonai Mitchell,WR,NYJ,15.0,Texas,2.0,2002-10-08,23.0,74,205,3.0,,,,adonaimitchell,1424.0,2648.0,731184036722118656,1357227930467434496,JScott51,OwenBowers
+11625,Adonai Mitchell,WR,NYJ,15.0,Texas,2.0,2002-10-08,23.0,74,205,3.0,,,,adonaimitchell,2112.0,2584.0,731184036722118656,1357227930467434496,JScott51,OwenBowers
 12389,Hayden Rucci,TE,SF,83.0,Wisconsin,2.0,2001-01-27,25.0,77,247,,,,,haydenrucci,,,,,,
 4610,Deante' Gray,WR,,0.0,Texas Christian,5.0,1994-02-27,27.0,70,175,,,,691317.0,deantegray,,,,,,
 5747,Kayaune Ross,WR,,11.0,Kentucky,4.0,1994-07-08,27.0,78,225,,,,920060.0,kayauneross,,,,,,
@@ -2125,8 +2125,8 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8407,T.J. Pledger,RB,,0.0,Utah,1.0,2000-02-24,22.0,69,196,,,,,tjpledger,,,,,,
 2800,Mario Hull,WR,,0.0,Rice,10.0,1992-08-29,32.0,73,200,,,,550958.0,mariohull,,,,,,
 7537,Jaret Patterson,RB,LAC,32.0,Buffalo,5.0,1999-12-23,26.0,68,195,4.0,,,,jaretpatterson,,,,,,
-12471,DJ Giddens,RB,IND,21.0,Kansas State,1.0,2003-08-26,22.0,72,212,2.0,,,,djgiddens,,,731172076769128448,,TuckBrock,
-12467,Jordan James,RB,SF,29.0,Oregon,1.0,2004-03-29,22.0,69,208,2.0,,,,jordanjames,618.0,,731172076769128448,731000657544359936,TuckBrock,KyleWurster
+12471,DJ Giddens,RB,IND,21.0,Kansas State,1.0,2003-08-26,22.0,72,212,2.0,,,,djgiddens,955.0,,731172076769128448,,TuckBrock,
+12467,Jordan James,RB,SF,29.0,Oregon,1.0,2004-03-29,22.0,69,208,2.0,,,,jordanjames,898.0,,731172076769128448,731000657544359936,TuckBrock,KyleWurster
 2909,Beau Gardner,TE,,0.0,Northern Arizona,10.0,1989-12-27,35.0,76,240,,,,612192.0,beaugardner,,,,,,
 2577,Devante Davis,WR,,0.0,UNLV,10.0,1992-10-13,32.0,75,215,,,,606351.0,devantedavis,,,,,,
 5661,Chris Lacy,WR,,15.0,Oklahoma State,5.0,1996-01-28,27.0,75,205,,,,835417.0,chrislacy,,,,,,
@@ -2154,24 +2154,24 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 9500,Josh Downs,WR,IND,2.0,North Carolina,3.0,2001-08-12,24.0,69,171,2.0,,,,joshdowns,,,731004224116207616,731000657544359936,p0ppy,KyleWurster
 11762,Anthony Gould,WR,IND,6.0,Oregon State,2.0,2001-04-06,25.0,68,174,6.0,,,,anthonygould,,,,,,
 7602,Kylen Granson,TE,TEN,86.0,SMU,5.0,1998-03-27,28.0,75,242,4.0,,,,kylengranson,,,,,,
-12516,Kalel Mullings,RB,TEN,31.0,Michigan,1.0,2002-10-04,23.0,74,226,5.0,,,,kalelmullings,,1442.0,,,,
+12516,Kalel Mullings,RB,TEN,31.0,Michigan,1.0,2002-10-04,23.0,74,226,5.0,,,,kalelmullings,,1582.0,,,,
 12357,David Martin-Robinson,TE,TEN,88.0,Temple,2.0,1999-12-26,26.0,75,247,5.0,,,,davidmartinrobinson,,,,,,
 3668,Joshua Perkins,TE,NYJ,89.0,Washington,6.0,1993-08-05,28.0,75,223,,,,608012.0,joshuaperkins,,,,,,
 11231,Christian Trahan,TE,,85.0,Houston,1.0,1998-10-22,24.0,74,256,,,,,christiantrahan,,,,,,
 11130,Pokey Wilson,WR,,81.0,Florida State,2.0,1999-08-12,26.0,72,175,,,,,pokeywilson,,,,,,
 6318,Jordan Ellis,RB,,31.0,Virginia,3.0,1996-03-22,25.0,70,225,,,,836253.0,jordanellis,,,,,,
-13315,Dean Connors,RB,LAR,33.0,Houston,0.0,2003-08-29,22.0,71,206,4.0,,,,deanconnors,,,,,,
+13315,Dean Connors,RB,LAR,33.0,Houston,0.0,2003-08-29,22.0,71,206,5.0,,,,deanconnors,,,,,,
 1048,Lamar Miller,RB,,0.0,Miami (FL),10.0,1991-04-25,30.0,70,221,,,,508924.0,lamarmiller,,,,,,
 5010,Will Dissly,TE,,89.0,Washington,8.0,1996-07-08,29.0,76,265,,Questionable,Undisclosed,837806.0,willdissly,,,,,,
-6039,Ty Johnson,RB,BUF,26.0,Maryland,7.0,1997-09-17,28.0,70,210,2.0,,,877784.0,tyjohnson,,,,,,
-6803,Brandon Aiyuk,WR,SF,11.0,Arizona State,6.0,1998-03-17,28.0,72,200,3.0,DNR,Knee - ACL + MCL,,brandonaiyuk,,,731004224116207616,462057196620869632,p0ppy,calebb15
-12544,LeQuint Allen,RB,JAX,5.0,Syracuse,1.0,2004-08-05,21.0,72,201,3.0,,,,lequintallen,684.0,,1001981921347375104,990858054952411136,VanGrizzly,parkergullixon
+6039,Ty Johnson,RB,BUF,26.0,Maryland,7.0,1997-09-17,28.0,70,210,2.0,,,877784.0,tyjohnson,882.0,1428.0,,,,
+6803,Brandon Aiyuk,WR,SF,11.0,Arizona State,6.0,1998-03-17,28.0,72,200,5.0,DNR,Knee - ACL + MCL,,brandonaiyuk,,,731004224116207616,462057196620869632,p0ppy,calebb15
+12544,LeQuint Allen,RB,JAX,5.0,Syracuse,1.0,2004-08-05,21.0,72,201,4.0,,,,lequintallen,1092.0,,1001981921347375104,990858054952411136,VanGrizzly,parkergullixon
 11249,Chris Smith,RB,,34.0,Louisiana,1.0,1999-09-08,23.0,69,194,,,,,chrissmith,,,,,,
 9997,Zay Flowers,WR,BAL,4.0,Boston College,3.0,2000-09-11,25.0,69,183,1.0,,,,zayflowers,,,731003760045875200,730904582686912512,nolan22snyder,rlonigro
 5407,Ervin Philips,RB,,89.0,Syracuse,4.0,1995-01-18,26.0,71,181,,,,836230.0,ervinphilips,,,,,,
 6032,Keelan Doss,WR,,10.0,UC Davis,5.0,1996-03-21,28.0,75,215,,,,830084.0,keelandoss,,,,,,
 13943,Squirrel White,WR,,26.0,Florida State,0.0,,,70,178,,NA,Undisclosed,,squirrelwhite,,,,,,
-8172,Greg Dulcich,TE,MIA,85.0,UCLA,4.0,2000-03-26,26.0,76,245,1.0,,,,gregdulcich,2702.0,,,,,
+8172,Greg Dulcich,TE,MIA,85.0,UCLA,4.0,2000-03-26,26.0,76,245,1.0,,,,gregdulcich,2958.0,,,,,
 4730,Sam Cotton,TE,,85.0,Nebraska,5.0,1994-01-27,27.0,77,250,,,,651617.0,samcotton,,,,,,
 11359,Kody Case,WR,,13.0,Illinois,1.0,1998-09-11,24.0,70,182,,,,,kodycase,,,,,,
 7092,Chris Finke,WR,,17.0,Notre Dame,2.0,1996-05-02,26.0,69,186,,,,,chrisfinke,,,,,,
@@ -2193,7 +2193,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 5395,Shaun Wilson,RB,,39.0,Duke,4.0,1995-12-02,26.0,69,185,,,,830812.0,shaunwilson,,,,,,
 8706,Kehinde Oginni,TE,,72.0,,2.0,1999-03-03,25.0,78,240,,,,,kehindeoginni,,,,,,
 5464,De'Lance Turner,RB,,34.0,Alcorn State,4.0,1995-08-23,26.0,71,214,,,,887450.0,delanceturner,,,,,,
-4144,Jonnu Smith,TE,,81.0,Florida International,9.0,1995-08-22,30.0,75,248,,,,743749.0,jonnusmith,,4004.0,730904582686912512,,rlonigro,
+4144,Jonnu Smith,TE,,81.0,Florida International,9.0,1995-08-22,30.0,75,248,,,,743749.0,jonnusmith,,4844.0,730904582686912512,,rlonigro,
 12009,Jack Plummer,QB,,16.0,Louisville,1.0,1999-10-21,25.0,77,215,,,,,jackplummer,,,,,,
 13346,Denzel Boston,WR,CLE,12.0,Washington,0.0,2003-12-06,22.0,76,215,2.0,,,,denzelboston,,,,1267949452228820992,,carsonclausen12
 8126,Wan'Dale Robinson,WR,TEN,4.0,Kentucky,4.0,2001-01-05,25.0,68,185,2.0,,,,wandalerobinson,,,731003760045875200,731000657544359936,nolan22snyder,KyleWurster
@@ -2204,7 +2204,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 2914,Luke Lundy,RB,,0.0,Ottawa (KS),10.0,1988-08-23,36.0,72,239,,,,870695.0,lukelundy,,,,,,
 13345,Jonah Coleman,RB,DEN,20.0,Washington,0.0,2003-08-20,22.0,68,220,3.0,,,,jonahcoleman,,,,462057196620869632,,calebb15
 11168,Xavier Smith,WR,LAR,19.0,Florida A&M,3.0,1997-09-21,28.0,69,180,6.0,,,,xaviersmith,,,,,,
-6853,Van Jefferson,WR,WAS,12.0,Florida,6.0,1996-07-26,29.0,73,200,4.0,,,,vanjefferson,,,,,,
+6853,Van Jefferson,WR,WAS,12.0,Florida,6.0,1996-07-26,29.0,73,200,7.0,,,,vanjefferson,,,,,,
 6557,Jeff Smith,WR,,86.0,Boston College,5.0,1997-04-21,27.0,73,195,,,,883429.0,jeffsmith,,,,,,
 13293,Ja'Kobi Lane,WR,BAL,6.0,USC,0.0,2004-05-05,22.0,76,200,3.0,,,,jakobilane,,,,862077560916389888,,milly69
 11537,Wayne Taulapapa,RB,,43.0,Washington,1.0,1998-03-22,25.0,70,205,,,,,waynetaulapapa,,,,,,
@@ -2223,7 +2223,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6789,Henry Ruggs,WR,,0.0,Alabama,2.0,1999-01-24,22.0,72,190,,,,,henryruggs,,,,,,
 11851,Carter Bradley,QB,JAX,10.0,South Alabama,2.0,2000-03-09,26.0,75,221,3.0,,,,carterbradley,,,,,,
 8235,Samori Toure,WR,PHI,46.0,Nebraska,4.0,1998-03-24,28.0,73,196,9.0,,,,samoritoure,,,,,,
-13122,Carter Runyon,TE,LV,84.0,Towson,1.0,2001-07-23,24.0,76,243,4.0,,,,carterrunyon,,,,,,
+13122,Carter Runyon,TE,LV,84.0,Towson,1.0,2001-07-23,25.0,76,243,4.0,,,,carterrunyon,,,,,,
 8168,Skyy Moore,WR,GB,23.0,Western Michigan,4.0,2000-09-10,25.0,70,195,6.0,,,,skyymoore,,,,,,
 2446,MyCole Pruitt,TE,,81.0,Southern Illinois,10.0,1992-03-24,32.0,74,258,,,,552586.0,mycolepruitt,,,,,,
 2567,Bryan Bennett,QB,,0.0,Southeastern Louisiana,10.0,1992-03-06,32.0,74,215,,,,555659.0,bryanbennett,,,,,,
@@ -2232,15 +2232,15 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4823,Keevan Lucas,WR,,81.0,Tulsa,5.0,1995-04-10,26.0,70,195,,,,729586.0,keevanlucas,,,,,,
 5045,Courtland Sutton,WR,DEN,14.0,SMU,8.0,1995-10-10,30.0,76,216,2.0,,,838878.0,courtlandsutton,,,1000639485861785600,1032440738459639808,Joshlahay10,GriffinStiemke
 11388,Nolan Henderson,QB,,5.0,Delaware,1.0,1998-06-26,24.0,71,202,,,,,nolanhenderson,,,,,,
-9497,Jalin Hyatt,WR,NYG,13.0,Tennessee,3.0,2001-09-25,24.0,72,185,11.0,,,,jalinhyatt,,1368.0,,,,
+9497,Jalin Hyatt,WR,NYG,13.0,Tennessee,3.0,2001-09-25,24.0,72,185,11.0,,,,jalinhyatt,,1449.0,,,,
 7175,Chris Rowland,WR,,0.0,Tennessee State,2.0,1997-12-19,24.0,68,170,,,,,chrisrowland,,,,,,
-9492,Trey Palmer,WR,NO,17.0,Nebraska,3.0,2001-04-02,25.0,73,190,10.0,,,,treypalmer,,,,,,
+9492,Trey Palmer,WR,NO,17.0,Nebraska,3.0,2001-04-02,25.0,73,190,9.0,,,,treypalmer,,,,,,
 4774,De'Mard Llorens,RB,,37.0,"Northwestern State, La.",5.0,1994-02-01,27.0,70,212,,,,747294.0,demardllorens,,,,,,
 3934,Troymaine Pope,RB,,0.0,Jacksonville State,6.0,1993-11-26,28.0,69,205,,,,700813.0,troymainepope,,,,,,
 6665,Jody Fortson,TE,,89.0,Valdosta State,6.0,1995-12-07,29.0,76,226,,,,1167484.0,jodyfortson,,,,,,
 12772,Courtney Jackson,WR,TEN,39.0,Arkansas State,1.0,2001-03-13,25.0,71,183,,,,,courtneyjackson,,,,,,
 8570,Derek Wright,WR,,83.0,Utah State,2.0,1998-08-13,25.0,73,195,,,,,derekwright,,,,,,
-8122,Zonovan Knight,RB,ARI,20.0,North Carolina State,4.0,2001-04-11,25.0,71,210,5.0,,,,zonovanknight,,1252.0,730904582686912512,,rlonigro,
+8122,Zonovan Knight,RB,ARI,20.0,North Carolina State,4.0,2001-04-11,25.0,71,210,5.0,,,,zonovanknight,,1394.0,730904582686912512,,rlonigro,
 7594,Chuba Hubbard,RB,CAR,30.0,Oklahoma State,5.0,1999-06-11,27.0,73,210,1.0,,,,chubahubbard,,,731174840580571136,585284262555594752,Mattwyn,AlexVanOoyen
 5120,Danny Etling,QB,,19.0,LSU,5.0,1994-07-22,29.0,75,220,,,,728374.0,dannyetling,,,,,,
 4853,Jerod Evans,QB,,0.0,Virginia Tech,5.0,1994-01-16,27.0,75,238,,,,792967.0,jerodevans,,,,,,
@@ -2250,7 +2250,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 11508,Princeton Fant,TE,DAL,85.0,Tennessee,3.0,1999-03-11,27.0,74,245,4.0,,,,princetonfant,,,,,,
 5427,LaQuvionte Gonzalez,WR,,0.0,"Southeastern, Fla.",4.0,1993-09-28,28.0,71,175,,,,744624.0,laquviontegonzalez,,,,,,
 3852,Jaydon Mickens,WR,,17.0,Washington,8.0,1994-04-21,30.0,70,174,,,,695199.0,jaydonmickens,,,,,,
-11834,Devaughn Vele,WR,NO,14.0,Utah,2.0,1997-12-12,28.0,77,210,3.0,,,,devaughnvele,616.0,3437.0,731174840580571136,,Mattwyn,
+11834,Devaughn Vele,WR,NO,14.0,Utah,2.0,1997-12-12,28.0,77,210,3.0,,,,devaughnvele,1029.0,4088.0,731174840580571136,,Mattwyn,
 2981,Ross Scheuerman,RB,,0.0,Lafayette,10.0,1993-03-05,32.0,73,205,,,,596807.0,rossscheuerman,,,,,,
 13208,Kyrese Rowan,WR,,80.0,Utah State,1.0,2001-01-25,25.0,70,185,,,,,kyreserowan,,,,,,
 7452,Josh Pearson,WR,,89.0,Jacksonville State,2.0,1997-06-13,24.0,76,205,,,,,joshpearson,,,,,,
@@ -2259,17 +2259,17 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 5246,Jake Roh,TE,,0.0,Boise State,4.0,1994-09-24,27.0,75,227,,,,728838.0,jakeroh,,,,,,
 13326,DT Sheffield,WR,NYJ,38.0,Rutgers,0.0,2001-02-25,25.0,67,175,,,,,dtsheffield,,,,,,
 5254,Jimmy Williams,WR,,0.0,East Carolina,4.0,1995-02-24,26.0,71,198,,,,749626.0,jimmywilliams,,,,,,
-6850,Harrison Bryant,TE,SEA,46.0,Florida Atlantic,6.0,1998-04-23,28.0,77,242,4.0,,,,harrisonbryant,,,,,,
+6850,Harrison Bryant,TE,,46.0,Florida Atlantic,6.0,1998-04-23,28.0,77,242,,Questionable,Undisclosed,,harrisonbryant,,,,,,
 5096,Ray-Ray McCloud,WR,,88.0,Clemson,7.0,1996-10-15,29.0,69,190,,,,867759.0,rayraymccloud,,,,,,
 3811,Alstevis Squirewell,RB,,40.0,Newberry,9.0,1992-09-17,32.0,73,270,,,,,alstevissquirewell,,,,,,
 7100,Derrick Dillon,WR,,80.0,LSU,2.0,1995-10-28,26.0,71,185,,,,,derrickdillon,,,,,,
-4098,Kareem Hunt,RB,,29.0,Toledo,9.0,1995-08-06,30.0,71,216,,,,746613.0,kareemhunt,,3516.0,731174840580571136,,Mattwyn,
-13402,Skyler Bell,WR,BUF,13.0,UConn,0.0,2002-07-05,24.0,71,192,3.0,,,,skylerbell,1090.0,,,1265863097675956224,,JacksonTaft
+4098,Kareem Hunt,RB,,29.0,Toledo,9.0,1995-08-06,30.0,71,216,,,,746613.0,kareemhunt,,4168.0,731174840580571136,,Mattwyn,
+13402,Skyler Bell,WR,BUF,13.0,UConn,0.0,2002-07-05,24.0,71,192,4.0,,,,skylerbell,1055.0,,,1265863097675956224,,JacksonTaft
 8127,Charlie Kolar,TE,LAC,88.0,Iowa State,4.0,1999-02-10,27.0,78,250,3.0,,,,charliekolar,,,,,,
-12001,Lawrence Keys,WR,DET,,Tulane,2.0,1999-12-09,26.0,71,175,,,,,lawrencekeys,,,,,,
+12001,Lawrence Keys,WR,DET,80.0,Tulane,2.0,1999-12-09,26.0,71,175,,,,,lawrencekeys,,,,,,
 12883,Joshua Simon,TE,ATL,47.0,South Carolina,1.0,2000-11-27,25.0,76,240,4.0,,,,joshuasimon,,,,,,
 5103,Dylan Cantrell,TE,,45.0,Texas Tech,4.0,1994-06-29,27.0,75,226,,,,748048.0,dylancantrell,,,,,,
-3200,Sterling Shepard,WR,,17.0,Oklahoma,10.0,1993-02-10,33.0,70,194,,,,691278.0,sterlingshepard,,1918.0,,,,
+3200,Sterling Shepard,WR,,17.0,Oklahoma,10.0,1993-02-10,33.0,70,194,,,,691278.0,sterlingshepard,,2065.0,,,,
 4089,Gerald Everett,TE,,14.0,South Alabama,8.0,1994-06-25,30.0,75,252,,,,838487.0,geraldeverett,,,,,,
 8760,Dre Miller,TE,,16.0,Maine,2.0,1998-04-18,25.0,74,224,,,,,dremiller,,,,,,
 8418,Jared Smart,WR,,0.0,Hawai'i,1.0,,,72,190,,,,,jaredsmart,,,,,,
@@ -2284,17 +2284,17 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 11536,Milton Wright,WR,,38.0,Purdue,1.0,2000-09-28,22.0,75,195,,,,,miltonwright,,,,,,
 3520,Jay Lee,WR,,0.0,Baylor,9.0,1993-06-29,31.0,75,220,,,,,jaylee,,,,,,
 2588,Malcolm Brown,RB,,41.0,Texas,8.0,1993-05-15,29.0,71,225,,,,604724.0,malcolmbrown,,,,,,
-11748,Bub Means,WR,NO,16.0,Pittsburgh,2.0,2001-01-10,25.0,74,215,4.0,Questionable,Lower Leg,,bubmeans,,,,,,
+11748,Bub Means,WR,NO,16.0,Pittsburgh,2.0,2001-01-10,25.0,74,215,11.0,Questionable,Lower Leg,,bubmeans,,,,,,
 5744,Eldridge Massington,WR,NO,86.0,UCLA,1.0,1995-01-26,24.0,"6'2""",210,,,,733071.0,eldridgemassington,,,,,,
-12412,Terrell Jennings,RB,NE,26.0,Florida A&M,2.0,2001-03-01,25.0,72,222,5.0,,,,terrelljennings,,,,,,
-8200,Kevin Austin,WR,NO,81.0,Notre Dame,4.0,2000-03-30,26.0,74,200,7.0,,,,kevinaustin,,,,,,
+12412,Terrell Jennings,RB,NE,26.0,Florida A&M,2.0,2001-03-01,25.0,72,222,3.0,PUP,Undisclosed,,terrelljennings,,,,,,
+8200,Kevin Austin,WR,NO,81.0,Notre Dame,4.0,2000-03-30,26.0,74,200,4.0,,,,kevinaustin,,,,,,
 886,Taiwan Jones,RB,,36.0,Eastern Washington,12.0,1988-07-26,35.0,72,195,,,,386116.0,taiwanjones,,,,,,
-7528,Najee Harris,RB,,22.0,Alabama,5.0,1998-03-09,27.0,73,242,,Questionable,Achilles,,najeeharris,,3195.0,1000853961747877888,,Tscheibe26,
+7528,Najee Harris,RB,,22.0,Alabama,5.0,1998-03-09,27.0,73,242,,Questionable,Achilles,,najeeharris,915.0,4245.0,1000853961747877888,,Tscheibe26,
 13725,Dominic Richardson,RB,DAL,43.0,Tulsa,0.0,2001-04-12,25.0,72,204,,,,,dominicrichardson,,,,,,
 8745,Lance McCutcheon,WR,TEN,89.0,Montana State,4.0,1999-02-28,27.0,75,202,9.0,,,,lancemccutcheon,,,,,,
 8255,Raheem Blackshear,RB,,10.0,Virginia Tech,4.0,1998-06-05,27.0,69,190,,,,,raheemblackshear,,,,,,
 8915,Drew Plitt,QB,,7.0,Ball State,2.0,1998-01-09,26.0,74,217,,,,,drewplitt,,,,,,
-9482,Michael Mayer,TE,LV,87.0,Notre Dame,3.0,2001-07-06,25.0,76,256,2.0,,,,michaelmayer,684.0,1674.0,,1032440738459639808,,GriffinStiemke
+9482,Michael Mayer,TE,LV,87.0,Notre Dame,3.0,2001-07-06,25.0,76,256,2.0,,,,michaelmayer,1260.0,1917.0,,1032440738459639808,,GriffinStiemke
 2639,Tony Jones,WR,,0.0,Northwestern,10.0,1992-03-21,32.0,72,195,,,,546179.0,tonyjones,,,,,,
 8191,Slade Bolden,WR,,89.0,Alabama,2.0,1999-01-26,24.0,71,189,,,,,sladebolden,,,,,,
 138,Ben Roethlisberger,QB,PIT,7.0,Miami (OH),18.0,1982-03-02,39.0,77,240,,,,246061.0,benroethlisberger,,,,,,
@@ -2306,25 +2306,25 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6727,Joe Walker,WR,,0.0,Delaware,3.0,1996-01-12,26.0,73,201,,,,873479.0,joewalker,,,,,,
 1842,Derrick Johnson,WR,,0.0,Maine,11.0,1991-07-06,33.0,71,190,,,,,derrickjohnson,,,,,,
 3204,C.J. Prosise,RB,,0.0,Notre Dame,6.0,1994-05-20,27.0,73,225,,,,697479.0,cjprosise,,,,,,
-8800,Malik Davis,RB,DAL,20.0,Florida,4.0,1998-11-26,27.0,70,205,2.0,,,,malikdavis,2025.0,1998.0,,,,
+8800,Malik Davis,RB,DAL,20.0,Florida,4.0,1998-11-26,27.0,70,205,3.0,,,,malikdavis,4977.0,3186.0,,,,
 7941,Nick Ralston,RB,,46.0,Louisiana,1.0,1996-11-10,25.0,72,237,,,,,nickralston,,,,,,
 7337,Easop Winston,WR,,85.0,Washington State,5.0,1996-12-17,28.0,71,190,,,,,easopwinston,,,,,,
 14038,Trayvon Rudolph,WR,MIN,30.0,Toledo,0.0,2001-09-06,24.0,70,187,,,,,trayvonrudolph,,,,,,
 4435,Anthony Firkser,TE,WAS,46.0,Harvard,9.0,1995-02-19,31.0,74,241,4.0,,,767297.0,anthonyfirkser,,,,,,
-13278,Max Klare,TE,LAR,86.0,Ohio State,0.0,2003-07-08,23.0,76,246,4.0,,,,maxklare,612.0,,,730904582686912512,,rlonigro
+13278,Max Klare,TE,LAR,86.0,Ohio State,0.0,2003-07-08,23.0,76,246,4.0,,,,maxklare,774.0,,,730904582686912512,,rlonigro
 12803,Luke Grimm,WR,LAC,,Kansas,1.0,2001-08-08,24.0,72,190,,,,,lukegrimm,,,,,,
 11558,Sam Hartman,QB,WAS,15.0,Notre Dame,2.0,1999-07-29,26.0,73,209,3.0,,,,samhartman,,,,,,
 8573,Talolo Limi-Jones,WR,,0.0,Eastern Washington,1.0,1997-11-16,25.0,76,220,,,,,talololimijones,,,,,,
 8239,Ricky Person,RB,,31.0,North Carolina State,1.0,1999-11-12,24.0,72,217,,,,,rickyperson,,,,,,
 10863,A.T. Perry,WR,PIT,27.0,Wake Forest,3.0,1999-10-26,26.0,77,205,7.0,,,,atperry,,,,,,
 11969,Xavier Johnson,WR,CIN,18.0,Ohio State,2.0,1999-05-11,27.0,73,210,,,,,xavierjohnson,,,,,,
-10235,Roschon Johnson,RB,CHI,23.0,Texas,3.0,2001-01-31,25.0,72,227,3.0,Questionable,Thumb,,roschonjohnson,,1760.0,,,,
+10235,Roschon Johnson,RB,CHI,23.0,Texas,3.0,2001-01-31,25.0,72,227,4.0,,,,roschonjohnson,,2280.0,,,,
 12743,Junior Bergen,WR,SF,86.0,Montana,1.0,2002-10-23,23.0,69,184,,,,,juniorbergen,,,,,,
 3155,Laquon Treadwell,WR,IND,13.0,Ole Miss,10.0,1995-06-14,31.0,74,215,6.0,,,748554.0,laquontreadwell,,,,,,
 12278,Jacob Sirmon,QB,,,Northern Colorado,1.0,,,76,235,,,,,jacobsirmon,,,,,,
-8162,Sam Howell,QB,DAL,16.0,North Carolina,4.0,2000-09-16,25.0,73,225,3.0,,,,samhowell,,,,,,
+8162,Sam Howell,QB,DAL,16.0,North Carolina,4.0,2000-09-16,25.0,73,225,2.0,,,,samhowell,,,,,,
 11560,Caleb Williams,QB,CHI,18.0,USC,2.0,2001-11-18,24.0,73,226,1.0,,,,calebwilliams,,,730904582686912512,862077560916389888,rlonigro,milly69
-13434,Will Kacmarek,TE,MIA,82.0,Ohio State,0.0,2003-02-12,23.0,78,258,2.0,,,,willkacmarek,1380.0,,,,,
+13434,Will Kacmarek,TE,MIA,82.0,Ohio State,0.0,2003-02-12,23.0,78,258,2.0,,,,willkacmarek,2236.0,,,,,
 8196,Ty Fryfogle,WR,,13.0,Indiana,2.0,1999-01-28,24.0,74,205,,,,,tyfryfogle,,,,,,
 2927,Keshawn Hill,RB,,0.0,Sam Houston State,10.0,1993-03-17,31.0,70,200,,,,601800.0,keshawnhill,,,,,,
 6012,Travis Homer,RB,PIT,21.0,Miami (FL),7.0,1998-08-07,27.0,70,202,6.0,,,922484.0,travishomer,,,,,,
@@ -2342,7 +2342,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 2905,Josh Reese,WR,,0.0,UCF,10.0,1991-01-03,34.0,72,180,,,,562550.0,joshreese,,,,,,
 12402,Ramon Jefferson,RB,,,Kentucky,1.0,2000-01-10,25.0,70,215,,,,,ramonjefferson,,,,,,
 8041,Shane Zylstra,TE,BUF,48.0,Minnesota State,5.0,1996-11-16,29.0,76,244,5.0,,,,shanezylstra,,,,,,
-4035,Alvin Kamara,RB,NO,41.0,Tennessee,9.0,1995-07-25,30.0,70,215,2.0,,,750846.0,alvinkamara,,1512.0,1001981921347375104,990858054952411136,VanGrizzly,parkergullixon
+4035,Alvin Kamara,RB,NO,41.0,Tennessee,9.0,1995-07-25,30.0,70,215,2.0,,,750846.0,alvinkamara,,1656.0,1001981921347375104,990858054952411136,VanGrizzly,parkergullixon
 2557,Jerry Lovelocke,QB,,0.0,Prairie View A&M,10.0,1992-10-08,32.0,77,200,,,,565355.0,jerrylovelocke,,,,,,
 8756,Brandon Johnson,WR,LV,82.0,UCF,4.0,1998-07-26,27.0,74,195,,,,,brandonjohnson,,,,,,
 6036,Ryan Davis,WR,,19.0,Auburn,3.0,1997-04-12,24.0,69,188,,,,,ryandavis,,,,,,
@@ -2350,7 +2350,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 3464,Marquez North,WR,,3.0,Tennessee,6.0,1995-04-21,26.0,76,224,,,,741279.0,marqueznorth,,,,,,
 7546,Tre Nixon,WR,,82.0,UCF,3.0,1998-01-26,26.0,74,190,,,,,trenixon,,,,,,
 2836,Kenny Cook,WR,,0.0,Gardner-Webb,7.0,1992-05-20,29.0,76,218,,,,700912.0,kennycook,,,,,,
-11569,Jarquez Hunter,RB,LAR,27.0,Auburn,1.0,2002-12-29,23.0,70,211,3.0,,,,jarquezhunter,,,731172076769128448,,TuckBrock,
+11569,Jarquez Hunter,RB,LAR,27.0,Auburn,1.0,2002-12-29,23.0,70,211,4.0,,,,jarquezhunter,,,731172076769128448,,TuckBrock,
 5401,Armanti Foreman,WR,,0.0,Texas,4.0,,,72,210,,,,835442.0,armantiforeman,,,,,,
 12114,Joshua Cephus,WR,,18.0,UTSA,2.0,2001-03-05,25.0,74,193,,,,,joshuacephus,,,,,,
 4805,Pig Howard,WR,,17.0,Tennessee,5.0,1993-03-09,28.0,68,180,,,,690066.0,pighoward,,,,,,
@@ -2362,15 +2362,15 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 11320,Nikko Remigio,WR,KC,81.0,Fresno State,3.0,1999-11-04,26.0,69,187,6.0,,,,nikkoremigio,,,,,,
 13308,Bauer Sharp,TE,TB,84.0,LSU,0.0,2003-05-03,23.0,77,246,5.0,,,,bauersharp,,,,,,
 12097,Ayir Asante,WR,,,Wyoming,1.0,2001-02-27,23.0,72,178,,,,,ayirasante,,,,,,
-11716,Tip Reiman,TE,ARI,87.0,Illinois,2.0,2001-09-17,24.0,77,271,3.0,Questionable,Ankle,,tipreiman,,,,,,
+11716,Tip Reiman,TE,ARI,87.0,Illinois,2.0,2001-09-17,24.0,77,271,3.0,PUP,Ankle,,tipreiman,,,,,,
 6753,Derrick Gore,RB,,38.0,Louisiana-Monroe,5.0,1994-12-13,29.0,70,212,,,,884044.0,derrickgore,,,,,,
-13319,Oscar Delp,TE,NO,88.0,Georgia,0.0,2003-08-04,22.0,76,245,3.0,,,,oscardelp,1218.0,,,,,
+13319,Oscar Delp,TE,NO,88.0,Georgia,0.0,2003-08-04,22.0,76,245,3.0,,,,oscardelp,1716.0,,,,,
 6763,Reggie Begelton,WR,,84.0,Lamar,2.0,1993-08-31,28.0,74,200,,,,,reggiebegelton,,,,,,
 12166,Trey Potts,RB,,,Penn State,1.0,,,69,215,,,,,treypotts,,,,,,
 6443,Eric Dungey,QB,,5.0,Syracuse,3.0,1996-06-12,25.0,76,226,,,,883672.0,ericdungey,,,,,,
 8102,DeShon Williams,TE,,0.0,Washington,1.0,,,74,225,,,,,deshonwilliams,,,,,,
 5113,Cedrick Wilson,WR,DET,86.0,Boise State,8.0,1995-11-20,30.0,74,205,7.0,,,912061.0,cedrickwilson,,,,,,
-11783,Ryan Flournoy,WR,DAL,19.0,Southeast Missouri State,2.0,1999-10-27,26.0,73,205,3.0,,,,ryanflournoy,3320.0,1400.0,,1265863097675956224,,JacksonTaft
+11783,Ryan Flournoy,WR,DAL,19.0,Southeast Missouri State,2.0,1999-10-27,26.0,73,205,3.0,,,,ryanflournoy,3944.0,1760.0,,1265863097675956224,,JacksonTaft
 13862,Treyvhon Saunders,WR,HOU,14.0,Colgate,0.0,,,69,190,,,,,treyvhonsaunders,,,,,,
 11197,Joel Honigford,TE,,42.0,Michigan,1.0,1998-04-27,25.0,76,259,,,,,joelhonigford,,,,,,
 8813,Anthony Turner,WR,,0.0,Grand View,1.0,,,76,205,,,,,anthonyturner,,,,,,
@@ -2388,11 +2388,11 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 13022,Sone Ntoh,RB,,,Monmouth,0.0,,,71,220,,,,,sonentoh,,,,,,
 4588,Kyle Sloter,QB,,4.0,Northern Colorado,5.0,1994-02-07,28.0,76,218,,,,693430.0,kylesloter,,,,,,
 4683,Aaron Bailey,QB,BAL,8.0,Northern Iowa,1.0,,,"6'1""",230,4.0,,,,aaronbailey,,,,,,
-10871,Luke Schoonmaker,TE,DAL,86.0,Michigan,3.0,1998-09-28,27.0,77,250,2.0,,,,lukeschoonmaker,,,,,,
+10871,Luke Schoonmaker,TE,DAL,86.0,Michigan,3.0,1998-09-28,27.0,77,250,3.0,,,,lukeschoonmaker,,,,,,
 7309,Siaosi Mariner,WR,,0.0,Utah State,2.0,1997-01-25,24.0,74,195,,,,,siaosimariner,,,,,,
 6155,Jaylen Smith,WR,,0.0,Louisville,3.0,1997-08-01,25.0,74,227,,,,877762.0,jaylensmith,,,,,,
 13222,Montana Lemonious-Craig,WR,,,Arizona,0.0,2002-07-29,23.0,74,194,,Questionable,Lower Body,,montanalemoniouscraig,,,,,,
-11435,Emanuel Wilson,RB,SEA,27.0,Fort Valley State,3.0,1999-05-08,27.0,70,226,3.0,,,,emanuelwilson,738.0,4590.0,1000853961747877888,1032440738459639808,Tscheibe26,GriffinStiemke
+11435,Emanuel Wilson,RB,SEA,27.0,Fort Valley State,3.0,1999-05-08,27.0,70,226,3.0,,,,emanuelwilson,1872.0,4194.0,1000853961747877888,1032440738459639808,Tscheibe26,GriffinStiemke
 333,Ryan Fitzpatrick,QB,,14.0,Harvard,17.0,1982-11-24,39.0,74,221,,,,161355.0,ryanfitzpatrick,,,,,,
 12746,JP Richardson,WR,CHI,83.0,TCU,1.0,2002-03-23,24.0,71,192,6.0,,,,jprichardson,,,,,,
 12443,Devon Garrison,TE,,,Pittsburg State,1.0,,,77,240,,,,,devongarrison,,,,,,
@@ -2409,7 +2409,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8707,Tayon Fleet-Davis,RB,,0.0,Maryland,1.0,,,72,213,,,,,tayonfleetdavis,,,,,,
 4186,T.J. Logan,RB,,0.0,North Carolina,5.0,1994-09-03,27.0,71,195,,,,728165.0,tjlogan,,,,,,
 14021,Kadarius Calloway,RB,TB,49.0,New Mexico State,0.0,,,72,213,,,,,kadariuscalloway,,,,,,
-4972,Mason Rudolph,QB,PIT,2.0,Oklahoma State,8.0,1995-07-17,31.0,77,235,2.0,,,823220.0,masonrudolph,,,,,,
+4972,Mason Rudolph,QB,PIT,2.0,Oklahoma State,8.0,1995-07-17,31.0,77,235,4.0,,,823220.0,masonrudolph,,,,,,
 12026,Kobe Lewis,RB,,,Florida Atlantic,1.0,2000-06-14,24.0,69,208,,,,,kobelewis,,,,,,
 13153,Giles Jackson,WR,,,Washington,1.0,2001-12-11,24.0,69,187,,,,,gilesjackson,,,,,,
 11105,Shaquan Davis,WR,,82.0,South Carolina State,1.0,2000-02-08,24.0,77,215,,,,,shaquandavis,,,,,,
@@ -2417,7 +2417,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 3078,Jamel Johnson,WR,,0.0,Alabama State,6.0,1991-07-09,30.0,75,220,,,,547082.0,jameljohnson,,,,,,
 312,Matthew Slater,WR,,18.0,UCLA,16.0,1985-09-09,38.0,72,205,,,,234403.0,matthewslater,,,,,,
 7227,Artavis Pierce,RB,,0.0,Oregon State,2.0,1996-05-17,25.0,71,208,,,,,artavispierce,,,,,,
-9227,Israel Abanikanda,RB,DAL,30.0,Pittsburgh,3.0,2002-10-05,23.0,70,217,5.0,,,,israelabanikanda,,,,,,
+9227,Israel Abanikanda,RB,DAL,30.0,Pittsburgh,3.0,2002-10-05,23.0,70,217,6.0,,,,israelabanikanda,,,,,,
 11222,Marcus Cooper,RB,,0.0,Incarnate Word,1.0,,,68,184,,,,,marcuscooper,,,,,,
 13831,Kevorian Barnes,RB,,,TCU,0.0,,,69,220,,,,,kevorianbarnes,,,,,,
 6592,Dontae Strickland,RB,,34.0,Syracuse,3.0,1997-03-22,24.0,71,201,,,,883712.0,dontaestrickland,,,,,,
@@ -2426,7 +2426,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6384,Justin Sumpter,WR,,0.0,Kennesaw State,3.0,1996-05-22,25.0,75,217,,,,874053.0,justinsumpter,,,,,,
 11113,Joel Wilson,TE,TEN,83.0,Central Michigan,3.0,2000-06-21,26.0,76,245,4.0,,,,joelwilson,,,,,,
 12133,Drake Stoops,WR,,6.0,Oklahoma,1.0,1999-06-16,26.0,70,189,,,,,drakestoops,,,,,,
-5970,Greg Dortch,WR,DET,8.0,Wake Forest,7.0,1998-05-29,28.0,67,183,4.0,,,910852.0,gregdortch,,1542.0,,,,
+5970,Greg Dortch,WR,DET,8.0,Wake Forest,7.0,1998-05-29,28.0,67,183,4.0,,,910852.0,gregdortch,,1674.0,,,,
 1652,Terrell Sinkfield,WR,,24.0,Northern Iowa,9.0,1990-12-10,31.0,73,195,3.0,,,516170.0,terrellsinkfield,,,,,,
 2931,Deshon Foxx,WR,,0.0,Connecticut,7.0,1992-11-27,29.0,70,173,,,,604732.0,deshonfoxx,,,,,,
 5273,Kamryn Pettway,RB,,0.0,Auburn,4.0,1995-12-20,26.0,72,235,,,,835180.0,kamrynpettway,,,,,,
@@ -2443,11 +2443,11 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6805,KJ Hamler,WR,,19.0,Penn State,5.0,1999-07-08,26.0,69,178,,,,,kjhamler,,,,,,
 11433,Nate Adkins,TE,DEN,45.0,South Carolina,3.0,1999-07-09,27.0,75,252,4.0,,,,nateadkins,,,,,,
 13930,Jordon Vaughn,RB,,42.0,Abilene Christian,0.0,,,75,235,,,,,jordonvaughn,,,,,,
-9502,Tank Dell,WR,HOU,1.0,Houston,3.0,1999-10-29,26.0,70,165,3.0,Questionable,Knee - ACL + MCL,,tankdell,2032.0,1408.0,731000657544359936,1267223871346454528,KyleWurster,rudyvosters
+9502,Tank Dell,WR,HOU,1.0,Houston,3.0,1999-10-29,26.0,70,165,4.0,Questionable,Knee - ACL + MCL,,tankdell,2024.0,,731000657544359936,1267223871346454528,KyleWurster,rudyvosters
 8199,D'Eriq King,QB,,0.0,Miami (FL),2.0,1997-08-24,25.0,71,200,,,,,deriqking,,,,,,
 13014,Pat Conroy,TE,,,Old Dominion,0.0,,,74,235,,,,,patconroy,,,,,,
 11886,Tulu Griffin,WR,,22.0,Mississippi State,1.0,2001-01-23,24.0,70,181,,,,,tulugriffin,,,,,,
-2307,Marcus Mariota,QB,WAS,8.0,Oregon,11.0,1993-10-30,32.0,76,222,2.0,,,607843.0,marcusmariota,,1580.0,,,,
+2307,Marcus Mariota,QB,WAS,8.0,Oregon,11.0,1993-10-30,32.0,76,222,2.0,,,607843.0,marcusmariota,,1884.0,,,,
 8178,Braylon Sanders,WR,,80.0,Ole Miss,3.0,1999-01-21,26.0,73,190,,,,,braylonsanders,,,,,,
 3969,Leonard Fournette,RB,,5.0,LSU,7.0,1995-01-18,28.0,72,228,,,,822013.0,leonardfournette,,,,,,
 11056,Jared Wayne,WR,HOU,89.0,Pittsburgh,3.0,2000-10-07,25.0,75,210,,,,,jaredwayne,,,,,,
@@ -2457,7 +2457,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 5612,Anthony Mahoungou,WR,,6.0,Purdue,4.0,1994-02-12,27.0,75,210,,,,867014.0,anthonymahoungou,,,,,,
 12340,Alex Larson,TE,,,St. John’s,1.0,,,79,240,,,,,alexlarson,,,,,,
 11378,Jordan Mims,RB,,49.0,Fresno State,3.0,1999-06-16,26.0,72,205,,,,,jordanmims,,,,,,
-6149,Darius Slayton,WR,NYG,18.0,Auburn,7.0,1997-01-12,29.0,73,198,2.0,Questionable,Abdomen,880557.0,dariusslayton,690.0,2196.0,731174840580571136,,Mattwyn,
+6149,Darius Slayton,WR,NYG,18.0,Auburn,7.0,1997-01-12,29.0,73,198,2.0,Questionable,Abdomen,880557.0,dariusslayton,1044.0,2454.0,731174840580571136,,Mattwyn,
 3515,K.J. Maye,WR,,19.0,Minnesota,6.0,1994-02-25,27.0,70,194,,,,651628.0,kjmaye,,,,,,
 8214,Cole Turner,TE,MIA,87.0,Nevada,4.0,2000-03-16,26.0,78,240,5.0,,,,coleturner,,,,,,
 13145,ShunDerrick Powell,RB,,34.0,Central Arkansas,1.0,2002-05-16,23.0,67,183,,,,,shunderrickpowell,,,,,,
@@ -2465,12 +2465,12 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4815,Brian Riley,WR,,14.0,San Diego,5.0,1995-08-22,26.0,75,200,,,,752801.0,brianriley,,,,,,
 4149,Jamaal Williams,RB,,21.0,BYU,8.0,1995-04-03,29.0,72,224,,,,695311.0,jamaalwilliams,,,,,,
 2214,Cameron Brate,TE,,84.0,Harvard,9.0,1991-07-03,31.0,77,245,,,,552926.0,cameronbrate,,,,,,
-4017,Deshaun Watson,QB,CLE,4.0,Clemson,9.0,1995-09-14,30.0,75,223,2.0,,,828743.0,deshaunwatson,2440.0,,,1127441193396285440,,LilmanJay67
+4017,Deshaun Watson,QB,CLE,4.0,Clemson,9.0,1995-09-14,30.0,75,223,2.0,,,828743.0,deshaunwatson,2552.0,,,1127441193396285440,,LilmanJay67
 4464,Nick Mullens,QB,JAX,14.0,Southern Miss,9.0,1995-03-21,31.0,72,210,2.0,,,748309.0,nickmullens,,,,,,
 13011,Brennan Presley,WR,LAR,81.0,Oklahoma State,1.0,2002-02-02,24.0,68,174,,,,,brennanpresley,,,,,,
 5310,Antonio Callaway,WR,,80.0,Florida,5.0,1997-01-09,26.0,71,200,,,,879022.0,antoniocallaway,,,,,,
 2044,Brelan Chancellor,WR,,0.0,North Texas,12.0,1992-08-06,33.0,68,183,,,,559327.0,brelanchancellor,,,,,,
-13329,Malik Benson,WR,LV,19.0,Oregon,0.0,2002-10-17,23.0,73,195,7.0,,,,malikbenson,1680.0,,,,,
+13329,Malik Benson,WR,LV,19.0,Oregon,0.0,2002-10-17,23.0,73,195,5.0,,,,malikbenson,5214.0,,,,,
 8139,Zamir White,RB,,3.0,Georgia,4.0,1999-09-18,26.0,71,227,,,,,zamirwhite,,,,,,
 11588,Jawhar Jordan,RB,HOU,25.0,Louisville,2.0,1999-08-18,26.0,70,185,3.0,,,,jawharjordan,,,,,,
 7098,Ty'Son Williams,RB,,22.0,BYU,3.0,1996-09-04,26.0,72,220,,,,,tysonwilliams,,,,,,
@@ -2478,10 +2478,10 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7809,Avery Williams,RB,,39.0,Boise State,4.0,1998-07-15,27.0,69,195,,,,,averywilliams,,,,,,
 13630,Evan Svoboda,TE,LAC,49.0,Wyoming,0.0,2003-03-31,23.0,77,251,,,,,evansvoboda,,,,,,
 13778,EJ Smith,RB,KC,35.0,Texas A&M,0.0,2002-05-15,24.0,71,211,,,,,ejsmith,,,,,,
-12510,Jalen Milroe,QB,SEA,6.0,Alabama,1.0,2002-12-13,23.0,74,216,2.0,,,,jalenmilroe,,1788.0,,862077560916389888,,milly69
+12510,Jalen Milroe,QB,SEA,6.0,Alabama,1.0,2002-12-13,23.0,74,216,3.0,,,,jalenmilroe,,1572.0,,862077560916389888,,milly69
 13772,Eni Falayi,TE,,,Wake Forest,0.0,,,76,240,,,,,enifalayi,,,,,,
 8579,Brandon Peters,QB,,0.0,Illinois,1.0,1997-10-15,25.0,76,228,,,,,brandonpeters,,,,,,
-2505,Darren Waller,TE,,83.0,Georgia Tech,11.0,1992-09-13,33.0,78,238,,Questionable,Groin,600191.0,darrenwaller,954.0,6966.0,731172076769128448,,TuckBrock,
+2505,Darren Waller,TE,,83.0,Georgia Tech,11.0,1992-09-13,33.0,78,238,,Questionable,Groin,600191.0,darrenwaller,1233.0,8730.0,731172076769128448,,TuckBrock,
 2422,Blake Bell,TE,,81.0,Oklahoma,9.0,1991-08-07,32.0,78,252,,,,542871.0,blakebell,,,,,,
 11963,Chris Collier,RB,LV,33.0,Lock Haven,2.0,2000-03-24,26.0,70,203,5.0,,,,chriscollier,,,,,,
 1426,DeAndre Hopkins,WR,,10.0,Clemson,13.0,1992-06-06,33.0,73,210,,,,560241.0,deandrehopkins,,,,,,
@@ -2496,20 +2496,20 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4807,Mike Estes,TE,,49.0,Gardner-Webb,5.0,,,76,230,,,,700921.0,mikeestes,,,,,,
 6451,Stephen Carlson,TE,CHI,88.0,Princeton,7.0,1996-12-12,29.0,76,248,3.0,,,881697.0,stephencarlson,,,,,,
 8210,Chig Okonkwo,TE,WAS,85.0,Maryland,4.0,1999-09-08,26.0,75,238,1.0,,,,chigokonkwo,,,730904582686912512,730904582686912512,rlonigro,rlonigro
-6151,Miles Sanders,RB,,24.0,Penn State,7.0,1997-05-01,28.0,71,211,,Questionable,Knee,924261.0,milessanders,,2187.0,731184036722118656,,JScott51,
-12670,KeAndre Lambert-Smith,WR,LAC,84.0,Auburn,1.0,2001-10-16,24.0,73,182,4.0,,,,keandrelambertsmith,,3141.0,730904582686912512,,rlonigro,
+6151,Miles Sanders,RB,,24.0,Penn State,7.0,1997-05-01,28.0,71,211,,Questionable,Knee,924261.0,milessanders,,2646.0,731184036722118656,,JScott51,
+12670,KeAndre Lambert-Smith,WR,LAC,84.0,Auburn,1.0,2001-10-16,24.0,73,182,5.0,,,,keandrelambertsmith,,3069.0,730904582686912512,,rlonigro,
 4750,Lance Lenoir,WR,,34.0,Western Illinois,6.0,1995-02-09,28.0,72,201,,,,748115.0,lancelenoir,,,,,,
 11431,Isaiah Bowser,RB,,26.0,UCF,1.0,1999-07-14,23.0,73,220,,,,,isaiahbowser,,,,,,
 5236,Kyle Lewis,WR,,1.0,Cal Poly,4.0,1995-04-22,26.0,72,207,,,,787213.0,kylelewis,,,,,,
 7943,Zach Davidson,TE,,39.0,Central Missouri,5.0,1998-07-15,27.0,79,245,,,,,zachdavidson,,,,,,
-13306,Taylen Green,QB,CLE,15.0,Arkansas,0.0,2002-10-18,23.0,78,230,3.0,,,,taylengreen,4056.0,,,,,
-13034,Tyrone Broden,WR,SEA,31.0,Arkansas,1.0,2001-02-26,25.0,77,194,4.0,PUP,Undisclosed,,tyronebroden,,,,,,
+13306,Taylen Green,QB,CLE,15.0,Arkansas,0.0,2002-10-18,23.0,78,230,3.0,,,,taylengreen,3984.0,,,,,
+13034,Tyrone Broden,WR,SEA,31.0,Arkansas,1.0,2001-02-26,25.0,77,194,,PUP,Undisclosed,,tyronebroden,,,,,,
 4996,Kyle Lauletta,QB,,0.0,Richmond,4.0,1995-03-17,26.0,75,222,,,,751855.0,kylelauletta,,,,,,
-11256,Tyson Bagent,QB,CHI,17.0,Shepherd (WV),3.0,2000-06-08,26.0,75,212,2.0,,,,tysonbagent,,,,862077560916389888,,milly69
+11256,Tyson Bagent,QB,CHI,17.0,Shepherd (WV),3.0,2000-06-08,26.0,75,212,2.0,,,,tysonbagent,1320.0,,,862077560916389888,,milly69
 13770,J. Michael Sturdivant,WR,GB,87.0,Florida,0.0,2002-09-06,23.0,75,207,,,,,jmichaelsturdivant,,,,,,
 6148,Preston Williams,WR,,16.0,Colorado State,4.0,1997-03-27,26.0,77,215,,,,877244.0,prestonwilliams,,,,,,
 3584,Marcus Leak,WR,,85.0,Maryland,6.0,1992-11-19,29.0,72,210,,,,605445.0,marcusleak,,,,,,
-5086,Marquez Valdes-Scantling,WR,DAL,11.0,South Florida,8.0,1994-10-10,31.0,76,206,5.0,,,742382.0,marquezvaldesscantling,,,,,,
+5086,Marquez Valdes-Scantling,WR,DAL,11.0,South Florida,8.0,1994-10-10,31.0,76,206,6.0,,,742382.0,marquezvaldesscantling,,,,,,
 11568,Blake Watson,RB,,32.0,Memphis,2.0,1999-10-14,26.0,69,195,,Questionable,Undisclosed,,blakewatson,,,,,,
 13702,Malik Rutherford,WR,,,,0.0,,,69,170,,,,,malikrutherford,,,,,,
 12851,Rivaldo Fairweather,TE,ARI,45.0,Auburn,1.0,2002-07-19,24.0,75,249,7.0,,,,rivaldofairweather,,,,,,
@@ -2521,11 +2521,11 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6311,Patrick Laird,RB,,25.0,California,5.0,1995-08-17,28.0,73,205,,,,835694.0,patricklaird,,,,,,
 2947,Clay Burton,TE,,0.0,Florida,10.0,1992-10-22,32.0,76,253,,,,592536.0,clayburton,,,,,,
 3391,Dwayne Washington,RB,,39.0,Washington,8.0,1994-04-24,30.0,73,223,,,,714230.0,dwaynewashington,,,,,,
-13317,Ted Hurst,WR,TB,17.0,Georgia State,0.0,2004-07-02,22.0,75,195,4.0,,,,tedhurst,,,,990858054952411136,,parkergullixon
+13317,Ted Hurst,WR,TB,17.0,Georgia State,0.0,2004-07-02,22.0,75,195,4.0,,,,tedhurst,786.0,,,990858054952411136,,parkergullixon
 8891,Ryan McDaniel,WR,,0.0,North Carolina Central,1.0,,,74,215,,,,,ryanmcdaniel,,,,,,
 7404,Noah Togiai,TE,,83.0,Oregon State,4.0,1997-07-06,26.0,76,244,,,,,noahtogiai,,,,,,
 12135,Neal Johnson,TE,,86.0,Louisiana,1.0,2001-08-03,24.0,76,250,,,,,nealjohnson,,,,,,
-13435,Joe Royer,TE,CLE,18.0,Cincinnati,0.0,2002-02-25,24.0,77,250,3.0,,,,joeroyer,1764.0,,,,,
+13435,Joe Royer,TE,CLE,18.0,Cincinnati,0.0,2002-02-25,24.0,77,250,2.0,,,,joeroyer,2448.0,,,,,
 4150,Wayne Gallman,RB,,29.0,Clemson,6.0,1994-10-01,28.0,72,210,,,,733744.0,waynegallman,,,,,,
 8085,Mekhi Sargent,RB,,36.0,Iowa,2.0,1997-10-08,25.0,68,208,,,,,mekhisargent,,,,,,
 2996,Logan Stokes,TE,,0.0,LSU,10.0,1992-12-04,32.0,75,251,,,,727739.0,loganstokes,,,,,,
@@ -2540,7 +2540,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 8436,Neil Pau'u,WR,,0.0,BYU,1.0,1995-09-11,27.0,76,215,,,,,neilpauu,,,,,,
 5850,Josh Jacobs,RB,GB,8.0,Alabama,7.0,1998-02-11,28.0,70,223,1.0,,,944416.0,joshjacobs,,,1000853961747877888,1267949452228820992,Tscheibe26,carsonclausen12
 5804,Julian Williams,WR,,16.0,Florida International,4.0,,,71,195,,,,886261.0,julianwilliams,,,,,,
-9753,Zach Charbonnet,RB,SEA,26.0,UCLA,3.0,2001-01-08,25.0,73,220,2.0,Questionable,Knee - ACL,,zachcharbonnet,,,730904582686912512,1267949452228820992,rlonigro,carsonclausen12
+9753,Zach Charbonnet,RB,SEA,26.0,UCLA,3.0,2001-01-08,25.0,73,220,2.0,PUP,Knee - ACL,,zachcharbonnet,,,730904582686912512,1267949452228820992,rlonigro,carsonclausen12
 2838,Trevor Harman,WR,,0.0,Shippensburg,10.0,1991-10-22,33.0,75,205,,,,870341.0,trevorharman,,,,,,
 12267,Qadir Ismail,WR,CHI,80.0,Samford,2.0,2000-02-17,26.0,78,245,,,,,qadirismail,,,,,,
 2502,Bud Sasser,WR,,81.0,Missouri,11.0,,,74,210,,,,553241.0,budsasser,,,,,,
@@ -2565,16 +2565,16 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 4623,Tim Cook,RB,,41.0,Oregon State,5.0,1994-04-19,27.0,72,242,,,,884978.0,timcook,,,,,,
 13491,Kaden Wetjen,WR,PIT,10.0,Iowa,0.0,2002-03-09,24.0,69,193,6.0,,,,kadenwetjen,,,,,,
 7157,Josh Love,QB,,0.0,San Jose State,2.0,1996-09-12,25.0,74,200,,,,,joshlove,,,,,,
-13289,Drew Allar,QB,PIT,16.0,Penn State,0.0,2004-03-08,22.0,77,228,4.0,,,,drewallar,1404.0,,,,,
+13289,Drew Allar,QB,PIT,16.0,Penn State,0.0,2004-03-08,22.0,77,228,3.0,,,,drewallar,1584.0,,,,,
 7082,Dalton Keene,TE,,49.0,Virginia Tech,5.0,1999-04-14,26.0,76,251,,,,,daltonkeene,,,,,,
 11604,Brock Bowers,TE,LV,89.0,Georgia,2.0,2002-12-13,23.0,76,235,1.0,,,,brockbowers,,,1000853961747877888,1032440738459639808,Tscheibe26,GriffinStiemke
 12826,Ulysses Bentley,RB,IND,37.0,Ole Miss,1.0,2000-12-30,25.0,70,200,,,,,ulyssesbentley,,,,,,
 11566,Jayden Daniels,QB,WAS,5.0,LSU,2.0,2000-12-18,25.0,76,210,1.0,,,,jaydendaniels,,,731003760045875200,1265863097675956224,nolan22snyder,JacksonTaft
 4319,Zach Pascal,WR,,83.0,Old Dominion,8.0,1994-12-18,30.0,74,219,,,,658447.0,zachpascal,,,,,,
-6588,Tom Kennedy,WR,DET,85.0,Bryant,7.0,1996-07-29,29.0,70,195,6.0,,,837087.0,tomkennedy,,,,,,
+6588,Tom Kennedy,WR,DET,85.0,Bryant,7.0,1996-07-29,29.0,70,195,5.0,,,837087.0,tomkennedy,,,,,,
 13338,Kevin Coleman,WR,MIA,83.0,Missouri,0.0,2003-09-10,22.0,70,180,7.0,,,,kevincoleman,,,,1265863097675956224,,JacksonTaft
 13251,Gunnar Oakes,TE,,41.0,Eastern Michigan,2.0,1999-05-11,26.0,76,252,,,,,gunnaroakes,,,,,,
-13322,Sam Roush,TE,CHI,87.0,Stanford,0.0,2003-09-06,22.0,77,267,3.0,,,,samroush,966.0,,,,,
+13322,Sam Roush,TE,CHI,87.0,Stanford,0.0,2003-09-06,22.0,77,267,3.0,,,,samroush,1834.0,,,,,
 2569,Jake Waters,QB,,0.0,Kansas State,10.0,1992-03-20,32.0,73,210,,,,733653.0,jakewaters,,,,,,
 2920,Jeret Smith,WR,,0.0,McMurry,10.0,1993-02-05,32.0,72,215,,,,613046.0,jeretsmith,,,,,,
 1916,Martavis Bryant,WR,,88.0,Clemson,10.0,1991-12-20,32.0,76,211,,,,602091.0,martavisbryant,,,,,,
@@ -2617,15 +2617,15 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 12797,Ahmani Marshall,RB,CLE,23.0,Appalachian State,1.0,2002-03-21,24.0,73,225,,,,,ahmanimarshall,,,,,,
 13750,TJ Harden,RB,CLE,36.0,SMU,0.0,2004-04-23,22.0,72,218,,,,,tjharden,,,,,,
 5374,Justin Watson,WR,HOU,84.0,Pennsylvania,8.0,1996-04-04,30.0,74,215,6.0,,,832220.0,justinwatson,,,,,,
-11619,Ja'Lynn Polk,WR,NO,13.0,Washington,2.0,2002-04-11,24.0,73,203,11.0,,,,jalynnpolk,,2853.0,,,,
+11619,Ja'Lynn Polk,WR,NO,13.0,Washington,2.0,2002-04-11,24.0,73,203,10.0,,,,jalynnpolk,,3231.0,,,,
 11982,Isaiah Washington,WR,,,Rutgers,1.0,2001-05-04,23.0,74,214,,,,,isaiahwashington,,,,,,
 9756,Jordan Addison,WR,MIN,3.0,USC,3.0,2002-01-27,24.0,71,179,2.0,,,,jordanaddison,,,731004224116207616,1265863097675956224,p0ppy,JacksonTaft
 7574,Larry Rountree,RB,,30.0,Missouri,2.0,1999-02-13,24.0,70,210,,,,,larryrountree,,,,,,
-4033,David Njoku,TE,LAC,83.0,Miami (FL),9.0,1996-07-10,30.0,76,246,2.0,,,832098.0,davidnjoku,,1960.0,1001981921347375104,1357227930467434496,VanGrizzly,OwenBowers
+4033,David Njoku,TE,LAC,83.0,Miami (FL),9.0,1996-07-10,30.0,76,246,2.0,,,832098.0,davidnjoku,,1784.0,1001981921347375104,1357227930467434496,VanGrizzly,OwenBowers
 13621,Dillon Bell,WR,MIN,89.0,Georgia,0.0,2003-11-06,22.0,72,209,,,,,dillonbell,,,,,,
 4152,Marlon Mack,RB,,32.0,South Florida,7.0,1996-03-07,28.0,71,210,,,,840760.0,marlonmack,,,,,,
 12799,Bryson Green,WR,ARI,39.0,Wisconsin,1.0,2002-12-30,23.0,73,210,,,,,brysongreen,,,,,,
-13324,Matt Hibner,TE,BAL,88.0,SMU,0.0,2002-03-09,24.0,76,251,3.0,,,,matthibner,3752.0,,,862077560916389888,,milly69
+13324,Matt Hibner,TE,BAL,88.0,SMU,0.0,2002-03-09,24.0,76,251,4.0,,,,matthibner,6174.0,,,862077560916389888,,milly69
 3497,Darion Griswold,TE,,83.0,Arkansas State,6.0,1992-12-23,29.0,77,255,,,,608346.0,dariongriswold,,,,,,
 4595,Dontez Ford,WR,,83.0,Pittsburgh,5.0,1994-02-03,27.0,74,210,,,,692191.0,dontezford,,,,,,
 4670,Artavis Scott,WR,,0.0,Clemson,5.0,1994-10-12,27.0,71,195,,,,828766.0,artavisscott,,,,,,
@@ -2638,9 +2638,9 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 7464,Connor Slomka,RB,,0.0,Army,2.0,1997-05-30,24.0,72,240,,,,,connorslomka,,,,,,
 2582,Cole Stoudt,QB,,16.0,Clemson,11.0,1992-10-23,33.0,76,220,,,,593527.0,colestoudt,,,,,,
 7549,CJ Marable,RB,,37.0,Coastal Carolina,2.0,1997-02-02,26.0,70,200,,,,,cjmarable,,,,,,
-5849,Kyler Murray,QB,MIN,1.0,Oklahoma,7.0,1997-08-07,28.0,70,207,1.0,,,879799.0,kylermurray,848.0,,731174840580571136,585284262555594752,Mattwyn,AlexVanOoyen
+5849,Kyler Murray,QB,MIN,1.0,Oklahoma,7.0,1997-08-07,28.0,70,207,1.0,,,879799.0,kylermurray,,,731174840580571136,585284262555594752,Mattwyn,AlexVanOoyen
 13783,Raylen Sharpe,WR,IND,8.0,Arkansas,0.0,,,69,169,,,,,raylensharpe,,,,,,
-5409,Tanner Hudson,TE,CIN,87.0,Southern Arkansas,8.0,1994-11-12,31.0,77,241,4.0,,,1115394.0,tannerhudson,,,,,,
+5409,Tanner Hudson,TE,CIN,87.0,Southern Arkansas,8.0,1994-11-12,31.0,77,241,2.0,,,1115394.0,tannerhudson,,,,,,
 13663,Wesley Grimes,WR,SF,18.0,NC State,0.0,2004-03-09,22.0,74,193,,,,,wesleygrimes,,,,,,
 12361,Aeneas Dennis,QB,,,Benedict,1.0,,,73,200,,,,,aeneasdennis,,,,,,
 12889,Beaux Collins,WR,NYG,81.0,Notre Dame,1.0,2002-12-16,23.0,75,206,14.0,Questionable,Concussion,,beauxcollins,,,,,,
@@ -2649,7 +2649,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 587,Logan Paulsen,TE,,0.0,UCLA,12.0,1987-02-26,34.0,77,268,,,,300115.0,loganpaulsen,,,,,,
 7985,Pro Wells,TE,,88.0,TCU,1.0,,,76,250,,,,,prowells,,,,,,
 6960,Tyler Johnson,WR,DAL,15.0,Minnesota,6.0,1998-08-25,27.0,73,208,7.0,,,,tylerjohnson,,,,,,
-11068,Mitch Tinsley,WR,CIN,82.0,Penn State,3.0,1999-09-15,26.0,73,205,5.0,,,,mitchtinsley,,,,,,
+11068,Mitch Tinsley,WR,CIN,82.0,Penn State,3.0,1999-09-15,26.0,73,205,4.0,,,,mitchtinsley,,,,,,
 1215,Jarius Wright,WR,,13.0,Arkansas,10.0,1989-11-25,32.0,70,191,,,,465652.0,jariuswright,,,,,,
 6819,Michael Pittman,WR,PIT,11.0,USC,6.0,1997-10-05,28.0,76,223,2.0,,,,michaelpittman,,,730904582686912512,862077560916389888,rlonigro,milly69
 11575,Ray Davis,RB,BUF,7.0,Kentucky,2.0,1999-11-11,26.0,68,211,3.0,,,,raydavis,,,,731000657544359936,,KyleWurster
@@ -2660,7 +2660,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 13981,Kolbe Katsis,WR,DEN,81.0,Northern Arizona,0.0,2001-12-28,24.0,73,185,,,,,kolbekatsis,,,,,,
 6549,Damion Willis,WR,,0.0,Troy,3.0,1997-06-20,24.0,75,204,,,,978040.0,damionwillis,,,,,,
 3895,Marvin Hall,WR,,14.0,Washington,6.0,1993-04-10,29.0,70,190,,,,607435.0,marvinhall,,,,,,
-11640,Jermaine Burton,WR,,81.0,Alabama,1.0,2001-06-28,24.0,72,204,,,,,jermaineburton,,1648.0,,,,
+11640,Jermaine Burton,WR,,81.0,Alabama,1.0,2001-06-28,24.0,72,204,,,,,jermaineburton,,1728.0,,,,
 13541,Lewis Bond,WR,HOU,82.0,Boston College,0.0,2003-05-29,23.0,71,190,7.0,,,,lewisbond,,,,,,
 11284,Cody Chrest,WR,,9.0,Sam Houston State,1.0,,,73,199,,,,,codychrest,,,,,,
 13913,Patrick Gurd,TE,LV,45.0,Cincinnati,0.0,,,76,250,,,,,patrickgurd,,,,,,
@@ -2697,7 +2697,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 6139,Jace Sternberger,TE,,83.0,Texas A&M,4.0,1996-06-26,27.0,76,251,,,,877598.0,jacesternberger,,,,,,
 3630,Durron Neal,WR,,0.0,Oklahoma,9.0,1993-11-03,31.0,71,199,,,,691274.0,durronneal,,,,,,
 12762,Payton Thorne,QB,,,Auburn,1.0,2001-06-26,24.0,74,207,,,,,paytonthorne,,,,,,
-13333,Deion Burks,WR,IND,80.0,Oklahoma,0.0,2003-01-08,23.0,69,180,4.0,,,,deionburks,,,,,,
+13333,Deion Burks,WR,IND,80.0,Oklahoma,0.0,2003-01-08,23.0,69,180,5.0,,,,deionburks,,,,,,
 13949,Damon Bankston,RB,NYG,37.0,New Mexico,0.0,2003-04-25,23.0,70,186,,,,,damonbankston,,,,,,
 2730,Kenneth Harper,RB,,33.0,Temple,10.0,1993-01-30,32.0,70,223,,,,608368.0,kennethharper,,,,,,
 2962,Zach D'Orazio,WR,,0.0,Akron,10.0,1991-05-28,33.0,74,212,,,,602932.0,zachdorazio,,,,,,
@@ -2707,7 +2707,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 13125,Micah Bernard,RB,,,Utah,1.0,2001-10-22,24.0,70,206,,,,,micahbernard,,,,,,
 4647,Colin Thompson,TE,,48.0,Temple,6.0,1993-12-15,29.0,76,257,,,,694629.0,colinthompson,,,,,,
 8166,Dontario Drummond,WR,,19.0,Ole Miss,1.0,1997-08-22,26.0,73,220,,,,,dontariodrummond,,,,,,
-6427,Ashton Dulin,WR,IND,16.0,Malone (OH),7.0,1997-05-15,29.0,74,215,5.0,,,1166036.0,ashtondulin,,,,,,
+6427,Ashton Dulin,WR,IND,16.0,Malone (OH),7.0,1997-05-15,29.0,74,215,3.0,,,1166036.0,ashtondulin,,,,,,
 13005,Anthony Torres,TE,,,Toledo,1.0,1999-10-26,26.0,78,250,,Questionable,Ankle,,anthonytorres,,,,,,
 6806,J.K. Dobbins,RB,DEN,27.0,Ohio State,6.0,1998-12-17,27.0,70,212,1.0,,,,jkdobbins,,,1000639485861785600,1267949452228820992,Joshlahay10,carsonclausen12
 5278,Jarvion Franklin,RB,,40.0,Western Michigan,4.0,1995-12-09,26.0,72,225,,,,821475.0,jarvionfranklin,,,,,,
@@ -2720,7 +2720,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 13312,Josh Kattus,TE,CIN,48.0,Kentucky,0.0,,,76,245,,,,,joshkattus,,,,,,
 8581,Trevon Bradford,WR,,0.0,Oregon State,1.0,,,69,183,,,,,trevonbradford,,,,,,
 4779,Bra'Lon Cherry,WR,,88.0,North Carolina State,5.0,1995-07-24,26.0,71,187,,,,728173.0,braloncherry,,,,,,
-6828,AJ Dillon,RB,CAR,28.0,Boston College,6.0,1998-05-02,28.0,72,247,3.0,,,,ajdillon,,,,,,
+6828,AJ Dillon,RB,CAR,28.0,Boston College,6.0,1998-05-02,28.0,72,247,4.0,,,,ajdillon,,,,,,
 8840,Cole Fotheringham,TE,,49.0,Utah,3.0,1997-10-11,27.0,76,245,,,,,colefotheringham,,,,,,
 5873,Riley Ridley,WR,,0.0,Georgia,3.0,1996-07-21,25.0,73,200,,,,914009.0,rileyridley,,,,,,
 7424,Anthony Jones,RB,,36.0,Florida International,2.0,1997-02-07,24.0,71,215,,,,,anthonyjones,,,,,,
@@ -2733,7 +2733,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 13143,Dymere Miller,WR,,,Rutgers,1.0,,,71,184,,,,,dymeremiller,,,,,,
 6913,Joe Reed,WR,,80.0,Virginia,3.0,1998-01-04,25.0,72,224,,,,,joereed,,,,,,
 12129,Jalon Calhoun,WR,,,Duke,1.0,2000-12-16,24.0,71,194,,,,,jaloncalhoun,,,,,,
-11820,Devin Culp,TE,TB,82.0,Washington,2.0,2000-02-02,26.0,76,237,2.0,,,,devinculp,,,,,,
+11820,Devin Culp,TE,TB,82.0,Washington,2.0,2000-02-02,26.0,76,237,3.0,,,,devinculp,,,,,,
 13743,Joseph Manjack,WR,DEN,86.0,TCU,0.0,2002-11-15,23.0,75,210,,,,,josephmanjack,,,,,,
 7588,Javonte Williams,RB,DAL,33.0,North Carolina,5.0,2000-04-25,26.0,70,222,1.0,,,,javontewilliams,,,731184036722118656,862077560916389888,JScott51,milly69
 5000,Chase Edmonds,RB,,38.0,Fordham,8.0,1996-04-13,29.0,69,205,,,,832900.0,chaseedmonds,,,,,,
@@ -2743,7 +2743,7 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 11115,Terrell Bynum,WR,,34.0,USC,1.0,1998-08-03,26.0,72,188,,,,,terrellbynum,,,,,,
 4998,DaeSean Hamilton,WR,,87.0,Penn State,4.0,1995-03-10,27.0,73,206,,,,748755.0,daeseanhamilton,,,,,,
 11599,Cade Stover,TE,HOU,8.0,Ohio State,2.0,2000-06-12,26.0,76,251,4.0,,,,cadestover,,,,,,
-8188,Tyquan Thornton,WR,KC,2.0,Baylor,4.0,2000-08-07,25.0,74,185,3.0,,,,tyquanthornton,658.0,1281.0,,,,
+8188,Tyquan Thornton,WR,KC,2.0,Baylor,4.0,2000-08-07,25.0,74,185,3.0,,,,tyquanthornton,1659.0,1456.0,,,,
 5241,Christian Blake,WR,,39.0,Northern Illinois,4.0,1996-06-08,26.0,73,182,,,,837503.0,christianblake,,,,,,
 2602,Darius Jennings,WR,,86.0,Virginia,7.0,1992-06-28,29.0,70,180,,,,605784.0,dariusjennings,,,,,,
 4936,Skyler Howard,QB,SEA,0.0,West Virginia,1.0,1994-11-06,23.0,"5'11""",209,,,,823069.0,skylerhoward,,,,,,
@@ -2752,14 +2752,14 @@ player_id,full_name,position,team,number,college,years_exp,birth_date,age,height
 2334,Phillip Dorsett,WR,LV,13.0,Miami (FL),11.0,1993-01-05,33.0,70,185,6.0,,,596417.0,phillipdorsett,,,,,,
 12189,Xavier White,WR,,,Texas Tech,1.0,1999-12-05,25.0,70,190,,,,,xavierwhite,,,,,,
 11192,Malik Flowers,WR,,19.0,Montana,1.0,1999-06-23,24.0,75,195,,,,,malikflowers,,,,,,
-6865,Colby Parkinson,TE,LAR,84.0,Stanford,6.0,1999-01-08,27.0,79,266,2.0,,,,colbyparkinson,678.0,2496.0,731003760045875200,1127441193396285440,nolan22snyder,LilmanJay67
+6865,Colby Parkinson,TE,LAR,84.0,Stanford,6.0,1999-01-08,27.0,79,266,2.0,,,,colbyparkinson,948.0,2850.0,731003760045875200,1127441193396285440,nolan22snyder,LilmanJay67
 3957,Blake Sims,QB,,25.0,Alabama,5.0,1992-01-03,30.0,72,208,,,,557175.0,blakesims,,,,,,
 13294,Makai Lemon,WR,PHI,9.0,USC,0.0,2004-06-02,22.0,71,192,2.0,,,,makailemon,,,,1357227930467434496,,OwenBowers
 8876,Kevin Kassis,WR,,0.0,Montana State,2.0,1997-09-19,25.0,72,197,,,,,kevinkassis,,,,,,
-12515,Donovan Edwards,RB,MIA,36.0,Michigan,1.0,2003-02-25,23.0,73,212,5.0,,,,donovanedwards,,,,,,
+12515,Donovan Edwards,RB,MIA,36.0,Michigan,1.0,2003-02-25,23.0,73,212,4.0,,,,donovanedwards,,,,,,
 6233,Matt Sokol,TE,,87.0,Michigan State,7.0,1995-11-09,30.0,77,249,,,,824177.0,mattsokol,,,,,,
 11530,Nick Williams,WR,,86.0,UNLV,1.0,,,76,220,,,,,nickwilliams,,,,,,
-10216,Kenny McIntosh,RB,SEA,25.0,Georgia,3.0,2000-03-03,26.0,72,204,6.0,PUP,Knee - ACL,,kennymcintosh,,,,,,
+10216,Kenny McIntosh,RB,SEA,25.0,Georgia,3.0,2000-03-03,26.0,72,204,5.0,PUP,Knee - ACL,,kennymcintosh,,,,,,
 12859,Nate Noel,RB,,,Missouri,1.0,2002-04-04,23.0,69,200,,,,,natenoel,,,,,,
 2910,Tyler Rutenbeck,WR,,0.0,Dubuque,10.0,1991-09-15,33.0,75,184,,,,870442.0,tylerrutenbeck,,,,,,
 6231,John Lovett,QB,,46.0,Princeton,4.0,1996-04-25,27.0,74,236,,,,832213.0,johnlovett,,,,,,

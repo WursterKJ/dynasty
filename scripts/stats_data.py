@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 from datetime import datetime, date, time, timedelta
-from players_data import players_refresh, players_list
+from scripts.players_data import players_refresh, players_list
 
 # run only when necessary/periodically
 # sleeper does not want to be pulled frequently
