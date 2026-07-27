@@ -1,6 +1,6 @@
 import requests
 import pandas as pd
-from datetime import datetime, date, time, timedelta
+from datetime import datetime, date, time
 from scripts.players_data import players_refresh, players_list
 
 # run only when necessary/periodically

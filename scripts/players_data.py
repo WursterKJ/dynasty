@@ -1,5 +1,6 @@
 import requests
 import pandas as pd
+from datetime import datetime, date, time, timedelta
 
 # run only when necessary/periodically
 # sleeper does not want to be pulled frequently
@@ -17,10 +18,11 @@ def players_refresh():
     players_df_raw = pd.DataFrame.from_dict(players_data, orient="index")
     # orient index flips columns and rows using indices as columns
     players_filtered = players_df_raw.query("active == True and status == 'Active' and (position == 'QB' or position == 'RB' or position == 'WR' or position == 'TE')")
-    players_filtered_columns = players_filtered.filter(items = ["player_id", "full_name", "position", "team", "number", "college", "years_exp", "birth_date", "age", "height", "weight", "depth_chart_order", "injury_status", "injury_body_part", "stats_id", "search_full_name"])
+    players_filtered_columns = players_filtered.filter(items = ["player_id", "full_name", "position", "team", "number", "college", "years_exp", "birth_date", "age", "height", "weight", "depth_chart_order", "injury_status", "injury_body_part", "search_full_name"])
     players_df = players_filtered_columns.astype({"player_id": str})
-        # print(players_filtered)
-        # players_filtered_columns.to_csv("data/raw/players.csv", index = False)
+    # must use timestamp.today and to_datetime to keep as series array rather than individual value
+    # need .dt.days to convert date object to integer using time delta functions
+    players_df["age"] = round(((pd.Timestamp.today() - pd.to_datetime(players_df["birth_date"])).dt.days / 365), 1)
     return players_df
 
 # create list of player_ids to use for stats
