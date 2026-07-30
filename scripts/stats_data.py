@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 from datetime import datetime, date, time
 from scripts.players_data import players_refresh, players_list
+from scripts.scoring_data import scoring_refresh
 
 # run only when necessary/periodically
 # sleeper does not want to be pulled frequently
@@ -18,6 +19,9 @@ years = list(range(first_year, current_year+1))
 # import players_df from players refresh
 players_df = players_refresh()
 players_ids = players_list(players_df)
+
+# import scoring settings
+scoring_freedom, scoring_uww = scoring_refresh()
 
 # initialize empty array for appended stats yearly data later on
 stats_df_all = []
@@ -37,4 +41,22 @@ def stats_refresh():
         # append all 6 dataframes in list (append is list function)
         stats_df_all.append(stats_df)
     stats_df = pd.concat(stats_df_all, ignore_index=True)
+
+    # create new columns, calculate by multiplying every stat in scoring system by stat in stats df, iloc says take value first row below column headers
+    stats_df["points_freedom"] = 0
+    stats_df["points_uww"] = 0
+    for stat in scoring_freedom.columns:
+        if stat in stats_df:
+            score = scoring_freedom[stat].iloc[0]
+            if pd.notna(score):
+                stats_df["points_freedom"] += stats_df[stat].fillna(0) * score
+    for stat in scoring_uww.columns:
+        if stat in stats_df:
+            score = scoring_uww[stat].iloc[0]
+            if pd.notna(score):
+                stats_df["points_uww"] += stats_df[stat].fillna(0) * score
+    stats_df["ppg_freedom"] = stats_df["points_freedom"] / stats_df["gp"]
+    stats_df["ppg_uww"] = stats_df["points_uww"] / stats_df["gp"]
+    stats_df[["points_freedom", "points_uww"]] = stats_df[["points_freedom", "points_uww"]].apply(pd.to_numeric).round(1)
+    stats_df[["ppg_freedom", "ppg_uww"]] = stats_df[["ppg_freedom", "ppg_uww"]].apply(pd.to_numeric).round(1)
     return stats_df
