@@ -8,4 +8,4 @@ def load_master():
 
 @st.cache_data
 def load_stats():
-    return pd.read_csv("data/master.csv")
+    return pd.read_csv("data/stats.csv")
