@@ -17,7 +17,7 @@ def data_refresh():
     players_rosters = players_trending.merge(rosters, on="player_id", how="left")
     players_rosters_freedom = players_rosters.merge(users_freedom, on="owner_id_freedom", how="left")
     players_rosters_all = players_rosters_freedom.merge(users_uww, on="owner_id_uww", how="left")
-    master = players_rosters_all.merge(contracts, left_on="search_full_name", right_on="merge_name", how="left")
+    master = players_rosters_all.merge(contracts, left_on="player_id", right_on="sleeper_id", how="left")
 
     stats.to_csv("data/stats.csv", index = False)
     master.to_csv("data/master.csv", index = False)

@@ -34,7 +34,7 @@ def stats_refresh():
         stats_df_raw.index.name = "player_id"
         stats_df_raw = stats_df_raw.reset_index()
         stats_df_filtered = stats_df_raw.filter(items=["player_id", "gp", "pass_att", "pass_cmp", "pass_yd", "pass_td", "pass_int", "pass_sack", "pass_air_yd", "pass_rz_att", "rush_att", "rush_yd", "rush_td", "rush_btkl", "rush_yac", "rush_rz_att", "rush_tkl_loss", "rec", "rec_tgt", "rec_yd", "rec_td", "rec_air_yd", "rec_yar", "rec_drop", "rec_rz_tgt", "fum", "fum_lost", "st_td", "off_snp", "tm_off_snp", "bonus_pass_yd_300", "bonus_pass_yd_400", "bonus_rush_yd_100", "bonus_rush_yd_200", "bonus_rec_yd_100", "bonus_rec_yd_200"])
-        stats_df_filtered = stats_df_filtered.astype({"player_id": str})
+        stats_df_filtered = stats_df_filtered.astype({"player_id": str}).drop_duplicates()
         stats_df_filtered["season"] = year
         # take only player ids of new df where id exists in players_list from other player data pull
         stats_df = stats_df_filtered[stats_df_filtered["player_id"].isin(players_ids)]

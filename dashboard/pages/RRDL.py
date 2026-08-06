@@ -1,6 +1,7 @@
 import pandas as pd
 import streamlit as st
 import plotly.express as px
+import plotly.graph_objects as go
 from datetime import date, time, datetime
 from scripts.data_load import (load_master, load_stats)
 from dashboard.sidebar import sidebar
@@ -33,6 +34,14 @@ user_select_df = master.query("display_name_freedom == @user_select")
 user_select_df = user_select_df.merge(stats, how="left", on="player_id").query("season == @stat_season")
 user_select_df["position"] = user_select_df["position"].astype(position_priority)
 
+team_master = master.groupby(["display_name_freedom"], as_index=False).agg(age=("age", "mean"), depth=("depth_chart_order", "mean") , expire=("year_final", "mean"), apy=("apy", "mean"))
+# individually since different orders (asc/desc)
+team_master["rank_age"] = team_master["age"].rank(method="min", ascending=True)
+team_master["rank_depth"] = team_master["depth"].rank(method="min", ascending=True)
+team_master["rank_expire"] = team_master["expire"].rank(method="min", ascending=False)
+team_master["rank_apy"] = team_master["apy"].rank(method="min", ascending=False)
+team_master_user = team_master.query("display_name_freedom == @user_select")
+
 season_df = master.merge(stats, how="left", on="player_id").query("season == @stat_season")
 season_df["position"] = season_df["position"].astype(position_priority)
 
@@ -42,15 +51,18 @@ team_stats = team_stats.merge(team_pivot, how="left", on="display_name_freedom")
 team_stats[["rank_tot_pts", "rank_tot_per_player", "rank_ppg_player", "rank_ppg_qb", "rank_ppg_rb", "rank_ppg_wr", "rank_ppg_te" ]] = team_stats[["tot_pts", "tot_per_player", "ppg_player", "ppg_qb", "ppg_rb", "ppg_wr", "ppg_te"]].rank(method="min", ascending=False)
 team_stats_user = team_stats.query("display_name_freedom == @user_select")
 
-avg_age = round(user_select_df["age"].mean(), 1)
-avg_apy = round(user_select_df["apy"].mean(), 2)
-avg_depth = round(user_select_df["depth_chart_order"].mean(), 1)
-avg_expire = round(user_select_df["year_final"].mean(), 1)
-
 # take first record of column (always only one row beside headers)
+avg_age = round(team_master_user["age"].iloc[0], 1)
+avg_apy = round(team_master_user["apy"].iloc[0], 2)
+avg_depth = round(team_master_user["depth"].iloc[0], 1)
+avg_expire = round(team_master_user["expire"].iloc[0], 1)
+rank_avg_age = int(team_master_user["rank_age"].iloc[0])
+rank_avg_apy = int(team_master_user["rank_apy"].iloc[0])
+rank_avg_depth = int(team_master_user["rank_depth"].iloc[0])
+rank_avg_expire = int(team_master_user["rank_expire"].iloc[0])
 tot_pts = round(team_stats_user["tot_pts"].iloc[0], 1)
 tot_per_player = round(team_stats_user["tot_per_player"].iloc[0], 1)
-ppg_player = tot_pts = round(team_stats_user["ppg_player"].iloc[0], 1)
+ppg_player = round(team_stats_user["ppg_player"].iloc[0], 1)
 ppg_qb = round(team_stats_user["ppg_qb"].iloc[0], 1)
 ppg_rb = round(team_stats_user["ppg_rb"].iloc[0], 1)
 ppg_wr = round(team_stats_user["ppg_wr"].iloc[0], 1)
@@ -66,21 +78,52 @@ rank_ppg_te = int(team_stats_user["rank_ppg_te"].iloc[0])
 count_pos = user_select_df.value_counts("position").reset_index().sort_values("position")
 count_pos_bar = px.bar(count_pos, x="position", y="count", color_discrete_sequence=[primary])
 
-roster_table = user_select_df.sort_values("position").filter(items=["position", "full_name", "team", "age", "years_exp", "depth_chart_order","year_final", "apy", "draft_year", "draft_round", "draft_overall"]).rename(columns={"position":"Position", "full_name":"Player", "team":"Team", "age":"Age", "years_exp":"Year", "depth_chart_order":"Depth", "year_final":"Thru", "apy":"APY", "draft_year":"Draft", "draft_round":"Round", "draft_overall":"Overall"})
+master_radar = go.Figure()
+# last value repeated to close the shape
+master_radar.add_trace(go.Scatterpolar(r=[rank_avg_age, rank_avg_depth, rank_avg_expire, rank_avg_apy, rank_avg_age], theta=["Age", "Depth", "Expiring", "APY", "Age"], fill="toself", fillcolor=primary, mode="lines"))
+master_radar.update_layout(polar=dict(
+        bgcolor="rgba(0,0,0,0)",        # transparent inside the circle
+        radialaxis=dict(
+            visible=True,
+            range=[10, 1],
+            tick0=10,
+            dtick=3,
+            showticklabels=False,
+            linecolor="rgba(0,0,0,0)",
+            gridcolor="rgba(128,128,128,0.3)"
+        ),
+        angularaxis=dict(
+            gridcolor="rgba(128,128,128,0.3)",
+            linecolor="rgba(0,0,0,0)",  # remove the outer circle border
+            showline=False
+        )
+    )
+)
+
+roster_table = user_select_df.sort_values(by=["position", "apy"], ascending=[True, False]).filter(items=["position", "full_name", "team", "age", "years_exp", "depth_chart_order","year_final", "apy", "draft_year", "draft_round", "draft_overall"]).rename(columns={"position":"Position", "full_name":"Player", "team":"Team", "age":"Age", "years_exp":"Year", "depth_chart_order":"Depth", "year_final":"Thru", "apy":"APY", "draft_year":"Draft", "draft_round":"Round", "draft_overall":"Overall"})
 # lambda allows assigning variables within set, applies to all values in list/set as x, checks if any APY values null/na, if so return 0
 roster_table["APY"] = roster_table["APY"].apply(lambda x: f"${x:,.2f}" if pd.notna(x) else 0)
-stat_table = user_select_df.sort_values("position").filter(items=["position", "full_name", "team", "gp", "points_freedom", "ppg_freedom"]).rename(columns={"position":"Position", "full_name":"Player", "team":"Team", "gp":"Games", "points_freedom":"Points", "ppg_freedom":"PPG"})
+stat_table = user_select_df.sort_values(by=["position", "ppg_freedom"], ascending=[True, False]).filter(items=["position", "full_name", "team", "gp", "points_freedom", "ppg_freedom"]).rename(columns={"position":"Position", "full_name":"Player", "team":"Team", "gp":"Games", "points_freedom":"Points", "ppg_freedom":"PPG"})
 
 st.title("The Really Real Dynasty League")
 if focus_select == "Roster":
     st.header(user_select)
     st.subheader(focus_select)
-    st.metric("Age:", avg_age)
-    st.metric("Depth Chart:", avg_depth)
-    st.metric("Expiring:", avg_expire)
+    col1, col2, col3, col4 = st.columns(4)
+    with col1:
+        st.metric("Age:", avg_age, rank_avg_age, "off")
+    with col2:
+        st.metric("Depth Chart:", avg_depth, rank_avg_depth, "off")
+    with col3:
+        st.metric("Expiring:", avg_expire, rank_avg_expire, "off")
     # format is saying use currency with commas and 2 decimal places after 
-    st.metric("APY:", f"${avg_apy:,.2f}")
-    st.plotly_chart(count_pos_bar)
+    with col4:
+        st.metric("APY:", f"${avg_apy:,.2f}", rank_avg_apy, "off")
+    chart_col1, chart_col2 = st.columns(2)
+    with chart_col1:
+        st.plotly_chart(count_pos_bar)       
+    with chart_col2:
+        st.plotly_chart(master_radar)
     st.dataframe(roster_table, hide_index=True)
 else:
     st.header(user_select)
@@ -89,7 +132,7 @@ else:
     with topcol1:
         st.metric("Points:", tot_pts, rank_tot_pts, "off")
     with topcol2:
-        st.metric("Points per:", tot_per_player, rank_tot_per_player, "off")
+        st.metric("PPP:", tot_per_player, rank_tot_per_player, delta_color="off")
     with topcol3:
         st.metric("PPG:", ppg_player, rank_ppg_player, "off")
     midcol1, midcol2, midcol3, midcol4 = st.columns(4)
