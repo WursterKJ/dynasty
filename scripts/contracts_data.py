@@ -32,5 +32,6 @@ def contracts_refresh():
     contracts_data = player_search.merge(contracts_data, on="merge_name", how="left").query("is_active == True").filter(items=["merge_name", "sleeper_id", "year_signed", "years", "apy", "draft_year", "draft_round", "draft_overall"])
     contracts_data["year_final"] = contracts_data["year_signed"].astype("Int64") + contracts_data["years"] - 1
     contracts_data["years_remaining"] = contracts_data["year_final"] - datetime.now().year
+    # need to fill undrafted players with zeroes instead of nulls for averages?
 
     return contracts_data

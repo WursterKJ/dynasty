@@ -26,6 +26,10 @@ scoring_freedom, scoring_uww = scoring_refresh()
 # initialize empty array for appended stats yearly data later on
 stats_df_all = []
 
+# create starter benchmarks for position ranks
+starter_checks_freedom = {'QB': 10, 'RB': 35, 'WR': 35, 'TE': 15}
+starter_checks_uww = {'QB': 24, 'RB': 30, 'WR': 30, 'TE': 12}
+
 def stats_refresh():
     for year in years:
         stats_url = f"https://api.sleeper.app/v1/stats/nfl/regular/{year}"
@@ -59,4 +63,15 @@ def stats_refresh():
     stats_df["ppg_uww"] = stats_df["points_uww"] / stats_df["gp"]
     stats_df[["points_freedom", "points_uww"]] = stats_df[["points_freedom", "points_uww"]].apply(pd.to_numeric).round(1)
     stats_df[["ppg_freedom", "ppg_uww"]] = stats_df[["ppg_freedom", "ppg_uww"]].apply(pd.to_numeric).round(1)
+    # can this be in one function with multiple columns to rank (think so unless method and ascending changes)
+    stats_df["pos_rank_freedom_tot"] = stats_df.groupby(["season", "position"])["points_freedom"].rank(method="min", ascending=False)
+    stats_df["pos_rank_freedom_per"] = stats_df.groupby(["season", "position"])["ppg_freedom"].rank(method="min", ascending=False)
+    stats_df["rank_freedom_tot"] = stats_df.groupby(["season"])["points_freedom"].rank(method="min", ascending=False)
+    stats_df["rank_freedom_per"] = stats_df.groupby(["season"])["ppg_freedom"].rank(method="min", ascending=False)
+    stats_df["pos_rank_uww_tot"] = stats_df.groupby(["season", "position"])["points_uww"].rank(method="min", ascending=False)
+    stats_df["pos_rank_uww_per"] = stats_df.groupby(["season", "position"])["ppg_uww"].rank(method="min", ascending=False)
+    stats_df["rank_uww_tot"] = stats_df.groupby(["season"])["points_uww"].rank(method="min", ascending=False)
+    stats_df["rank_uww_per"] = stats_df.groupby(["season"])["ppg_uww"].rank(method="min", ascending=False)
+    stats_df["starter_freedom"] = (stats_df["pos_rank_freedom_tot"] >= stats_df["position"].map(starter_checks_freedom))
+    stats_df["starter_uww"] = (stats_df["pos_rank_uww_tot"] >= stats_df["position"].map(starter_checks_uww))
     return stats_df
