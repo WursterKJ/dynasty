@@ -32,7 +32,7 @@ focus_select = st.sidebar.selectbox("Choose Focus:", ["Roster", "Performance"])
 
 user_select_df = master.query("display_name_freedom == @user_select")
 user_select_df = user_select_df.merge(stats, how="left", on="player_id").query("season == @stat_season")
-user_select_df["position"] = user_select_df["position"].astype(position_priority)
+user_select_df["position_x"] = user_select_df["position_x"].astype(position_priority)
 
 team_master = master.groupby(["display_name_freedom"], as_index=False).agg(age=("age", "mean"), depth=("depth_chart_order", "mean") , expire=("year_final", "mean"), apy=("apy", "mean"))
 # individually since different orders (asc/desc)
@@ -43,9 +43,9 @@ team_master["rank_apy"] = team_master["apy"].rank(method="min", ascending=False)
 team_master_user = team_master.query("display_name_freedom == @user_select")
 
 season_df = master.merge(stats, how="left", on="player_id").query("season == @stat_season")
-season_df["position"] = season_df["position"].astype(position_priority)
+season_df["position_x"] = season_df["position_x"].astype(position_priority)
 
-team_pivot = season_df.pivot_table(index="display_name_freedom", columns="position", values="ppg_freedom", aggfunc="mean").reset_index()
+team_pivot = season_df.pivot_table(index="display_name_freedom", columns="position_x", values="ppg_freedom", aggfunc="mean").reset_index()
 team_stats = season_df.groupby(["display_name_freedom"], as_index=False).agg(tot_pts=("points_freedom", "sum"), tot_per_player=("points_freedom", "mean"), ppg_player=("ppg_freedom", "mean"))
 team_stats = team_stats.merge(team_pivot, how="left", on="display_name_freedom").rename(columns={"QB":"ppg_qb", "RB":"ppg_rb", "WR":"ppg_wr", "TE":"ppg_te"})
 team_stats[["rank_tot_pts", "rank_tot_per_player", "rank_ppg_player", "rank_ppg_qb", "rank_ppg_rb", "rank_ppg_wr", "rank_ppg_te" ]] = team_stats[["tot_pts", "tot_per_player", "ppg_player", "ppg_qb", "ppg_rb", "ppg_wr", "ppg_te"]].rank(method="min", ascending=False)
@@ -75,8 +75,8 @@ rank_ppg_rb = int(team_stats_user["rank_ppg_rb"].iloc[0])
 rank_ppg_wr = int(team_stats_user["rank_ppg_wr"].iloc[0])
 rank_ppg_te = int(team_stats_user["rank_ppg_te"].iloc[0])
 
-count_pos = user_select_df.value_counts("position").reset_index().sort_values("position")
-count_pos_bar = px.bar(count_pos, x="position", y="count", color_discrete_sequence=[primary])
+count_pos = user_select_df.value_counts("position_x").reset_index().sort_values("position_x")
+count_pos_bar = px.bar(count_pos, x="position_x", y="count", color_discrete_sequence=[primary])
 
 master_radar = go.Figure()
 # last value repeated to close the shape
@@ -100,10 +100,10 @@ master_radar.update_layout(polar=dict(
     )
 )
 
-roster_table = user_select_df.sort_values(by=["position", "apy"], ascending=[True, False]).filter(items=["position", "full_name", "team", "age", "years_exp", "depth_chart_order","year_final", "apy", "draft_year", "draft_round", "draft_overall"]).rename(columns={"position":"Position", "full_name":"Player", "team":"Team", "age":"Age", "years_exp":"Year", "depth_chart_order":"Depth", "year_final":"Thru", "apy":"APY", "draft_year":"Draft", "draft_round":"Round", "draft_overall":"Overall"})
+roster_table = user_select_df.sort_values(by=["position_x", "apy"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "age", "years_exp", "depth_chart_order","year_final", "apy", "draft_year", "draft_round", "draft_overall"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "age":"Age", "years_exp":"Year", "depth_chart_order":"Depth", "year_final":"Thru", "apy":"APY", "draft_year":"Draft", "draft_round":"Round", "draft_overall":"Overall"})
 # lambda allows assigning variables within set, applies to all values in list/set as x, checks if any APY values null/na, if so return 0
 roster_table["APY"] = roster_table["APY"].apply(lambda x: f"${x:,.2f}" if pd.notna(x) else 0)
-stat_table = user_select_df.sort_values(by=["position", "ppg_freedom"], ascending=[True, False]).filter(items=["position", "full_name", "team", "gp", "points_freedom", "ppg_freedom"]).rename(columns={"position":"Position", "full_name":"Player", "team":"Team", "gp":"Games", "points_freedom":"Points", "ppg_freedom":"PPG"})
+stat_table = user_select_df.sort_values(by=["position_x", "ppg_freedom"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "gp", "points_freedom", "ppg_freedom"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "gp":"Games", "points_freedom":"Points", "ppg_freedom":"PPG"})
 
 st.title("The Really Real Dynasty League")
 if focus_select == "Roster":

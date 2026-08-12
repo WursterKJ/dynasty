@@ -19,6 +19,7 @@ years = list(range(first_year, current_year+1))
 # import players_df from players refresh
 players_df = players_refresh()
 players_ids = players_list(players_df)
+players_pos = players_df[["player_id", "position"]]
 
 # import scoring settings
 scoring_freedom, scoring_uww = scoring_refresh()
@@ -27,8 +28,8 @@ scoring_freedom, scoring_uww = scoring_refresh()
 stats_df_all = []
 
 # create starter benchmarks for position ranks
-starter_checks_freedom = {'QB': 10, 'RB': 35, 'WR': 35, 'TE': 15}
-starter_checks_uww = {'QB': 24, 'RB': 30, 'WR': 30, 'TE': 12}
+starter_checks_freedom = {'QB': 10, 'RB': 30, 'WR': 30, 'TE': 12}
+starter_checks_uww = {'QB': 24, 'RB': 35, 'WR': 35, 'TE': 15}
 
 def stats_refresh():
     for year in years:
@@ -45,7 +46,8 @@ def stats_refresh():
         # append all 6 dataframes in list (append is list function)
         stats_df_all.append(stats_df)
     stats_df = pd.concat(stats_df_all, ignore_index=True)
-
+    # merge in positions
+    stats_df = stats_df.merge(players_pos, how="left", on="player_id")
     # create new columns, calculate by multiplying every stat in scoring system by stat in stats df, iloc says take value first row below column headers
     stats_df["points_freedom"] = 0
     stats_df["points_uww"] = 0
@@ -72,6 +74,6 @@ def stats_refresh():
     stats_df["pos_rank_uww_per"] = stats_df.groupby(["season", "position"])["ppg_uww"].rank(method="min", ascending=False)
     stats_df["rank_uww_tot"] = stats_df.groupby(["season"])["points_uww"].rank(method="min", ascending=False)
     stats_df["rank_uww_per"] = stats_df.groupby(["season"])["ppg_uww"].rank(method="min", ascending=False)
-    stats_df["starter_freedom"] = (stats_df["pos_rank_freedom_tot"] >= stats_df["position"].map(starter_checks_freedom))
-    stats_df["starter_uww"] = (stats_df["pos_rank_uww_tot"] >= stats_df["position"].map(starter_checks_uww))
+    stats_df["starter_freedom"] = (stats_df["pos_rank_freedom_tot"] <= stats_df["position"].map(starter_checks_freedom))
+    stats_df["starter_uww"] = (stats_df["pos_rank_uww_tot"] <= stats_df["position"].map(starter_checks_uww))
     return stats_df

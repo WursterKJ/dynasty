@@ -25,5 +25,5 @@ def data_refresh():
     return master, stats
 
 # comment this code out when ready to deploy dashboard
-data_refresh()
-print("Successfully created data files")
+# data_refresh()
+# print("Successfully created data files")

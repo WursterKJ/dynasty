@@ -19,7 +19,7 @@ def players_refresh():
     # orient index flips columns and rows using indices as columns
     players_filtered = players_df_raw.query("active == True and status == 'Active' and (position == 'QB' or position == 'RB' or position == 'WR' or position == 'TE')")
     players_filtered_columns = players_filtered.filter(items = ["player_id", "full_name", "position", "team", "number", "college", "years_exp", "birth_date", "age", "height", "weight", "depth_chart_order", "injury_status", "injury_body_part", "search_full_name"])
-    players_df = players_filtered_columns.astype({"player_id": str})
+    players_df = players_filtered_columns.astype({"player_id": str, "position": str})
     # must use timestamp.today and to_datetime to keep as series array rather than individual value
     # need .dt.days to convert date object to integer using time delta functions
     players_df["age"] = round(((pd.Timestamp.today() - pd.to_datetime(players_df["birth_date"])).dt.days / 365), 1)
