@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-league_id_freedom = "1182600360190955520"
+league_id_freedom = "1313765911705976832"
 league_id_uww = "1357180013190877184"
 
 def rosters_refresh():

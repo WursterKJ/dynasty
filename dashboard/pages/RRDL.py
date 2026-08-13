@@ -103,7 +103,7 @@ master_radar.update_layout(polar=dict(
 roster_table = user_select_df.sort_values(by=["position_x", "apy"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "age", "years_exp", "depth_chart_order","year_final", "apy", "draft_year", "draft_round", "draft_overall"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "age":"Age", "years_exp":"Year", "depth_chart_order":"Depth", "year_final":"Thru", "apy":"APY", "draft_year":"Draft", "draft_round":"Round", "draft_overall":"Overall"})
 # lambda allows assigning variables within set, applies to all values in list/set as x, checks if any APY values null/na, if so return 0
 roster_table["APY"] = roster_table["APY"].apply(lambda x: f"${x:,.2f}" if pd.notna(x) else 0)
-stat_table = user_select_df.sort_values(by=["position_x", "ppg_freedom"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "gp", "points_freedom", "ppg_freedom"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "gp":"Games", "points_freedom":"Points", "ppg_freedom":"PPG"})
+stat_table = user_select_df.sort_values(by=["position_x", "ppg_freedom"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "gp", "points_freedom", "pos_rank_freedom_tot", "rank_freedom_tot", "ppg_freedom", "pos_rank_freedom_per", "rank_freedom_per"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "gp":"Games", "points_freedom":"Points", "ppg_freedom":"PPG", "pos_rank_freedom_tot":"PRank", "rank_freedom_tot":"Rank", "pos_rank_freedom_per":"PRank Per", "rank_freedom_per":"Rank Per"})
 
 st.title("The Really Real Dynasty League")
 if focus_select == "Roster":
