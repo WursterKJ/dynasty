@@ -48,7 +48,7 @@ teams = teams.query("team == @team_select")
 master_stats_current = master_stats_current.query("team == @team_select")
 
 team_roster_df = master_stats_current.filter(items=["position_x", "depth_chart_order", "full_name", "age", "years_exp", "draft_round", "draft_overall", "year_final", "apy"]).drop_duplicates(["full_name"]).dropna(subset=["depth_chart_order"]).sort_values(by=["position_x", "depth_chart_order"])
-team_stats_df = master_stats_current.filter(items=["position_x", "depth_chart_order", "full_name", "points_freedom", "ppg_freedom", "rank_freedom","starter_freedom", "pos_rank_freedom", "points_uww", "ppg_uww", "rank_uww", "pos_rank_uww","starter_uww"]).sort_values(by=["position_x", "depth_chart_order"])
+team_stats_df = master_stats_current.filter(items=["position_x", "depth_chart_order", "full_name", "gp", "points_freedom", "points_uww", "ppg_freedom", "ppg_uww", "pos_rank_freedom", "pos_rank_uww", "rank_freedom", "rank_uww", "starter_freedom", "starter_uww"]).sort_values(by=["position_x", "depth_chart_order"])
 
 focus_select = st.sidebar.selectbox("Choose Focus:", ["Roster", "Performance"])
 
@@ -79,7 +79,7 @@ if focus_select == "Roster":
     with rcol1:
         st.badge(str(team_select_df["rank_Age"].iloc[0]), color=team_select_df["color_rank_Age"].iloc[0])
     with col2:
-        st.metric("Exp:", round(team_select_df["Exp"].iloc[0], 1))
+        st.metric("Experience:", round(team_select_df["Exp"].iloc[0], 1))
     with rcol2:
         st.badge(str(team_select_df["rank_Exp"].iloc[0]), color=team_select_df["color_rank_Exp"].iloc[0])
     with col3:
@@ -106,30 +106,41 @@ if focus_select == "Roster":
     st.dataframe(team_roster_df, hide_index=True)   
 else:
     st.subheader("RRDL")
-    col1, rcol1, col2, rcol2, col3, rcol3, col4, rcol4 = st.columns(8, vertical_alignment="center", gap="small")
+    col1, rcol1, col2, rcol2, col3, rcol3, col4, rcol4 = st.columns([1.4, 1, 1, 1, 1, 1, 1, 1], vertical_alignment="center", gap="small")
     with col1:
         st.metric("Points:", round(team_select_df["Pts_RRDL"].iloc[0], 1))
-        st.metric("Points:", round(team_select_df["Pts_UWW"].iloc[0], 1))
     with rcol1:
         st.badge(str(team_select_df["rank_Pts_RRDL"].iloc[0]), color=team_select_df["color_rank_Pts_RRDL"].iloc[0])
-        st.badge(str(team_select_df["rank_Pts_UWW"].iloc[0]), color=team_select_df["color_rank_Pts_UWW"].iloc[0])
     with col2:
         st.metric("PPP:", round(team_select_df["PPP_RRDL"].iloc[0], 1))
-        st.metric("PPP:", round(team_select_df["PPP_UWW"].iloc[0], 1))
     with rcol2:
         st.badge(str(team_select_df["rank_PPP_RRDL"].iloc[0]), color=team_select_df["color_rank_PPP_RRDL"].iloc[0])
-        st.badge(str(team_select_df["rank_PPP_UWW"].iloc[0]), color=team_select_df["color_rank_PPP_UWW"].iloc[0])
     with col3:
         st.metric("PPG:", round(team_select_df["PPG_RRDL"].iloc[0], 1))
-        st.metric("PPG:", round(team_select_df["PPG_UWW"].iloc[0], 1))
     with rcol3:
         st.badge(str(team_select_df["rank_PPG_RRDL"].iloc[0]), color=team_select_df["color_rank_PPG_RRDL"].iloc[0])
-        st.badge(str(team_select_df["rank_PPG_UWW"].iloc[0]), color=team_select_df["color_rank_PPG_UWW"].iloc[0])
     with col4:
         st.metric("Starters:", team_select_df["Starters_RRDL"].iloc[0])
-        st.metric("Starters:", team_select_df["Starters_UWW"].iloc[0])
     with rcol4:
         st.badge(str(team_select_df["rank_Starters_RRDL"].iloc[0]), color=team_select_df["color_rank_Starters_RRDL"].iloc[0])
-        st.badge(str(team_select_df["rank_Starters_UWW"].iloc[0]), color=team_select_df["color_rank_Starters_UWW"].iloc[0])
     st.subheader("UWW")
-    st.dataframe(team_stats_df, hide_index=True)
+    col1, rcol1, col2, rcol2, col3, rcol3, col4, rcol4 = st.columns([1.4, 1, 1, 1, 1, 1, 1, 1], vertical_alignment="center", gap="small")
+    with col1:
+        st.metric("Points:", round(team_select_df["Pts_UWW"].iloc[0], 1))
+    with rcol1:
+        st.badge(str(team_select_df["rank_Pts_UWW"].iloc[0]), color=team_select_df["color_rank_Pts_UWW"].iloc[0])
+    with col2:
+        st.metric("PPP:", round(team_select_df["PPP_UWW"].iloc[0], 1))
+    with rcol2:
+        st.badge(str(team_select_df["rank_PPP_UWW"].iloc[0]), color=team_select_df["color_rank_PPP_UWW"].iloc[0])
+    with col3:
+        st.metric("PPG:", round(team_select_df["PPG_UWW"].iloc[0], 1))
+    with rcol3:
+        st.badge(str(team_select_df["rank_PPG_UWW"].iloc[0]), color=team_select_df["color_rank_PPG_UWW"].iloc[0])
+    with col4:
+        st.metric("Starters:", team_select_df["Starters_UWW"].iloc[0])
+    with rcol4:
+        st.badge(str(team_select_df["rank_Starters_UWW"].iloc[0]), color=team_select_df["color_rank_Starters_UWW"].iloc[0])
+    st.subheader("Position")
+    st.dataframe(team_stats_df.rename(columns={"position_x":"Position", "depth_chart_order":"Depth", "full_name":"Player", "gp":"Games", "points_freedom":"Points", "ppg_freedom":"PPG", "pos_rank_freedom_tot":"PRank", "rank_freedom_tot":"Rank", "pos_rank_freedom_per":"PRank Per", "rank_freedom_per":"Rank Per"}), hide_index=True)
+    
