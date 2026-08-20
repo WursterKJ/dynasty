@@ -94,25 +94,12 @@ count_pos_bar = px.bar(count_pos, x="position_x", y="count", color_discrete_sequ
 
 master_radar = go.Figure()
 # last value repeated to close the shape
-master_radar.add_trace(go.Scatterpolar(r=[rank_avg_age, rank_avg_depth, rank_avg_expire, rank_avg_apy, rank_avg_age], theta=["Age", "Depth", "Expiring", "APY", "Age"], fill="toself", fillcolor=primary, mode="lines"))
-master_radar.update_layout(polar=dict(
-        bgcolor="rgba(0,0,0,0)",        # transparent inside the circle
-        radialaxis=dict(
-            visible=True,
-            range=[10, 1],
-            tick0=10,
-            dtick=3,
-            showticklabels=False,
-            linecolor="rgba(0,0,0,0)",
-            gridcolor="rgba(128,128,128,0.3)"
-        ),
-        angularaxis=dict(
-            gridcolor="rgba(128,128,128,0.3)",
-            linecolor="rgba(0,0,0,0)",  # remove the outer circle border
-            showline=False
-        )
-    )
-)
+# list values to include in chart
+master_radar.add_trace(go.Scatterpolar(r=[rank_avg_age, rank_avg_exp, rank_avg_expire, rank_avg_apy, rank_tot_apy, rank_avg_depth, rank_avg_age], theta=["Age", "Experience", "Thru", "Total APY", "Average APY", "Depth", "Age"], fill="toself", fillcolor=primary, mode="lines", line=dict(color=primary, width=1),))
+# polar is all about chart background format, bgcolor is transparent background, 
+master_radar.update_layout(polar=dict(bgcolor="rgba(0,0,0,0)", domain=dict(x=[0.1, 0.9], y=[0.1, 0.9]),
+        radialaxis=dict(visible=True, range=[10, 1], tick0=10, dtick=3, showticklabels=False, ticks="", linecolor="rgba(0,0,0,0)", gridcolor="rgba(128,128,128,0.3)"),
+        angularaxis=dict(gridcolor="rgba(128,128,128,0.3)",linecolor="rgba(128,128,128,0.3)", showgrid=False, rotation=90)))
 
 roster_table = user_select_df.sort_values(by=["position_x", "apy"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "age", "years_exp", "depth_chart_order","year_final", "apy", "draft_year", "draft_round", "draft_overall"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "age":"Age", "years_exp":"Exp", "depth_chart_order":"Depth", "year_final":"Thru", "apy":"APY", "draft_year":"Draft", "draft_round":"Round", "draft_overall":"Overall"})
 # lambda allows assigning variables within set, applies to all values in list/set as x, checks if any APY values null/na, if so return 0
