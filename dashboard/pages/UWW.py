@@ -90,16 +90,21 @@ team_master_user[["color_" + column for column in rank_master_values]] = team_ma
 team_stats_user[["color_" + column for column in rank_stat_values]] = team_stats_user[rank_stat_values].map(lambda value: "blue" if value <= 3 else "green" if value <= 6 else "orange" if value <=9 else "red")
 
 count_pos = user_select_df.value_counts("position_x").reset_index().sort_values("position_x")
-count_pos_bar = px.bar(count_pos, x="position_x", y="count", color_discrete_sequence=[primary])
+count_pos_all = user_select_df.groupby("position_x", )
+count_pos_bar = px.bar(count_pos, x="position_x", y="count", color_discrete_sequence=[primary], text="count")
+count_pos_bar.update_yaxes(title=None, showgrid=False, showticklabels=False)
+count_pos_bar.update_xaxes(title=None)
+count_pos_bar.update_traces(textposition="outside")
+
 
 master_radar = go.Figure()
 # last value repeated to close the shape
 # list values to include in chart
-master_radar.add_trace(go.Scatterpolar(r=[rank_avg_age, rank_avg_exp, rank_avg_expire, rank_avg_apy, rank_tot_apy, rank_avg_depth, rank_avg_age], theta=["Age", "Experience", "Thru", "Total APY", "Average APY", "Depth", "Age"], fill="toself", fillcolor=primary, mode="lines", line=dict(color=primary, width=1),))
+master_radar.add_trace(go.Scatterpolar(r=[rank_avg_age, rank_avg_exp, rank_avg_expire, rank_avg_apy, rank_tot_apy, rank_avg_depth, rank_avg_age], theta=["Age", "Depth", "Average APY", "Total APY", "Thru", "Experience"], fill="toself", fillcolor=primary, mode="lines", line=dict(color=primary, width=1),))
 # polar is all about chart background format, bgcolor is transparent background, 
 master_radar.update_layout(polar=dict(bgcolor="rgba(0,0,0,0)", domain=dict(x=[0.1, 0.9], y=[0.1, 0.9]),
         radialaxis=dict(visible=True, range=[10, 1], tick0=10, dtick=3, showticklabels=False, ticks="", linecolor="rgba(0,0,0,0)", gridcolor="rgba(128,128,128,0.3)"),
-        angularaxis=dict(gridcolor="rgba(128,128,128,0.3)",linecolor="rgba(128,128,128,0.3)", showgrid=False, rotation=90)))
+        angularaxis=dict(gridcolor="rgba(128,128,128,0.3)",linecolor="rgba(128,128,128,0.3)", showgrid=False, rotation=90, ticks="")))
 
 roster_table = user_select_df.sort_values(by=["position_x", "apy"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "age", "years_exp", "depth_chart_order","year_final", "apy", "draft_year", "draft_round", "draft_overall"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "age":"Age", "years_exp":"Exp", "depth_chart_order":"Depth", "year_final":"Thru", "apy":"APY", "draft_year":"Draft", "draft_round":"Round", "draft_overall":"Overall"})
 # lambda allows assigning variables within set, applies to all values in list/set as x, checks if any APY values null/na, if so return 0
