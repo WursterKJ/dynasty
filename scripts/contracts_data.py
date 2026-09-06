@@ -6,6 +6,14 @@ from datetime import datetime, date, time
 # need to manually make merge_name in contract file since no common ids. this is straight from claude/nfldataverse github code
 # review and learn what this regex is doing for future reference
 
+def clean_name(name):
+    name = str(name).lower()
+    name = re.sub(r"[.\'\-]", "", name)              # strip punctuation
+    name = re.sub(r"\b(jr|sr|ii|iii|iv|v)\b\.?", "", name)  # strip suffixes
+    name = re.sub(r"\s+", " ", name).strip()          # collapse whitespace
+    name = name.replace(" ", "")                       # inner-space removal
+    return name
+
 def contracts_refresh():
     master_data = pd.read_csv("data/master.csv")
     master_list = master_data["player_id"].astype(str).to_list()
@@ -14,18 +22,11 @@ def contracts_refresh():
     player_search = search_data.filter(items=["merge_name", "sleeper_id"])
     player_search["sleeper_id"] = player_search["sleeper_id"].astype('Int64').astype(str)
     # must specify column to not change df to series, adjust just inner series of df not full df
-    player_search["merge_name"] = player_search["merge_name"].str.replace(" ", "")
+    player_search["merge_name"] = player_search["merge_name"].apply(clean_name)
     player_search = player_search.query("sleeper_id in @master_list")
 
     contracts_data = nfl.load_contracts().to_pandas()
 
-    def clean_name(name):
-        name = str(name).lower()
-        name = re.sub(r"[.\'\-]", "", name)              # strip punctuation
-        name = re.sub(r"\b(jr|sr|ii|iii|iv|v)\b\.?", "", name)  # strip suffixes
-        name = re.sub(r"\s+", " ", name).strip()          # collapse whitespace
-        name = name.replace(" ", "")                       # your inner-space removal
-        return name
     # creates merge_name column which is taking player name column and running through the clean name function
     # merge into master list including sleeper id which allows two join options (find which most accurate)
     contracts_data["merge_name"] = contracts_data["player"].apply(clean_name)

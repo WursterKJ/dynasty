@@ -20,7 +20,7 @@ position_priority = pd.CategoricalDtype(categories=position_order, ordered=True)
 primary = "#b5ff00"
 secondary = "#404040"
 
-if datetime.now().month >= 1 and datetime.now().month <= 8:
+if datetime.now().month >= 1 and datetime.now().month <= 9:
     stat_season = stats["season"].max() - 1
 else:
     stat_season = stats["season"].max()

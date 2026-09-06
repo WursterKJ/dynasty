@@ -11,7 +11,7 @@ sidebar()
 master = load_master()
 stats = load_stats()
 
-if datetime.now().month >= 1 and datetime.now().month <= 8:
+if datetime.now().month >= 1 and datetime.now().month <= 9:
     stat_season = stats["season"].max() - 1
 else:
     stat_season = stats["season"].max()
