@@ -14,7 +14,7 @@ from scripts.scoring_data import scoring_refresh
 
 current_year = datetime.now().year
 first_year = datetime.now().year-6
-years = list(range(first_year, current_year+1))
+years = list(range(first_year, current_year))
 
 # import players_df from players refresh
 players_df = players_refresh()

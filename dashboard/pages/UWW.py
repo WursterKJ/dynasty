@@ -32,7 +32,8 @@ user_select = st.sidebar.selectbox("Choose Manager:", users)
 focus_select = st.sidebar.selectbox("Choose Focus:", ["Roster", "Performance"])
 
 user_select_df = master.query("display_name_uww == @user_select")
-user_select_df = user_select_df.merge(stats, how="left", on="player_id").query("season == @stat_season")
+user_select_df = user_select_df.merge(stats, how="left", on="player_id")
+user_select_df = user_select_df[(user_select_df["season"] == stat_season) | (user_select_df["season"].isna())]
 user_select_df["position_x"] = user_select_df["position_x"].astype(position_priority)
 
 team_master = master.groupby(["display_name_uww"], as_index=False).agg(age=("age", "mean"), depth=("depth_chart_order", "mean") , expire=("year_final", "mean"), apy=("apy", "mean"), tot_apy=("apy", "sum"), exp=("years_exp", "mean"))
