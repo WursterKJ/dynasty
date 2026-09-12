@@ -52,9 +52,12 @@ team_stats_df = master_stats_current.filter(items=["position_x", "depth_chart_or
 
 focus_select = st.sidebar.selectbox("Choose Focus:", ["Roster", "Performance"])
 
-st.header(teams["name"].iloc[0])
+col1, col2 = st.columns([3, 1])  # adjust ratio: bigger left number = more space for header
+with col1:
+    st.header(teams["name"].iloc[0])
 # st.subheader(teams["play_caller"])
-# st.image(f"logo/{{team_select}}.png")    
+with col2:
+    st.image(f"data/{team_select}.png")    
 
 rank_Age = team_select_df["rank_Age"].iloc[0]
 rank_Exp = team_select_df["rank_Exp"].iloc[0]
@@ -71,7 +74,7 @@ rank_Pts_UWW = team_select_df["rank_Pts_UWW"].iloc[0]
 rank_PPP_UWW = team_select_df["rank_PPP_UWW"].iloc[0]
 rank_PPG_UWW = team_select_df["rank_PPG_UWW"].iloc[0]
 rank_Starters_UWW = team_select_df["rank_Starters_UWW"].iloc[0]
-  
+
 if focus_select == "Roster":
     col1, rcol1, col2, rcol2, col3, rcol3, col4, rcol4 = st.columns(8, vertical_alignment="center", gap="xxsmall")
     with col1:
