@@ -20,7 +20,7 @@ position_priority = pd.CategoricalDtype(categories=position_order, ordered=True)
 primary = "#b5ff00"
 secondary = "#404040"
 
-if datetime.now().month >= 1 and datetime.now().month <= 9:
+if datetime.now().month >= 1 and datetime.now().month < 9:
     stat_season = stats["season"].max() - 1
 else:
     stat_season = stats["season"].max()
@@ -53,6 +53,9 @@ team_pivot = season_df.pivot_table(index="display_name_uww", columns="position_x
 team_stats = season_df.groupby(["display_name_uww"], as_index=False).agg(tot_pts=("points_uww", "sum"), tot_per_player=("points_uww", "mean"), ppg_player=("ppg_uww", "mean"), starter_uww=("starter_uww", "sum"))
 team_stats = team_stats.merge(team_pivot, how="left", on="display_name_uww").rename(columns={"QB":"ppg_qb", "RB":"ppg_rb", "WR":"ppg_wr", "TE":"ppg_te"})
 team_stats[["rank_tot_pts", "rank_tot_per_player", "rank_ppg_player", "rank_ppg_qb", "rank_ppg_rb", "rank_ppg_wr", "rank_ppg_te", "rank_starters"]] = team_stats[["tot_pts", "tot_per_player", "ppg_player", "ppg_qb", "ppg_rb", "ppg_wr", "ppg_te", "starter_uww"]].rank(method="min", ascending=False)
+rank_cols = ["rank_tot_pts", "rank_tot_per_player", "rank_ppg_player", "rank_ppg_qb", "rank_ppg_rb", "rank_ppg_wr", "rank_ppg_te", "rank_starters"]
+for col in rank_cols:
+    team_stats[col] = team_stats[col].fillna(team_stats[col].max() + 1)
 team_stats_user = team_stats.query("display_name_uww == @user_select")
 
 # take first record of column (always only one row beside headers)
