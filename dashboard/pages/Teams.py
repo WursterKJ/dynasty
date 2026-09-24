@@ -22,17 +22,17 @@ position_priority = pd.CategoricalDtype(categories=position_order, ordered=True)
 primary = "#b5ff00"
 secondary = "#404040"
 
-# needs fixing but something like this
-master_stats = master.merge(stats, on="player_id", how="left")
-master_stats_current = master_stats.query("season == @stat_season")
+stats_current_season = stats[stats["season"] == stat_season]
+master_stats_current = master.merge(stats_current_season, on="player_id", how="left")
+master_stats_current["position_x"] = master_stats_current["position_x"].astype(position_priority)
 
 team_df_pos = master_stats_current.groupby(["team", "position_x"], as_index=False).agg(Season=("season", "first"), Players=("player_id", "count"), Age=("age", "mean"), Exp=("years_exp", "mean"), Thru=("year_final", "mean"), Tot_APY=("apy", "sum"), Avg_APY=("apy", "mean"), Round=("draft_round", "mean"), Overall=("draft_overall", "mean"), Pts_RRDL=("points_freedom", "sum"), PPP_RRDL=("points_freedom", "mean"), PPG_RRDL=("ppg_freedom", "mean"), Starters_RRDL=("starter_freedom", "sum"), Pts_UWW=("points_uww", "sum"), PPP_UWW=("points_uww", "mean"), PPG_UWW=("ppg_uww", "mean"), Starters_UWW=("starter_uww", "sum"))
 team_df = master_stats_current.groupby("team", as_index=False).agg(Season=("season", "first"), Players=("player_id", "count"), Age=("age", "mean"), Exp=("years_exp", "mean"), Thru=("year_final", "mean"), Tot_APY=("apy", "sum"), Avg_APY=("apy", "mean"), Round=("draft_round", "mean"), Overall=("draft_overall", "mean"), Pts_RRDL=("points_freedom", "sum"), PPP_RRDL=("points_freedom", "mean"), PPG_RRDL=("ppg_freedom", "mean"), Starters_RRDL=("starter_freedom", "sum"), Pts_UWW=("points_uww", "sum"), PPP_UWW=("points_uww", "mean"), PPG_UWW=("ppg_uww", "mean"), Starters_UWW=("starter_uww", "sum"))
 # rather than explicit rank creation (one script per column) loop through columns, add rank tag, and add to df
 rank_columns_desc = ["Exp", "Thru", "Tot_APY", "Avg_APY", "Pts_RRDL", "PPP_RRDL", "PPG_RRDL", "Starters_RRDL","Pts_UWW", "PPP_UWW", "PPG_UWW", "Starters_UWW"]
 rank_columns_asc = ["Age", "Round", "Overall"]
-team_df[["rank_" + column for column in rank_columns_desc]] = team_df[rank_columns_desc].rank(method="min", ascending=False).astype(int)
-team_df[["rank_" + column for column in rank_columns_asc]] = team_df[rank_columns_asc].rank(method="min", ascending=True).astype(int)
+team_df[["rank_" + column for column in rank_columns_desc]] = team_df[rank_columns_desc].rank(method="min", ascending=False).astype("Int64")
+team_df[["rank_" + column for column in rank_columns_asc]] = team_df[rank_columns_asc].rank(method="min", ascending=True).astype("Int64")
 rank_values = ["rank_Age", "rank_Exp", "rank_Round", "rank_Overall", "rank_Thru", "rank_Tot_APY", "rank_Avg_APY", "rank_Pts_RRDL", "rank_PPP_RRDL", "rank_PPG_RRDL", "rank_Starters_RRDL","rank_Pts_UWW", "rank_PPP_UWW", "rank_PPG_UWW", "rank_Starters_UWW"]
 team_df[["color_" + column for column in rank_values]] = team_df[rank_values].map(lambda value: "blue" if value <= 8 else "green" if value <= 16 else "orange" if value <=24 else "red")
 
@@ -47,17 +47,22 @@ team_select_df = team_df.query("team == @team_select")
 teams = teams.query("team == @team_select")
 master_stats_current = master_stats_current.query("team == @team_select")
 
-team_roster_df = master_stats_current.filter(items=["position_x", "depth_chart_order", "full_name", "age", "years_exp", "draft_round", "draft_overall", "year_final", "apy"]).drop_duplicates(["full_name"]).dropna(subset=["depth_chart_order"]).sort_values(by=["position_x", "depth_chart_order"])
-team_stats_df = master_stats_current.filter(items=["position_x", "depth_chart_order", "full_name", "gp", "points_freedom", "points_uww", "ppg_freedom", "ppg_uww", "pos_rank_freedom", "pos_rank_uww", "rank_freedom", "rank_uww", "starter_freedom", "starter_uww"]).sort_values(by=["position_x", "depth_chart_order"])
+team_roster_df = master_stats_current.filter(items=["position_x", "depth_chart_order", "full_name", "age", "years_exp", "year_final", "apy", "draft_year", "draft_round", "draft_overall"]).drop_duplicates(["full_name"]).dropna(subset=["depth_chart_order"]).sort_values(by=["position_x", "depth_chart_order"]).rename(columns={"position_x":"Position", "full_name":"Player", "age":"Age", "years_exp":"Exp", "depth_chart_order":"Depth", "year_final":"Thru", "apy":"APY", "draft_year":"Draft", "draft_round":"Round", "draft_overall":"Overall"})
+team_roster_df["APY"] = team_roster_df["APY"].apply(lambda x: f"${x:,.2f}" if pd.notna(x) else 0)
+
+column_order = ["position_x", "depth_chart_order", "full_name", "gp","points_freedom", "points_uww","pos_rank_freedom_tot", "pos_rank_uww_tot","rank_freedom_tot", "rank_uww_tot", "ppg_freedom", "ppg_uww", "pos_rank_freedom_per", "pos_rank_uww_per","rank_freedom_per", "rank_uww_per"]
+team_stats_df = master_stats_current[column_order].sort_values(by=["position_x", "depth_chart_order"]).dropna(subset=["depth_chart_order"]).rename(columns={"position_x":"Position", "depth_chart_order":"Depth", "full_name":"Player", "gp":"Games", "points_freedom":"Points RRDL", "ppg_freedom":"PPG RRDL", "pos_rank_freedom_tot":"PRank RRDL", "rank_freedom_tot":"Rank RRDL", "pos_rank_freedom_per":"PRank Per RRDL", "rank_freedom_per":"Rank Per RRDL", "points_uww":"Points UWW", "ppg_uww":"PPG UWW", "pos_rank_uww_tot":"PRank UWW", "rank_uww_tot":"Rank UWW", "pos_rank_uww_per":"PRank Per UWW", "rank_uww_per":"Rank Per UWW"})
 
 focus_select = st.sidebar.selectbox("Choose Focus:", ["Roster", "Performance"])
 
-col1, col2 = st.columns([3, 1])  # adjust ratio: bigger left number = more space for header
+col1, col2 = st.columns([1.5, 1])  # adjust ratio: bigger left number = more space for header
 with col1:
     st.header(teams["name"].iloc[0])
 # st.subheader(teams["play_caller"])
 with col2:
-    st.image(f"data/{team_select}.png")    
+    subcol1, subcol2 = st.columns([1, 1])  # adjust this ratio to shift image left/right
+    with subcol1:
+        st.image(f"data/{team_select}.png")
 
 rank_Age = team_select_df["rank_Age"].iloc[0]
 rank_Exp = team_select_df["rank_Exp"].iloc[0]
@@ -144,6 +149,5 @@ else:
         st.metric("Starters:", team_select_df["Starters_UWW"].iloc[0])
     with rcol4:
         st.badge(str(team_select_df["rank_Starters_UWW"].iloc[0]), color=team_select_df["color_rank_Starters_UWW"].iloc[0])
-    st.subheader("Position")
-    st.dataframe(team_stats_df.rename(columns={"position_x":"Position", "depth_chart_order":"Depth", "full_name":"Player", "gp":"Games", "points_freedom":"Points", "ppg_freedom":"PPG", "pos_rank_freedom_tot":"PRank", "rank_freedom_tot":"Rank", "pos_rank_freedom_per":"PRank Per", "rank_freedom_per":"Rank Per"}), hide_index=True)
+    st.dataframe(team_stats_df, hide_index=True)
     
