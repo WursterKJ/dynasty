@@ -55,10 +55,13 @@ team_stats_df = master_stats_current[column_order].sort_values(by=["position_x",
 
 focus_select = st.sidebar.selectbox("Choose Focus:", ["Roster", "Performance"])
 
-col1, col2 = st.columns([1.5, 1])  # adjust ratio: bigger left number = more space for header
+playcaller_emoji = {"Blue Chip":"💎", "Rising":"🟢", "Falling":"🔴", "Steady":"🟡","First Year":"🍼"}
+playercaller_name_emoji = teams["play_caller"]+" "+teams["status"].map(playcaller_emoji)
+
+col1, col2 = st.columns([1.7, 1], vertical_alignment="center")  # adjust ratio: bigger left number = more space for header
 with col1:
     st.header(teams["name"].iloc[0])
-# st.subheader(teams["play_caller"])
+    st.subheader(playercaller_name_emoji.iloc[0])
 with col2:
     subcol1, subcol2 = st.columns([1, 1])  # adjust this ratio to shift image left/right
     with subcol1:
@@ -81,6 +84,7 @@ rank_PPG_UWW = team_select_df["rank_PPG_UWW"].iloc[0]
 rank_Starters_UWW = team_select_df["rank_Starters_UWW"].iloc[0]
 
 if focus_select == "Roster":
+    st.write("")
     col1, rcol1, col2, rcol2, col3, rcol3, col4, rcol4 = st.columns(8, vertical_alignment="center", gap="xxsmall")
     with col1:
         st.metric("Age:", round(team_select_df["Age"].iloc[0], 1))
