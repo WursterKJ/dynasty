@@ -4,7 +4,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 from datetime import date, time, datetime
 from scripts.data_load import (load_master, load_stats)
-from dashboard.sidebar import sidebar
+from sidebar import sidebar
 
 st.set_page_config(layout="centered")
 sidebar()
