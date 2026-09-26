@@ -58,10 +58,10 @@ focus_select = st.sidebar.selectbox("Choose Focus:", ["Roster", "Performance"])
 playcaller_emoji = {"Blue Chip":"💎", "Rising":"🟢", "Falling":"🔴", "Steady":"🟡","First Year":"🍼"}
 playercaller_name_emoji = teams["play_caller"]+" "+teams["status"].map(playcaller_emoji)
 
-col1, col2 = st.columns([1.7, 1], vertical_alignment="center")  # adjust ratio: bigger left number = more space for header
+col1, col2 = st.columns([1.6, 1], vertical_alignment="center")  # adjust ratio: bigger left number = more space for header
 with col1:
     st.header(teams["name"].iloc[0])
-    st.subheader(playercaller_name_emoji.iloc[0])
+    st.subheader(playercaller_name_emoji.iloc[0], )
 with col2:
     subcol1, subcol2 = st.columns([1, 1])  # adjust this ratio to shift image left/right
     with subcol1:
