@@ -2,6 +2,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
+import numpy as np
 from datetime import date, time, datetime
 from scripts.data_load import (load_master, load_stats)
 from sidebar import sidebar
@@ -25,6 +26,10 @@ secondary = "#404040"
 stats_current_season = stats[stats["season"] == stat_season]
 master_stats_current = master.merge(stats_current_season, on="player_id", how="left")
 master_stats_current["position_x"] = master_stats_current["position_x"].astype(position_priority)
+
+games_check = master_stats_current["gp"].isna() | (master_stats_current["gp"] == 0)
+null_columns = ["points_freedom", "ppg_freedom", "points_uww", "ppg_uww", "pos_rank_freedom_tot", "rank_freedom_tot", "pos_rank_freedom_per", "rank_freedom_per","pos_rank_uww_tot", "rank_uww_tot", "pos_rank_uww_per", "rank_uww_per"]
+master_stats_current.loc[games_check, null_columns] = np.nan
 
 team_df_pos = master_stats_current.groupby(["team", "position_x"], as_index=False).agg(Season=("season", "first"), Players=("player_id", "count"), Age=("age", "mean"), Exp=("years_exp", "mean"), Thru=("year_final", "mean"), Tot_APY=("apy", "sum"), Avg_APY=("apy", "mean"), Round=("draft_round", "mean"), Overall=("draft_overall", "mean"), Pts_RRDL=("points_freedom", "sum"), PPP_RRDL=("points_freedom", "mean"), PPG_RRDL=("ppg_freedom", "mean"), Starters_RRDL=("starter_freedom", "sum"), Pts_UWW=("points_uww", "sum"), PPP_UWW=("points_uww", "mean"), PPG_UWW=("ppg_uww", "mean"), Starters_UWW=("starter_uww", "sum"))
 team_df = master_stats_current.groupby("team", as_index=False).agg(Season=("season", "first"), Players=("player_id", "count"), Age=("age", "mean"), Exp=("years_exp", "mean"), Thru=("year_final", "mean"), Tot_APY=("apy", "sum"), Avg_APY=("apy", "mean"), Round=("draft_round", "mean"), Overall=("draft_overall", "mean"), Pts_RRDL=("points_freedom", "sum"), PPP_RRDL=("points_freedom", "mean"), PPG_RRDL=("ppg_freedom", "mean"), Starters_RRDL=("starter_freedom", "sum"), Pts_UWW=("points_uww", "sum"), PPP_UWW=("points_uww", "mean"), PPG_UWW=("ppg_uww", "mean"), Starters_UWW=("starter_uww", "sum"))

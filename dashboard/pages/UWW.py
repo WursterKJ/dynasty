@@ -2,6 +2,7 @@ import pandas as pd
 import streamlit as st
 import plotly.express as px
 import plotly.graph_objects as go
+import numpy as np
 from datetime import date, time, datetime
 from scripts.data_load import (load_master, load_stats)
 from sidebar import sidebar
@@ -36,6 +37,11 @@ stats_current_season = stats[stats["season"] == stat_season]
 user_select_df = user_select_df.merge(stats_current_season, on="player_id", how="left")
 user_select_df["position_x"] = user_select_df["position_x"].astype(position_priority)
 
+# set all fields to nan if games is null/zero
+games_check_user = user_select_df["gp"].isna() | (user_select_df["gp"] == 0)
+null_columns = ["points_uww", "ppg_uww", "pos_rank_uww_tot", "rank_uww_tot", "pos_rank_uww_per", "rank_uww_per"]
+user_select_df.loc[games_check_user, null_columns] = np.nan
+
 team_master = master.groupby(["display_name_uww"], as_index=False).agg(age=("age", "mean"), depth=("depth_chart_order", "mean") , expire=("year_final", "mean"), apy=("apy", "mean"), tot_apy=("apy", "sum"), exp=("years_exp", "mean"))
 # individually since different orders (asc/desc)
 team_master["rank_age"] = team_master["age"].rank(method="min", ascending=True)
@@ -48,6 +54,9 @@ team_master_user = team_master.query("display_name_uww == @user_select")
 
 season_df = master.merge(stats, how="left", on="player_id").query("season == @stat_season")
 season_df["position_x"] = season_df["position_x"].astype(position_priority)
+# set all fields to nan if games is null/zero
+games_check = season_df["gp"].isna() | (season_df["gp"] == 0)
+season_df.loc[games_check, null_columns] = np.nan
 
 team_pivot = season_df.pivot_table(index="display_name_uww", columns="position_x", values="ppg_uww", aggfunc="mean").reset_index()
 team_stats = season_df.groupby(["display_name_uww"], as_index=False).agg(tot_pts=("points_uww", "sum"), tot_per_player=("points_uww", "mean"), ppg_player=("ppg_uww", "mean"), starter_uww=("starter_uww", "sum"))
