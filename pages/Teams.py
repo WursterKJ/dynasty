@@ -70,7 +70,7 @@ with col1:
 with col2:
     subcol1, subcol2 = st.columns([1, 1])  # adjust this ratio to shift image left/right
     with subcol1:
-        st.image(f"data/{team_select}.png")
+        st.image(f"logos/{team_select}.png")
 
 rank_Age = team_select_df["rank_Age"].iloc[0]
 rank_Exp = team_select_df["rank_Exp"].iloc[0]
