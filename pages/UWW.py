@@ -122,6 +122,7 @@ master_radar.update_layout(polar=dict(bgcolor="rgba(0,0,0,0)", domain=dict(x=[0.
 roster_table = user_select_df.sort_values(by=["position_x", "apy"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "age", "years_exp", "depth_chart_order","year_final", "apy", "draft_year", "draft_round", "draft_overall"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "age":"Age", "years_exp":"Exp", "depth_chart_order":"Depth", "year_final":"Thru", "apy":"APY", "draft_year":"Draft", "draft_round":"Round", "draft_overall":"Overall"})
 # lambda allows assigning variables within set, applies to all values in list/set as x, checks if any APY values null/na, if so return 0
 roster_table["APY"] = roster_table["APY"].apply(lambda x: f"${x:,.2f}" if pd.notna(x) else 0)
+roster_table = roster_table.drop_duplicates(["Player","Team"], keep="first")
 stat_table = user_select_df.sort_values(by=["position_x", "ppg_uww"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "gp", "points_uww", "pos_rank_uww_tot", "rank_uww_tot", "ppg_uww", "pos_rank_uww_per", "rank_uww_per"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "gp":"Games", "points_uww":"Points", "ppg_uww":"PPG", "pos_rank_uww_tot":"PRank", "rank_uww_tot":"Rank", "pos_rank_uww_per":"PRank Per", "rank_uww_per":"Rank Per"})
 
 st.title("The UWW Dynasty League")
