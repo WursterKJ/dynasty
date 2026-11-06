@@ -30,7 +30,7 @@ users = master["display_name_freedom"].dropna().unique()
 users = sorted(users, key=str.lower)
 
 user_select = st.sidebar.selectbox("Choose Manager:", users)
-focus_select = st.sidebar.selectbox("Choose Focus:", ["Roster", "Performance"])
+focus_select = st.sidebar.selectbox("Choose Focus:", ["Performance", "Roster"])
 
 user_select_df = master.query("display_name_freedom == @user_select")
 stats_current_season = stats[stats["season"] == stat_season]
@@ -103,12 +103,16 @@ team_master_user[["color_" + column for column in rank_master_values]] = team_ma
 team_stats_user[["color_" + column for column in rank_stat_values]] = team_stats_user[rank_stat_values].map(lambda value: "blue" if value <= 3 else "green" if value <= 6 else "orange" if value <=9 else "red")
 
 count_pos = user_select_df.value_counts("position_x").reset_index().sort_values("position_x")
-count_pos_all = user_select_df.groupby("position_x", )
 count_pos_bar = px.bar(count_pos, x="position_x", y="count", color_discrete_sequence=[primary], text="count")
 count_pos_bar.update_yaxes(title=None, showgrid=False, showticklabels=False)
 count_pos_bar.update_xaxes(title=None)
 count_pos_bar.update_traces(textposition="outside")
 
+count_start = user_select_df[user_select_df["starter_freedom"]==True].groupby("position_x").size().reindex(position_order, fill_value=0).reset_index(name="count")
+count_start_bar = px.bar(count_start, x="position_x", y="count", color_discrete_sequence=[primary], text="count", title="Fantasy Starters")
+count_start_bar.update_yaxes(title=None, showgrid=False, showticklabels=False)
+count_start_bar.update_xaxes(title=None)
+count_start_bar.update_traces(textposition="outside")
 
 master_radar = go.Figure()
 # last value repeated to close the shape
@@ -119,11 +123,21 @@ master_radar.update_layout(polar=dict(bgcolor="rgba(0,0,0,0)", domain=dict(x=[0.
         radialaxis=dict(visible=True, range=[10, 1], tick0=10, dtick=3, showticklabels=False, ticks="", linecolor="rgba(0,0,0,0)", gridcolor="rgba(128,128,128,0.3)"),
         angularaxis=dict(gridcolor="rgba(128,128,128,0.3)",linecolor="rgba(128,128,128,0.3)", showgrid=False, rotation=90, ticks="")))
 
+pos_radar = go.Figure()
+# last value repeated to close the shape
+# list values to include in chart
+pos_radar.add_trace(go.Scatterpolar(r=[rank_ppg_qb, rank_ppg_wr, rank_ppg_te, rank_ppg_rb, rank_ppg_qb], theta=["QB", "WR", "TE", "RB"], fill="toself", fillcolor=primary, mode="lines", line=dict(color=primary, width=1),))
+# polar is all about chart background format, bgcolor is transparent background, 
+pos_radar.update_layout(polar=dict(bgcolor="rgba(0,0,0,0)", domain=dict(x=[0.1, 0.9], y=[0.1, 0.9]),
+        radialaxis=dict(visible=True, range=[10, 1], tick0=10, dtick=3, showticklabels=False, ticks="", linecolor="rgba(0,0,0,0)", gridcolor="rgba(128,128,128,0.3)"),
+        angularaxis=dict(gridcolor="rgba(128,128,128,0.3)",linecolor="rgba(128,128,128,0.3)", showgrid=False, rotation=90, ticks="")))
+
 roster_table = user_select_df.sort_values(by=["position_x", "apy"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "age", "years_exp", "depth_chart_order","year_final", "apy", "draft_year", "draft_round", "draft_overall"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "age":"Age", "years_exp":"Exp", "depth_chart_order":"Depth", "year_final":"Thru", "apy":"APY", "draft_year":"Draft", "draft_round":"Round", "draft_overall":"Overall"})
 # lambda allows assigning variables within set, applies to all values in list/set as x, checks if any APY values null/na, if so return 0
 roster_table["APY"] = roster_table["APY"].apply(lambda x: f"${x:,.2f}" if pd.notna(x) else 0)
 roster_table = roster_table.drop_duplicates(["Player","Team"], keep="first")
 stat_table = user_select_df.sort_values(by=["position_x", "ppg_freedom"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "gp", "points_freedom", "pos_rank_freedom_tot", "rank_freedom_tot", "ppg_freedom", "pos_rank_freedom_per", "rank_freedom_per"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "gp":"Games", "points_freedom":"Points", "ppg_freedom":"PPG", "pos_rank_freedom_tot":"PRank", "rank_freedom_tot":"Rank", "pos_rank_freedom_per":"PRank Per", "rank_freedom_per":"Rank Per"})
+stat_table = stat_table.drop_duplicates(["Player", "Team"], keep="first")
 
 st.title("The Really Real Dynasty League")
 if focus_select == "Roster":
@@ -199,4 +213,9 @@ else:
         st.metric("TE:", ppg_te)
     with midrcol4:
         st.badge(str(rank_ppg_te), color=team_stats_user["color_rank_ppg_te"].iloc[0])
+    chart_col1, chart_col2 = st.columns(2)
+    with chart_col1:
+        st.plotly_chart(count_start_bar) 
+    with chart_col2:
+        st.plotly_chart(pos_radar)  
     st.dataframe(stat_table, hide_index=True, use_container_width=True)

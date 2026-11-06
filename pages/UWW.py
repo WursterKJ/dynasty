@@ -30,7 +30,7 @@ users = master["display_name_uww"].dropna().unique()
 users = sorted(users, key=str.lower)
 
 user_select = st.sidebar.selectbox("Choose Manager:", users)
-focus_select = st.sidebar.selectbox("Choose Focus:", ["Roster", "Performance"])
+focus_select = st.sidebar.selectbox("Choose Focus:", ["Performance", "Roster"])
 
 user_select_df = master.query("display_name_uww == @user_select")
 stats_current_season = stats[stats["season"] == stat_season]
@@ -109,6 +109,11 @@ count_pos_bar.update_yaxes(title=None, showgrid=False, showticklabels=False)
 count_pos_bar.update_xaxes(title=None)
 count_pos_bar.update_traces(textposition="outside")
 
+count_start = user_select_df[user_select_df["starter_uww"]==True].groupby("position_x").size().reindex(position_order, fill_value=0).reset_index(name="count")
+count_start_bar = px.bar(count_start, x="position_x", y="count", color_discrete_sequence=[primary], text="count", title="Fantasy Starters")
+count_start_bar.update_yaxes(title=None, showgrid=False, showticklabels=False)
+count_start_bar.update_xaxes(title=None)
+count_start_bar.update_traces(textposition="outside")
 
 master_radar = go.Figure()
 # last value repeated to close the shape
@@ -116,7 +121,16 @@ master_radar = go.Figure()
 master_radar.add_trace(go.Scatterpolar(r=[rank_avg_age, rank_avg_exp, rank_avg_expire, rank_avg_apy, rank_tot_apy, rank_avg_depth, rank_avg_age], theta=["Age", "Depth", "Average APY", "Total APY", "Thru", "Experience"], fill="toself", fillcolor=primary, mode="lines", line=dict(color=primary, width=1),))
 # polar is all about chart background format, bgcolor is transparent background, 
 master_radar.update_layout(polar=dict(bgcolor="rgba(0,0,0,0)", domain=dict(x=[0.1, 0.9], y=[0.1, 0.9]),
-        radialaxis=dict(visible=True, range=[10, 1], tick0=10, dtick=3, showticklabels=False, ticks="", linecolor="rgba(0,0,0,0)", gridcolor="rgba(128,128,128,0.3)"),
+        radialaxis=dict(visible=True, range=[12, 1], tick0=12, dtick=3, showticklabels=False, ticks="", linecolor="rgba(0,0,0,0)", gridcolor="rgba(128,128,128,0.3)"),
+        angularaxis=dict(gridcolor="rgba(128,128,128,0.3)",linecolor="rgba(128,128,128,0.3)", showgrid=False, rotation=90, ticks="")))
+
+pos_radar = go.Figure()
+# last value repeated to close the shape
+# list values to include in chart
+pos_radar.add_trace(go.Scatterpolar(r=[rank_ppg_qb, rank_ppg_wr, rank_ppg_te, rank_ppg_rb, rank_ppg_qb], theta=["QB", "WR", "TE", "RB"], fill="toself", fillcolor=primary, mode="lines", line=dict(color=primary, width=1),))
+# polar is all about chart background format, bgcolor is transparent background, 
+pos_radar.update_layout(polar=dict(bgcolor="rgba(0,0,0,0)", domain=dict(x=[0.1, 0.9], y=[0.1, 0.9]),
+        radialaxis=dict(visible=True, range=[12, 1], tick0=12, dtick=3, showticklabels=False, ticks="", linecolor="rgba(0,0,0,0)", gridcolor="rgba(128,128,128,0.3)"),
         angularaxis=dict(gridcolor="rgba(128,128,128,0.3)",linecolor="rgba(128,128,128,0.3)", showgrid=False, rotation=90, ticks="")))
 
 roster_table = user_select_df.sort_values(by=["position_x", "apy"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "age", "years_exp", "depth_chart_order","year_final", "apy", "draft_year", "draft_round", "draft_overall"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "age":"Age", "years_exp":"Exp", "depth_chart_order":"Depth", "year_final":"Thru", "apy":"APY", "draft_year":"Draft", "draft_round":"Round", "draft_overall":"Overall"})
@@ -124,6 +138,7 @@ roster_table = user_select_df.sort_values(by=["position_x", "apy"], ascending=[T
 roster_table["APY"] = roster_table["APY"].apply(lambda x: f"${x:,.2f}" if pd.notna(x) else 0)
 roster_table = roster_table.drop_duplicates(["Player","Team"], keep="first")
 stat_table = user_select_df.sort_values(by=["position_x", "ppg_uww"], ascending=[True, False]).filter(items=["position_x", "full_name", "team", "gp", "points_uww", "pos_rank_uww_tot", "rank_uww_tot", "ppg_uww", "pos_rank_uww_per", "rank_uww_per"]).rename(columns={"position_x":"Position", "full_name":"Player", "team":"Team", "gp":"Games", "points_uww":"Points", "ppg_uww":"PPG", "pos_rank_uww_tot":"PRank", "rank_uww_tot":"Rank", "pos_rank_uww_per":"PRank Per", "rank_uww_per":"Rank Per"})
+stat_table = stat_table.drop_duplicates(["Player", "Team"], keep="first")
 
 st.title("The UWW Dynasty League")
 if focus_select == "Roster":
@@ -199,4 +214,9 @@ else:
         st.metric("TE:", ppg_te)
     with midrcol4:
         st.badge(str(rank_ppg_te), color=team_stats_user["color_rank_ppg_te"].iloc[0])
+    chart_col1, chart_col2 = st.columns(2)
+    with chart_col1:
+        st.plotly_chart(count_start_bar) 
+    with chart_col2:
+        st.plotly_chart(pos_radar)
     st.dataframe(stat_table, hide_index=True, use_container_width=True)
